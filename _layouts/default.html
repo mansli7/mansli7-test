@@ -67,7 +67,7 @@
 
   <!-- Site styles -->
   <link rel="stylesheet" href="/assets/css/style.css?v=2026-03-18">
-  <script src="/assets/js/reading-plan-2026.js?v=2026-09-20"></script>
+  <script src="/assets/js/reading-plan-2026.js?v=2026-09-20-nt"></script>
   <script src="/assets/js/site-lang.js?v=2026-03-18"></script>
 </head>
 <body>
@@ -144,15 +144,15 @@
             '申':'deuteronomy','書':'joshua','士':'judges','得':'ruth',
             '拉':'ezra','尼':'nehemiah','斯':'esther','伯':'job',
             '詩':'psalms','箴':'proverbs','傳':'ecclesiastes','歌':'song-of-solomon','賽':'isaiah','耶':'jeremiah',
-            '哀':'lamentations','結':'ezekiel','但':'daniel','何':'hosea','約珥':'joel','阿摩司':'amos','俄巴底亞':'obadiah','約拿':'jonah','彌迦':'micah','那鴻':'nahum','哈巴谷':'habakkuk','西番雅':'zephaniah','哈該':'haggai','撒迦利亞':'zechariah','瑪拉基':'malachi' }
+            '哀':'lamentations','結':'ezekiel','但':'daniel','何':'hosea','約珥':'joel','阿摩司':'amos','俄巴底亞':'obadiah','約拿':'jonah','彌迦':'micah','那鴻':'nahum','哈巴谷':'habakkuk','西番雅':'zephaniah','哈該':'haggai','撒迦利亞':'zechariah','瑪拉基':'malachi','太':'matthew','可':'mark','路':'luke','約':'john','徒':'acts','羅':'romans','林前':'1-corinthians','林後':'2-corinthians','加':'galatians','弗':'ephesians','腓':'philippians','西':'colossians','帖前':'1-thessalonians','帖後':'2-thessalonians','提前':'1-timothy','提後':'2-timothy','多':'titus','門':'philemon','來':'hebrews','雅':'james','彼前':'1-peter','彼後':'2-peter','約壹':'1-john','約貳':'2-john','約參':'3-john','猶':'jude','啟':'revelation' }
         : { '1Sa':'1-samuel','2Sa':'2-samuel','1Ki':'1-kings','2Ki':'2-kings',
             '1Ch':'1-chronicles','2Ch':'2-chronicles',
             'Ge':'genesis','Ex':'exodus','Lev':'leviticus','Nu':'numbers',
             'Dt':'deuteronomy','Jos':'joshua','Jdg':'judges','Ru':'ruth',
             'Ezr':'ezra','Ne':'nehemiah','Est':'esther','Job':'job',
             'Ps':'psalms','Pr':'proverbs','Ecc':'ecclesiastes','SS':'song-of-solomon','Isa':'isaiah','Jer':'jeremiah',
-            'La':'lamentations','Eze':'ezekiel','Da':'daniel','Hos':'hosea','Joel':'joel','Am':'amos','Ob':'obadiah','Jnh':'jonah','Mic':'micah','Na':'nahum','Hab':'habakkuk','Zep':'zephaniah','Hag':'haggai','Zec':'zechariah','Mal':'malachi' };
-      var bookKeys = Object.keys(bookMap);
+            'La':'lamentations','Eze':'ezekiel','Da':'daniel','Hos':'hosea','Joel':'joel','Am':'amos','Ob':'obadiah','Jnh':'jonah','Mic':'micah','Na':'nahum','Hab':'habakkuk','Zep':'zephaniah','Hag':'haggai','Zec':'zechariah','Mal':'malachi','Mt':'matthew','Mk':'mark','Lk':'luke','Jn':'john','Ac':'acts','Ro':'romans','1Co':'1-corinthians','2Co':'2-corinthians','Gal':'galatians','Eph':'ephesians','Php':'philippians','Col':'colossians','1Th':'1-thessalonians','2Th':'2-thessalonians','1Ti':'1-timothy','2Ti':'2-timothy','Tit':'titus','Phm':'philemon','Heb':'hebrews','Jas':'james','1Pe':'1-peter','2Pe':'2-peter','1Jn':'1-john','2Jn':'2-john','3Jn':'3-john','Jude':'jude','Rev':'revelation' };
+      var bookKeys = Object.keys(bookMap).sort(function(a, b) { return b.length - a.length; });
 
       var now = new Date();
       var todayM = now.getMonth() + 1;

@@ -32,10 +32,10 @@ title: Study Questions
 <div class="bg-slate-50 rounded-3xl border border-slate-200 p-6 mb-8">
   <p class="card-en text-xs font-bold tracking-widest text-slate-400 uppercase mb-3">Current Coverage</p>
   <p class="card-zh text-xs font-bold tracking-widest text-slate-400 uppercase mb-3">目前涵蓋範圍</p>
-      <p class="card-en text-sm text-slate-600 leading-relaxed mb-2">Prepared study-question sets are currently available for the books listed below.</p>
-      <p class="card-zh text-sm text-slate-600 leading-relaxed mb-2">目前已提供的學習問題列在下方。</p>
-  <p class="card-en text-sm text-slate-600 leading-relaxed mb-0">Later books still appear in the calendar and reading plan, but their question sets remain marked as coming soon until those guides are published.</p>
-  <p class="card-zh text-sm text-slate-600 leading-relaxed mb-0">後續書卷仍保留在月曆和讀經計劃中，但其問題集會先標示為即將提供，直到整理完成為止。</p>
+        <p class="card-en text-sm text-slate-600 leading-relaxed mb-2">Prepared study-question sets are available for all 66 books of the Bible.</p>
+        <p class="card-zh text-sm text-slate-600 leading-relaxed mb-2">目前已提供全本聖經六十六卷書的學習問題。</p>
+      <p class="card-en text-sm text-slate-600 leading-relaxed mb-0">Open any book below, or use the calendar to see the questions matched to each day’s reading.</p>
+      <p class="card-zh text-sm text-slate-600 leading-relaxed mb-0">可從下方打開任何書卷，也可使用月曆查看每天讀經範圍所對應的問題。</p>
 </div>
 
 <p class="card-en text-xs font-bold tracking-widest text-slate-400 uppercase mb-4">Available Now</p>
@@ -451,22 +451,299 @@ title: Study Questions
   </div>
 </div>
 
-<p class="card-en text-xs font-bold tracking-widest text-slate-400 uppercase mb-4">Coming Soon</p>
-<p class="card-zh text-xs font-bold tracking-widest text-slate-400 uppercase mb-4">即將提供</p>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-8">
-  <div class="bg-white rounded-xl border border-slate-100 p-5 opacity-60">
-    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 Four Gospels (Matthew – John)</h3>
-    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 四福音 (馬太福音至約翰福音)</h3>
-    <p class="card-en text-xs text-slate-400 mb-0">Question sets following the life, teaching, death, and resurrection of Jesus.</p>
-    <p class="card-zh text-xs text-slate-400 mb-0">將整理跟隨耶穌生平、教導、受死與復活的問題集。</p>
+<!-- sq-group:gospels-acts:start -->
+<h2 class="card-en">📖 Gospels & Acts (Matthew – Acts)</h2>
+<h2 class="card-zh">📖 福音書與使徒行傳 (馬太福音至使徒行傳)</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 mb-8 mt-4">
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 Matthew</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 馬太福音</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for Matthew.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">馬太福音的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/matthew" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/matthew" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
   </div>
-  <div class="bg-white rounded-xl border border-slate-100 p-5 opacity-60">
-    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 Epistles &amp; Revelation</h3>
-    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 書信與啟示錄</h3>
-    <p class="card-en text-xs text-slate-400 mb-0">Study guides for doctrine, church life, perseverance, and the final hope of Christ’s victory.</p>
-    <p class="card-zh text-xs text-slate-400 mb-0">將整理教義、教會生活、忍耐，以及基督終極得勝盼望的查考引導。</p>
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 Mark</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 馬可福音</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for Mark.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">馬可福音的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/mark" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/mark" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
   </div>
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 Luke</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 路加福音</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for Luke.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">路加福音的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/luke" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/luke" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
+  </div>
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 John</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 約翰福音</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for John.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">約翰福音的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/john" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/john" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
+  </div>
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 Acts</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 使徒行傳</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for Acts.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">使徒行傳的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/acts" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/acts" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
+  </div>
+  <!-- sq-group:gospels-acts:cards -->
 </div>
+<!-- sq-group:gospels-acts:end -->
+
+<!-- sq-group:pauline-epistles:start -->
+<h2 class="card-en">📖 Pauline Epistles (Romans – Philemon)</h2>
+<h2 class="card-zh">📖 保羅書信 (羅馬書至腓利門書)</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 mb-8 mt-4">
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 Romans</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 羅馬書</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for Romans.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">羅馬書的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/romans" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/romans" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
+  </div>
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 1 Corinthians</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 哥林多前書</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for 1 Corinthians.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">哥林多前書的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/1-corinthians" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/1-corinthians" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
+  </div>
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 2 Corinthians</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 哥林多後書</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for 2 Corinthians.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">哥林多後書的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/2-corinthians" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/2-corinthians" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
+  </div>
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 Galatians</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 加拉太書</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for Galatians.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">加拉太書的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/galatians" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/galatians" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
+  </div>
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 Ephesians</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 以弗所書</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for Ephesians.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">以弗所書的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/ephesians" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/ephesians" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
+  </div>
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 Philippians</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 腓立比書</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for Philippians.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">腓立比書的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/philippians" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/philippians" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
+  </div>
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 Colossians</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 歌羅西書</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for Colossians.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">歌羅西書的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/colossians" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/colossians" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
+  </div>
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 1 Thessalonians</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 帖撒羅尼迦前書</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for 1 Thessalonians.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">帖撒羅尼迦前書的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/1-thessalonians" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/1-thessalonians" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
+  </div>
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 2 Thessalonians</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 帖撒羅尼迦後書</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for 2 Thessalonians.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">帖撒羅尼迦後書的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/2-thessalonians" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/2-thessalonians" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
+  </div>
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 1 Timothy</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 提摩太前書</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for 1 Timothy.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">提摩太前書的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/1-timothy" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/1-timothy" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
+  </div>
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 2 Timothy</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 提摩太後書</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for 2 Timothy.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">提摩太後書的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/2-timothy" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/2-timothy" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
+  </div>
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 Titus</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 提多書</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for Titus.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">提多書的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/titus" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/titus" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
+  </div>
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 Philemon</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 腓利門書</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for Philemon.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">腓利門書的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/philemon" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/philemon" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
+  </div>
+  <!-- sq-group:pauline-epistles:cards -->
+</div>
+<!-- sq-group:pauline-epistles:end -->
+
+<!-- sq-group:general-epistles-revelation:start -->
+<h2 class="card-en">📖 General Epistles & Revelation (Hebrews – Revelation)</h2>
+<h2 class="card-zh">📖 普通書信與啟示錄 (希伯來書至啟示錄)</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 mb-8 mt-4">
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 Hebrews</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 希伯來書</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for Hebrews.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">希伯來書的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/hebrews" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/hebrews" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
+  </div>
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 James</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 雅各書</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for James.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">雅各書的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/james" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/james" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
+  </div>
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 1 Peter</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 彼得前書</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for 1 Peter.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">彼得前書的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/1-peter" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/1-peter" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
+  </div>
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 2 Peter</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 彼得後書</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for 2 Peter.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">彼得後書的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/2-peter" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/2-peter" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
+  </div>
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 1 John</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 約翰一書</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for 1 John.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">約翰一書的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/1-john" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/1-john" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
+  </div>
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 2 John</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 約翰二書</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for 2 John.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">約翰二書的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/2-john" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/2-john" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
+  </div>
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 3 John</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 約翰三書</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for 3 John.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">約翰三書的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/3-john" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/3-john" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
+  </div>
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 Jude</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 猶大書</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for Jude.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">猶大書的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/jude" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/jude" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
+  </div>
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 Revelation</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 啟示錄</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Study questions for Revelation.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">啟示錄的學習問題。</p>
+    <div class="flex gap-2">
+      <a href="en/revelation" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/revelation" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
+  </div>
+  <!-- sq-group:general-epistles-revelation:cards -->
+</div>
+<!-- sq-group:general-epistles-revelation:end -->
 
 <div class="bg-slate-50 rounded-3xl border border-slate-200 p-6 mb-8">
   <p class="card-en text-xs font-bold tracking-widest text-slate-400 uppercase mb-3">How to Use These Questions</p>

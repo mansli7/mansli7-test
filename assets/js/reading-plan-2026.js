@@ -5,12 +5,12 @@
 
   var n = {"Ge":["Genesis","創世記"],"Ex":["Exodus","出埃及記"],"Lev":["Leviticus","利未記"],"Nu":["Numbers","民數記"],"Dt":["Deuteronomy","申命記"],"Jos":["Joshua","約書亞記"],"Jdg":["Judges","士師記"],"Ru":["Ruth","路得記"],"1Sa":["1 Samuel","撒母耳記上"],"2Sa":["2 Samuel","撒母耳記下"],"1Ki":["1 Kings","列王紀上"],"2Ki":["2 Kings","列王紀下"],"1Ch":["1 Chronicles","歷代志上"],"2Ch":["2 Chronicles","歷代志下"],"Ezr":["Ezra","以斯拉記"],"Ne":["Nehemiah","尼希米記"],"Est":["Esther","以斯帖記"],"Job":["Job","約伯記"],"Ps":["Psalms","詩篇"],"Pr":["Proverbs","箴言"],"Ecc":["Ecclesiastes","傳道書"],"SS":["Song of Solomon","雅歌"],"Isa":["Isaiah","以賽亞書"],"Jer":["Jeremiah","耶利米書"],"La":["Lamentations","耶利米哀歌"],"Eze":["Ezekiel","以西結書"],"Da":["Daniel","但以理書"],"Hos":["Hosea","何西阿書"],"Joel":["Joel","約珥書"],"Am":["Amos","阿摩司書"],"Ob":["Obadiah","俄巴底亞書"],"Jnh":["Jonah","約拿書"],"Mic":["Micah","彌迦書"],"Na":["Nahum","那鴻書"],"Hab":["Habakkuk","哈巴谷書"],"Zep":["Zephaniah","西番雅書"],"Hag":["Haggai","哈該書"],"Zec":["Zechariah","撒迦利亞書"],"Mal":["Malachi","瑪拉基書"],"Mt":["Matthew","馬太福音"],"Mk":["Mark","馬可福音"],"Lk":["Luke","路加福音"],"Jn":["John","約翰福音"],"Ac":["Acts","使徒行傳"],"Ro":["Romans","羅馬書"],"1Co":["1 Corinthians","哥林多前書"],"2Co":["2 Corinthians","哥林多後書"],"Gal":["Galatians","加拉太書"],"Eph":["Ephesians","以弗所書"],"Php":["Philippians","腓立比書"],"Col":["Colossians","歌羅西書"],"1Th":["1 Thessalonians","帖撒羅尼迦前書"],"2Th":["2 Thessalonians","帖撒羅尼迦後書"],"1Ti":["1 Timothy","提摩太前書"],"2Ti":["2 Timothy","提摩太後書"],"Tit":["Titus","提多書"],"Phm":["Philemon","腓利門書"],"Heb":["Hebrews","希伯來書"],"Jas":["James","雅各書"],"1Pe":["1 Peter","彼得前書"],"2Pe":["2 Peter","彼得後書"],"1Jn":["1 John","約翰一書"],"2Jn":["2 John","約翰二書"],"3Jn":["3 John","約翰三書"],"Jude":["Jude","猶大書"],"Rev":["Revelation","啟示錄"]};
 
-  var sq = {"Ge":"genesis","Ex":"exodus","Lev":"leviticus","Nu":"numbers","Dt":"deuteronomy","Jos":"joshua","Jdg":"judges","Ru":"ruth","1Sa":"1-samuel","2Sa":"2-samuel","1Ki":"1-kings","2Ki":"2-kings","1Ch":"1-chronicles","2Ch":"2-chronicles","Ezr":"ezra","Ne":"nehemiah","Est":"esther","Job":"job","Ps":"psalms","Pr":"proverbs","Ecc":"ecclesiastes","SS":"song-of-solomon","Isa":"isaiah","Jer":"jeremiah","La":"lamentations","Eze":"ezekiel","Da":"daniel","Hos":"hosea","Joel":"joel","Am":"amos","Ob":"obadiah","Jnh":"jonah","Mic":"micah","Na":"nahum","Hab":"habakkuk","Zep":"zephaniah","Hag":"haggai","Zec":"zechariah","Mal":"malachi"};
+  var sq = {"Ge":"genesis","Ex":"exodus","Lev":"leviticus","Nu":"numbers","Dt":"deuteronomy","Jos":"joshua","Jdg":"judges","Ru":"ruth","1Sa":"1-samuel","2Sa":"2-samuel","1Ki":"1-kings","2Ki":"2-kings","1Ch":"1-chronicles","2Ch":"2-chronicles","Ezr":"ezra","Ne":"nehemiah","Est":"esther","Job":"job","Ps":"psalms","Pr":"proverbs","Ecc":"ecclesiastes","SS":"song-of-solomon","Isa":"isaiah","Jer":"jeremiah","La":"lamentations","Eze":"ezekiel","Da":"daniel","Hos":"hosea","Joel":"joel","Am":"amos","Ob":"obadiah","Jnh":"jonah","Mic":"micah","Na":"nahum","Hab":"habakkuk","Zep":"zephaniah","Hag":"haggai","Zec":"zechariah","Mal":"malachi","Mt":"matthew","Mk":"mark","Lk":"luke","Jn":"john","Ac":"acts","Ro":"romans","1Co":"1-corinthians","2Co":"2-corinthians","Gal":"galatians","Eph":"ephesians","Php":"philippians","Col":"colossians","1Th":"1-thessalonians","2Th":"2-thessalonians","1Ti":"1-timothy","2Ti":"2-timothy","Tit":"titus","Phm":"philemon","Heb":"hebrews","Jas":"james","1Pe":"1-peter","2Pe":"2-peter","1Jn":"1-john","2Jn":"2-john","3Jn":"3-john","Jude":"jude","Rev":"revelation"};
   var sqCoverage = {
     availableCount: Object.keys(sq).length,
     totalCount: Object.keys(n).length,
-    availableRangeEn: 'Genesis through Malachi',
-    availableRangeZh: '創世記到瑪拉基書'
+    availableRangeEn: 'Genesis through Revelation',
+    availableRangeZh: '創世記到啟示錄'
   };
 
   var bgNames = {"Ge":"Genesis","Ex":"Exodus","Lev":"Leviticus","Nu":"Numbers","Dt":"Deuteronomy","Jos":"Joshua","Jdg":"Judges","Ru":"Ruth","1Sa":"1+Samuel","2Sa":"2+Samuel","1Ki":"1+Kings","2Ki":"2+Kings","1Ch":"1+Chronicles","2Ch":"2+Chronicles","Ezr":"Ezra","Ne":"Nehemiah","Est":"Esther","Job":"Job","Ps":"Psalms","Pr":"Proverbs","Ecc":"Ecclesiastes","SS":"Song+of+Solomon","Isa":"Isaiah","Jer":"Jeremiah","La":"Lamentations","Eze":"Ezekiel","Da":"Daniel","Hos":"Hosea","Joel":"Joel","Am":"Amos","Ob":"Obadiah","Jnh":"Jonah","Mic":"Micah","Na":"Nahum","Hab":"Habakkuk","Zep":"Zephaniah","Hag":"Haggai","Zec":"Zechariah","Mal":"Malachi","Mt":"Matthew","Mk":"Mark","Lk":"Luke","Jn":"John","Ac":"Acts","Ro":"Romans","1Co":"1+Corinthians","2Co":"2+Corinthians","Gal":"Galatians","Eph":"Ephesians","Php":"Philippians","Col":"Colossians","1Th":"1+Thessalonians","2Th":"2+Thessalonians","1Ti":"1+Timothy","2Ti":"2+Timothy","Tit":"Titus","Phm":"Philemon","Heb":"Hebrews","Jas":"James","1Pe":"1+Peter","2Pe":"2+Peter","1Jn":"1+John","2Jn":"2+John","3Jn":"3+John","Jude":"Jude","Rev":"Revelation"};
@@ -39,10 +39,17 @@
     return { key: 'coming-soon', available: false, en: 'Coming soon', zh: '即將提供' };
   }
 
+  function combinedStudyQuestionStatus(abbrs) {
+    var available = abbrs.every(function(abbr) { return Boolean(sq[abbr]); });
+    return available
+      ? { key: 'available', available: true, en: 'Available now', zh: '已提供' }
+      : { key: 'coming-soon', available: false, en: 'Coming soon', zh: '即將提供' };
+  }
+
   function parse(code) {
     if (code === 'Review') return {code:code, en:'📋 Review Day', zh:'📋 複習日', abbr:null, chapters:'', sq:null, bg:null, sqStatus:{ key:'review', available:false, en:'Review day', zh:'複習日' }};
-    if (code === '2Jn-3Jn') return {code:code, en:'2 John & 3 John', zh:'約翰二書 & 約翰三書', abbr:'2Jn', chapters:'', sq:null, bg:'https://www.biblegateway.com/passage/?search=2+John&version=NIV', sqStatus:studyQuestionStatus('2Jn')};
-    if (code === 'Tit1-3-Phm') return {code:code, en:'Titus 1–3 & Philemon', zh:'提多書 1–3 & 腓利門書', abbr:'Tit', chapters:'', sq:null, bg:'https://www.biblegateway.com/passage/?search=Titus+1&version=NIV', sqStatus:studyQuestionStatus('Tit')};
+    if (code === '2Jn-3Jn') return {code:code, en:'2 John & 3 John', zh:'約翰二書 & 約翰三書', abbr:'2Jn', chapters:'', sq:sq['2Jn'] || null, bg:'https://www.biblegateway.com/passage/?search=2+John&version=NIV', sqStatus:combinedStudyQuestionStatus(['2Jn','3Jn'])};
+    if (code === 'Tit1-3-Phm') return {code:code, en:'Titus 1–3 & Philemon', zh:'提多書 1–3 & 腓利門書', abbr:'Tit', chapters:'', sq:sq['Tit'] || null, bg:'https://www.biblegateway.com/passage/?search=Titus+1&version=NIV', sqStatus:combinedStudyQuestionStatus(['Tit','Phm'])};
 
     var keys = Object.keys(n).sort(function(a, b) { return b.length - a.length; });
     for (var i = 0; i < keys.length; i++) {
@@ -250,6 +257,23 @@
   // Get prompts for a reading code. Returns a Promise resolving to { en: [..], zh: [..] } or null
   function getPromptsFor(code) {
     if (!code) return Promise.resolve(null);
+    var combinedCodes = code === 'Tit1-3-Phm'
+      ? ['Tit1-3', 'Phm']
+      : (code === '2Jn-3Jn' ? ['2Jn', '3Jn'] : null);
+    if (combinedCodes) {
+      return Promise.all(combinedCodes.map(getPromptsFor)).then(function(results) {
+        var combined = { en: [], zh: [] };
+        results.forEach(function(result) {
+          if (!result) return;
+          if (result.en) combined.en = combined.en.concat(result.en);
+          if (result.zh) combined.zh = combined.zh.concat(result.zh);
+        });
+        return {
+          en: combined.en.length ? combined.en : null,
+          zh: combined.zh.length ? combined.zh : null
+        };
+      });
+    }
     // If exact prompts exist in the in-memory map and both languages are present, return immediately.
     // If one language (e.g. `zh`) is missing, continue to attempt loading per-book JSON so we can fill missing fields.
     var hqMap = window.Mansli7Reading2026 && window.Mansli7Reading2026.hq ? window.Mansli7Reading2026.hq : {};
