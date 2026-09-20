@@ -1,0 +1,35 @@
+---
+layout: default
+title: Malachi Study Questions
+---
+
+# Malachi Study Questions
+
+<div style="margin-bottom: 2rem;">
+  <a href="../" class="cta" style="background: linear-gradient(180deg, #8b7355, #6d5a42);">← Back to Study Questions</a>
+  <a href="../zh/malachi" class="cta" style="margin-left: 1rem;">中文版本</a>
+</div>
+
+---
+
+Malachi 1-4
+
+Which land will be called “the Wicked Land,” and whose people will be called “a people always under the wrath of the LORD”?
+
+Who said, “What a burden!” What did they regard as a burden?
+
+Judah has been unfaithful. A detestable thing has been committed in Israel and in Jerusalem, what is it?
+
+What does the LORD, the God of Israel, hate, and what kind of man does He hate? (NIV is different with footnote)
+
+“Who can endure the day of His coming? Who can stand when He appears?” Why, and who is “He” in this passage?
+
+In what way are the people of Judah robbing the LORD of His offerings??
+
+Who listened and heard, and what kind of people were recorded in the book of remembrance before Him?
+
+Before the great and dreadful day of the LORD comes, whom will He send to you? Whose hearts will he turn toward whom, and what will happen if this does not occur?
+
+---
+
+<p style="text-align: center; margin-top: 3rem;"></p>

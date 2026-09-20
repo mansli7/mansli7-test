@@ -276,8 +276,8 @@ title: Study Questions
   </div>
 </div>
 
-<h2 class="card-en">📖 Prophetic Books (Isaiah – Zechariah)</h2>
-<h2 class="card-zh">📖 先知書 (以賽亞書至撒迦利亞書)</h2>
+<h2 class="card-en">📖 Prophetic Books (Isaiah – Malachi)</h2>
+<h2 class="card-zh">📖 先知書 (以賽亞書至瑪拉基書)</h2>
 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 mb-8 mt-4">
   <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
     <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 Isaiah</h3>
@@ -439,17 +439,21 @@ title: Study Questions
       <a href="zh/zechariah" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
     </div>
   </div>
+  <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
+    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 Malachi</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 瑪拉基書</h3>
+    <p class="card-en text-xs text-slate-400 mb-3">Covenant faithfulness, worship, justice, and the promised messenger.</p>
+    <p class="card-zh text-xs text-slate-400 mb-3">盟約忠誠、敬拜、公義，以及應許的使者。</p>
+    <div class="flex gap-2">
+      <a href="en/malachi" class="cta card-en" style="font-size:0.8rem;padding:0.4rem 0.75rem;">Open Book Page</a>
+      <a href="zh/malachi" class="cta card-zh" style="font-size:0.8rem;padding:0.4rem 0.75rem;">打開書卷頁</a>
+    </div>
+  </div>
 </div>
 
 <p class="card-en text-xs font-bold tracking-widest text-slate-400 uppercase mb-4">Coming Soon</p>
 <p class="card-zh text-xs font-bold tracking-widest text-slate-400 uppercase mb-4">即將提供</p>
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-8">
-  <div class="bg-white rounded-xl border border-slate-100 p-5 opacity-60">
-    <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 Remaining Prophetic Books (Malachi – Malachi)</h3>
-    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 其餘先知書 (瑪拉基書至瑪拉基書)</h3>
-    <p class="card-en text-xs text-slate-400 mb-0">Guides for prophetic warnings, covenant themes, judgment, restoration, and eschatological promises.</p>
-    <p class="card-zh text-xs text-slate-400 mb-0">將整理先知警告、盟約主題、審判、復興，以及末世論應許的引導問題。</p>
-  </div>
   <div class="bg-white rounded-xl border border-slate-100 p-5 opacity-60">
     <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 Four Gospels (Matthew – John)</h3>
     <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 四福音 (馬太福音至約翰福音)</h3>
