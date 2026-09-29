@@ -35,8 +35,6 @@ title: 2027 Bible Reading Calendar
 
 <div id="calendarGrid" class="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3"></div>
 
-<div id="questionPanel" class="mt-8 hidden rounded-lg border border-slate-200 bg-white p-5 shadow-sm" aria-live="polite"></div>
-
 <script>
 (function() {
   var YEAR = 2027;
@@ -54,7 +52,6 @@ title: 2027 Bible Reading Calendar
   var status = document.getElementById('calendarStatus');
   var grid = document.getElementById('calendarGrid');
   var label = document.getElementById('monthLabel');
-  var panel = document.getElementById('questionPanel');
 
   function dateKey(month, day) {
     return month + '/' + day;
@@ -98,33 +95,43 @@ title: 2027 Bible Reading Calendar
       } else {
         html += '<p class="mb-3 text-xs text-slate-400">' + entry.unit.id + ' · ' + entry.code + '</p>';
         html += '<button type="button" class="question-button rounded-md border border-indigo-200 bg-indigo-50 px-3 py-2 text-sm font-medium text-indigo-700 hover:bg-indigo-100" data-code="' + entry.code + '">' + (languageIsZh ? '查看學習問題' : 'View Study Questions') + '</button>';
+        html += '<div class="question-panel mt-4 hidden border-t border-slate-200 pt-4" aria-live="polite"></div>';
       }
       html += '</div></article>';
     }
     grid.innerHTML = html;
     grid.querySelectorAll('.question-button').forEach(function(button) {
-      button.addEventListener('click', function() { showQuestions(button.getAttribute('data-code')); });
+      button.addEventListener('click', function() { showQuestions(button); });
     });
   }
 
-  function showQuestions(code) {
+  function showQuestions(button) {
+    var code = button.getAttribute('data-code');
+    var cardPanel = button.parentNode.querySelector('.question-panel');
+    var wasOpen = !cardPanel.classList.contains('hidden');
+    grid.querySelectorAll('.question-panel').forEach(function(otherPanel) {
+      otherPanel.classList.add('hidden');
+      otherPanel.innerHTML = '';
+    });
+    if (wasOpen) return;
+
     var parsed = readingPlan.parse(code);
-    panel.classList.remove('hidden');
-    panel.innerHTML = '<p class="mb-1 text-xs font-bold uppercase tracking-widest text-indigo-500">' + (languageIsZh ? '學習問題' : 'Study Questions') + '</p><h2 class="mb-3 text-xl font-bold text-slate-900">' + (languageIsZh ? parsed.zh : parsed.en) + '</h2><p class="text-sm text-slate-500">' + (languageIsZh ? '正在載入問題...' : 'Loading questions...') + '</p>';
+    cardPanel.classList.remove('hidden');
+    cardPanel.innerHTML = '<p class="mb-1 text-xs font-bold uppercase tracking-widest text-indigo-500">' + (languageIsZh ? '學習問題' : 'Study Questions') + '</p><h3 class="mb-3 text-base font-bold text-slate-900">' + (languageIsZh ? parsed.zh : parsed.en) + '</h3><p class="text-sm text-slate-500">' + (languageIsZh ? '正在載入問題...' : 'Loading questions...') + '</p>';
     readingPlan.getPromptsFor(code).then(function(result) {
+      if (cardPanel.classList.contains('hidden')) return;
       var prompts = result && (languageIsZh ? result.zh : result.en);
       var href = readingPlan.exactSqHref(languageIsZh ? 'zh' : 'en', parsed);
-      var html = '<p class="mb-1 text-xs font-bold uppercase tracking-widest text-indigo-500">' + (languageIsZh ? '學習問題' : 'Study Questions') + '</p><h2 class="mb-3 text-xl font-bold text-slate-900">' + (languageIsZh ? parsed.zh : parsed.en) + '</h2>';
+      var html = '<p class="mb-1 text-xs font-bold uppercase tracking-widest text-indigo-500">' + (languageIsZh ? '學習問題' : 'Study Questions') + '</p><h3 class="mb-3 text-base font-bold text-slate-900">' + (languageIsZh ? parsed.zh : parsed.en) + '</h3>';
       if (prompts && prompts.length) {
         html += '<ol class="list-decimal space-y-3 pl-5 text-sm leading-relaxed text-slate-700">' + prompts.map(function(prompt) { return '<li>' + prompt + '</li>'; }).join('') + '</ol>';
       } else {
         html += '<p class="text-sm text-slate-500">' + (languageIsZh ? '此書卷目前沒有可載入的對應問題。' : 'No matching prompts are currently available for this reading.') + '</p>';
       }
       html += '<a class="mt-4 inline-block text-sm font-medium text-indigo-600 hover:text-indigo-800" href="' + href + '">' + (languageIsZh ? '開啟完整書卷問題頁面 →' : 'Open full book question page →') + '</a>';
-      panel.innerHTML = html;
-      panel.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      cardPanel.innerHTML = html;
     }).catch(function() {
-      panel.innerHTML = '<p class="text-sm text-red-700">Could not load study questions for this reading.</p>';
+      cardPanel.innerHTML = '<p class="text-sm text-red-700">Could not load study questions for this reading.</p>';
     });
   }
 
