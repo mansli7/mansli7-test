@@ -25,6 +25,8 @@ title: Annual Reading Plans
     <div class="flex gap-2 flex-wrap">
       <a href="2026-calendar" class="cta card-en">📅 Open Calendar →</a>
       <a href="2026-calendar" class="cta card-zh">📅 打開月曆 →</a>
+      <a href="2027-calendar" class="cta-outline card-en">Test 2027 Calendar</a>
+      <a href="2027-calendar" class="cta-outline card-zh">測試 2027 月曆</a>
       <a href="/bs/sq/" class="cta-outline card-en">❓ Open Study Questions</a>
       <a href="/bs/sq/" class="cta-outline card-zh">❓ 打開學習問題</a>
     </div>
