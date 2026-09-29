@@ -2,6 +2,9 @@ theme: jekyll-theme-cayman
 title: Mansli7 Portal
 description: Bible Study and Technology Sharing
 author: Mansli7
+url: "https://mansli7.github.io"
+baseurl: "/mansli7-test"
+repository: mansli7/mansli7-test
 title_separator: "|"
 plugins:
   - jekyll-seo-tag

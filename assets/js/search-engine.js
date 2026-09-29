@@ -3,6 +3,7 @@
 //      SearchEngine.search(query, version, cb)
 
 window.SearchEngine = (function(){
+  const baseUrl = window.Mansli7BaseUrl || '';
   const indexes = {}; // version -> merged tokenIndex (token -> [ids])
   const booksCache = {}; // version:book_id -> Promise that resolves to array of verses
   let globalBibleIndex = null;
@@ -21,7 +22,7 @@ window.SearchEngine = (function(){
   async function loadTokenIndexesForVersion(version){
     if(indexes[version]) return indexes[version];
     // load global index to find books for this version
-    const idxRes = await fetch('/data/bible/index.json');
+    const idxRes = await fetch(baseUrl + '/data/bible/index.json');
     const idx = await idxRes.json();
     globalBibleIndex = idx;
     const books = idx.books.filter(b=>b.version===version);
@@ -33,7 +34,7 @@ window.SearchEngine = (function(){
       const ver = parts[3] || version;
       const bookfname = parts[4] || (b.id + '-tokens.json');
       const bookid = b.id;
-      const tokenUrl = `/data/bible/${lang}/${ver}/${bookid}-tokens.json`;
+      const tokenUrl = `${baseUrl}/data/bible/${lang}/${ver}/${bookid}-tokens.json`;
       try{
         const res = await fetch(tokenUrl);
         if(!res.ok) return;

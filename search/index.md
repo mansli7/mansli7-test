@@ -142,7 +142,7 @@ let searchData = [];
 let searchIndexLoaded = false;
 
 // Load search data
-fetch('/search.json?v=' + Date.now())
+fetch((window.Mansli7BaseUrl || '') + '/search.json?v=' + Date.now())
   .then(response => {
     if (!response.ok) {
       throw new Error('Search index not found (HTTP ' + response.status + ')');
@@ -316,7 +316,7 @@ if (queryParam) {
 </script>
 
 <!-- Load bible search engine and wire the UI -->
-<script src="/assets/js/search-engine.js"></script>
+<script src="{{ '/assets/js/search-engine.js' | relative_url }}"></script>
 <script>
 (function(){
   const pageSize = 10;

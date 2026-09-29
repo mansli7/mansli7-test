@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script>
     (function() {
+      window.Mansli7BaseUrl = '{{ site.baseurl }}';
       var lang = 'en';
       try {
         lang = window.localStorage.getItem('mansli7-site-lang') || 'en';
@@ -66,9 +67,9 @@
   <script src="https://cdn.tailwindcss.com"></script>
 
   <!-- Site styles -->
-  <link rel="stylesheet" href="/assets/css/style.css?v=2026-03-18">
-  <script src="/assets/js/reading-plan-2026.js?v=2026-09-20-nt"></script>
-  <script src="/assets/js/site-lang.js?v=2026-03-18"></script>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=2026-03-18' | relative_url }}">
+  <script src="{{ '/assets/js/reading-plan-2026.js?v=2026-09-20-nt' | relative_url }}"></script>
+  <script src="{{ '/assets/js/site-lang.js?v=2026-03-18' | relative_url }}"></script>
 </head>
 <body>
 
@@ -81,6 +82,36 @@
   </main>
 
   <script>
+    (function() {
+      var baseUrl = window.Mansli7BaseUrl || '';
+      if (!baseUrl) return;
+
+      function prefixSitePath(value) {
+        if (!value || value.indexOf('/') !== 0 || value.indexOf('//') === 0 || value.indexOf(baseUrl + '/') === 0) return value;
+        return baseUrl + value;
+      }
+
+      function rewriteInternalUrls(root) {
+        if (root.nodeType === Node.ELEMENT_NODE && root.matches('a[href^="/"], img[src^="/"], link[href^="/"]')) {
+          var rootAttribute = root.tagName === 'A' || root.tagName === 'LINK' ? 'href' : 'src';
+          root.setAttribute(rootAttribute, prefixSitePath(root.getAttribute(rootAttribute)));
+        }
+        root.querySelectorAll('a[href^="/"], img[src^="/"], link[href^="/"]').forEach(function(element) {
+          var attribute = element.tagName === 'A' || element.tagName === 'LINK' ? 'href' : 'src';
+          element.setAttribute(attribute, prefixSitePath(element.getAttribute(attribute)));
+        });
+      }
+
+      rewriteInternalUrls(document);
+      new MutationObserver(function(records) {
+        records.forEach(function(record) {
+          record.addedNodes.forEach(function(node) {
+            if (node.nodeType === Node.ELEMENT_NODE) rewriteInternalUrls(node);
+          });
+        });
+      }).observe(document.body, { childList: true, subtree: true });
+    })();
+
     // Mobile menu toggle
     const navToggle = document.getElementById('navToggle');
     const mobileMenu = document.getElementById('mobileMenu');
