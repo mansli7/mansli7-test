@@ -82,20 +82,26 @@ title: 2027 Bible Reading Calendar
       var entry = resolveEntry(currentMonth, day);
       if (!entry) continue;
       var weekday = new Date(Date.UTC(YEAR, currentMonth - 1, day)).getUTCDay();
+      var parsed = entry.review ? null : readingPlan.parse(entry.code);
       var title = entry.review
         ? (languageIsZh ? '複習日' : 'Review Day')
-        : (languageIsZh ? entry.unit.language.zh : entry.unit.language.en);
+        : (languageIsZh ? parsed.zh : parsed.en);
       var strip = entry.review ? '#10b981' : '#3b82f6';
-      html += '<article class="overflow-hidden rounded-lg border border-slate-200 bg-white shadow-sm">';
-      html += '<div style="background:' + strip + '" class="px-4 py-2 text-xs font-semibold text-white">';
-      html += (languageIsZh ? monthsZh[currentMonth - 1] + ' ' + day + ' 日 · ' + weekdaysZh[weekday] : monthsEn[currentMonth - 1].slice(0, 3).toUpperCase() + ' ' + day + ' · ' + weekdaysEn[weekday].toUpperCase());
-      html += '</div><div class="p-4"><h3 class="mb-3 text-base font-bold text-slate-900">' + title + '</h3>';
+      html += '<article class="cal-card">';
+      html += '<div class="cal-strip" style="background:' + strip + '">';
+      html += '<span class="cal-strip-month">' + (languageIsZh ? monthsZh[currentMonth - 1] + ' ' + day + ' 日 · ' + weekdaysZh[weekday] : monthsEn[currentMonth - 1].slice(0, 3).toUpperCase() + ' ' + day + ' · ' + weekdaysEn[weekday].toUpperCase()) + '</span>';
+      html += '<span class="cal-strip-daycount">' + (languageIsZh ? '第 ' + Math.round((Date.UTC(YEAR, currentMonth - 1, day) - Date.UTC(YEAR, 0, 0)) / 86400000) + ' / 365 天' : 'Day ' + Math.round((Date.UTC(YEAR, currentMonth - 1, day) - Date.UTC(YEAR, 0, 0)) / 86400000) + ' / 365') + '</span>';
+      html += '</div><div class="cal-body"><p class="cal-title">' + title + '</p>';
       if (entry.review) {
         html += '<p class="mb-0 text-sm leading-relaxed text-slate-500">' + (languageIsZh ? '重讀本週經文、禱告並整理筆記。' : 'Revisit this week\'s readings, pray, and make notes.') + '</p>';
       } else {
-        html += '<p class="mb-3 text-xs text-slate-400">' + entry.unit.id + ' · ' + entry.code + '</p>';
-        html += '<button type="button" class="question-button rounded-md border border-indigo-200 bg-indigo-50 px-3 py-2 text-sm font-medium text-indigo-700 hover:bg-indigo-100" data-code="' + entry.code + '">' + (languageIsZh ? '查看學習問題' : 'View Study Questions') + '</button>';
-        html += '<div class="question-panel mt-4 hidden border-t border-slate-200 pt-4" aria-live="polite"></div>';
+        html += '<span class="cal-badge ' + (parsed.sqStatus && parsed.sqStatus.available ? 'ready' : 'soon') + '">' + (languageIsZh ? (parsed.sqStatus && parsed.sqStatus.available ? '問題集已提供' : '問題集即將提供') : (parsed.sqStatus && parsed.sqStatus.available ? 'Question set ready' : 'Question set coming soon')) + '</span>';
+        html += '<div>';
+        if (readingPlan.bibleReaderHref && parsed.abbr) html += '<a href="' + readingPlan.bibleReaderHref(parsed, languageIsZh ? 'zh' : 'en') + '" class="cal-bg-link">' + (languageIsZh ? '📖 本站閱讀' : '📖 Read here') + '</a> ';
+        if (parsed.bg) html += '<a href="' + parsed.bg + '" target="_blank" rel="noopener" class="cal-bg-link">↗ BibleGateway</a>';
+        html += '</div>';
+        html += '<button type="button" class="question-button cal-sq-btn" data-code="' + entry.code + '"><span>' + (languageIsZh ? '📖 打開問題面板' : '📖 Open Question Panel') + '</span><span class="sq-chevron">▾</span></button>';
+        html += '<div class="question-panel sq-panel" aria-live="polite"></div>';
       }
       html += '</div></article>';
     }
@@ -108,30 +114,32 @@ title: 2027 Bible Reading Calendar
   function showQuestions(button) {
     var code = button.getAttribute('data-code');
     var cardPanel = button.parentNode.querySelector('.question-panel');
-    var wasOpen = !cardPanel.classList.contains('hidden');
+    var wasOpen = cardPanel.style.display === 'block';
     grid.querySelectorAll('.question-panel').forEach(function(otherPanel) {
-      otherPanel.classList.add('hidden');
+      otherPanel.style.display = 'none';
       otherPanel.innerHTML = '';
     });
+    grid.querySelectorAll('.question-button .sq-chevron').forEach(function(chevron) { chevron.textContent = '▾'; });
     if (wasOpen) return;
 
     var parsed = readingPlan.parse(code);
-    cardPanel.classList.remove('hidden');
-    cardPanel.innerHTML = '<p class="mb-1 text-xs font-bold uppercase tracking-widest text-indigo-500">' + (languageIsZh ? '學習問題' : 'Study Questions') + '</p><h3 class="mb-3 text-base font-bold text-slate-900">' + (languageIsZh ? parsed.zh : parsed.en) + '</h3><p class="text-sm text-slate-500">' + (languageIsZh ? '正在載入問題...' : 'Loading questions...') + '</p>';
+    button.querySelector('.sq-chevron').textContent = '▴';
+    cardPanel.style.display = 'block';
+    cardPanel.innerHTML = '<p class="sq-title">' + (languageIsZh ? '學習問題' : 'Study Questions') + '</p><p class="sq-para">' + (languageIsZh ? '正在載入問題...' : 'Loading questions...') + '</p>';
     readingPlan.getPromptsFor(code).then(function(result) {
-      if (cardPanel.classList.contains('hidden')) return;
+      if (cardPanel.style.display !== 'block') return;
       var prompts = result && (languageIsZh ? result.zh : result.en);
       var href = readingPlan.exactSqHref(languageIsZh ? 'zh' : 'en', parsed);
-      var html = '<p class="mb-1 text-xs font-bold uppercase tracking-widest text-indigo-500">' + (languageIsZh ? '學習問題' : 'Study Questions') + '</p><h3 class="mb-3 text-base font-bold text-slate-900">' + (languageIsZh ? parsed.zh : parsed.en) + '</h3>';
+      var html = '<p class="sq-title">' + (languageIsZh ? '學習問題' : 'Study Questions') + '</p>';
       if (prompts && prompts.length) {
-        html += '<ol class="list-decimal space-y-3 pl-5 text-sm leading-relaxed text-slate-700">' + prompts.map(function(prompt) { return '<li>' + prompt + '</li>'; }).join('') + '</ol>';
+        html += prompts.map(function(prompt) { return '<p class="sq-para">' + prompt + '</p>'; }).join('');
       } else {
-        html += '<p class="text-sm text-slate-500">' + (languageIsZh ? '此書卷目前沒有可載入的對應問題。' : 'No matching prompts are currently available for this reading.') + '</p>';
+        html += '<p class="sq-para">' + (languageIsZh ? '此書卷目前沒有可載入的對應問題。' : 'No matching prompts are currently available for this reading.') + '</p>';
       }
-      html += '<a class="mt-4 inline-block text-sm font-medium text-indigo-600 hover:text-indigo-800" href="' + href + '">' + (languageIsZh ? '開啟完整書卷問題頁面 →' : 'Open full book question page →') + '</a>';
+      html += '<a class="cal-bg-link" href="' + href + '">' + (languageIsZh ? '打開完整書卷問題頁面 →' : 'Open full book question page →') + '</a>';
       cardPanel.innerHTML = html;
     }).catch(function() {
-      cardPanel.innerHTML = '<p class="text-sm text-red-700">Could not load study questions for this reading.</p>';
+      cardPanel.innerHTML = '<p class="sq-para" style="color:#b91c1c;">Could not load study questions for this reading.</p>';
     });
   }
 
