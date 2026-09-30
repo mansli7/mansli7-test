@@ -98,7 +98,8 @@ title: 2027 Bible Reading Calendar
         html += '<span class="cal-badge ' + (parsed.sqStatus && parsed.sqStatus.available ? 'ready' : 'soon') + '">' + (languageIsZh ? (parsed.sqStatus && parsed.sqStatus.available ? '問題集已提供' : '問題集即將提供') : (parsed.sqStatus && parsed.sqStatus.available ? 'Question set ready' : 'Question set coming soon')) + '</span>';
         html += '<div>';
         if (readingPlan.bibleReaderHref && parsed.abbr) html += '<a href="' + readingPlan.bibleReaderHref(parsed, languageIsZh ? 'zh' : 'en') + '" class="cal-bg-link">' + (languageIsZh ? '📖 本站閱讀' : '📖 Read here') + '</a> ';
-        if (parsed.bg) html += '<a href="' + parsed.bg + '" target="_blank" rel="noopener" class="cal-bg-link">↗ BibleGateway</a>';
+        var bgUrlForCard = parsed.abbr && readingPlan.bgUrl ? readingPlan.bgUrl(parsed.abbr, parsed.chapters, languageIsZh ? 'CUV' : 'NIV', languageIsZh ? 'zh' : 'en') : parsed.bg;
+        if (bgUrlForCard) html += '<a href="' + bgUrlForCard + '" target="_blank" rel="noopener" class="cal-bg-link">↗ BibleGateway</a>';
         html += '</div>';
         html += '<button type="button" class="question-button cal-sq-btn" data-code="' + entry.code + '"><span>' + (languageIsZh ? '📖 打開問題面板' : '📖 Open Question Panel') + '</span><span class="sq-chevron">▾</span></button>';
         html += '<div class="question-panel sq-panel" aria-live="polite"></div>';
