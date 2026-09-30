@@ -39,6 +39,10 @@ title: Annual Reading Plans
       <a href="2032-calendar" class="cta-outline card-zh">測試 2032 月曆</a>
       <a href="2033-calendar" class="cta-outline card-en">Test 2033 Calendar</a>
       <a href="2033-calendar" class="cta-outline card-zh">測試 2033 月曆</a>
+      <a href="2034-calendar" class="cta-outline card-en">Test 2034 Calendar</a>
+      <a href="2034-calendar" class="cta-outline card-zh">測試 2034 月曆</a>
+      <a href="2035-calendar" class="cta-outline card-en">Test 2035 Calendar</a>
+      <a href="2035-calendar" class="cta-outline card-zh">測試 2035 月曆</a>
       <a href="/bs/sq/" class="cta-outline card-en">❓ Open Study Questions</a>
       <a href="/bs/sq/" class="cta-outline card-zh">❓ 打開學習問題</a>
     </div>
