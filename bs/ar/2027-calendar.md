@@ -85,7 +85,6 @@ title: 2027 Bible Reading Calendar
 
   function reviewTargets(month, day) {
     var current = new Date(Date.UTC(YEAR, month - 1, day));
-    var seen = {};
     var targets = [];
     for (var offset = 1; offset <= 6; offset += 1) {
       var previous = new Date(current);
@@ -94,11 +93,15 @@ title: 2027 Bible Reading Calendar
       var entry = resolveEntry(previous.getUTCMonth() + 1, previous.getUTCDate());
       if (!entry || entry.review) continue;
       var parsed = readingPlan.parse(entry.code);
-      if (!parsed.sq || !parsed.sqStatus || !parsed.sqStatus.available || seen[parsed.sq]) continue;
-      seen[parsed.sq] = true;
-      targets.push({ slug: parsed.sq, en: parsed.en, zh: parsed.zh });
+      if (!parsed.sq || !parsed.sqStatus || !parsed.sqStatus.available) continue;
+      targets.push({
+        en: parsed.en,
+        zh: parsed.zh,
+        hrefEn: readingPlan.exactSqHref('en', parsed),
+        hrefZh: readingPlan.exactSqHref('zh', parsed)
+      });
     }
-    return targets;
+    return targets.reverse();
   }
 
   function renderMonth() {
@@ -130,7 +133,7 @@ title: 2027 Bible Reading Calendar
         if (targets.length) {
           html += '<div style="display:flex;flex-wrap:wrap;gap:0.45rem;margin-top:0.65rem;">';
           targets.forEach(function(target) {
-            html += '<a class="cal-chip" href="' + baseUrl + '/bs/sq/' + (languageIsZh ? 'zh' : 'en') + '/' + target.slug + '">' + (languageIsZh ? target.zh : target.en) + '</a>';
+            html += '<a class="cal-chip" href="' + baseUrl + (languageIsZh ? target.hrefZh : target.hrefEn) + '">' + (languageIsZh ? target.zh : target.en) + '</a>';
           });
           html += '</div>';
         }

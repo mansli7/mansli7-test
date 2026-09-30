@@ -263,7 +263,7 @@
       }
 
       function extractRange(text) {
-        var match = text.match(/(\d+(?:\s*[—–-]\s*\d+)*)\s*$/);
+        var match = text.match(/(\d+(?:\s*[—–-]\s*\d+)*)\s*(?:章)?\s*$/);
         return match ? normalizeRange(match[1]) : '';
       }
 

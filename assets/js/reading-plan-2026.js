@@ -75,7 +75,9 @@
 
   function exactSqAnchor(parsed) {
     if (!parsed.sq || !parsed.chapters) return '';
-    var range = parsed.chapters.replace(/[^0-9]+/g, '-').replace(/^-+|-+$/g, '');
+    var range = parsed.code === 'Ps72-75'
+      ? '73-75'
+      : parsed.chapters.replace(/[^0-9]+/g, '-').replace(/^-+|-+$/g, '');
     return range ? 'sq-' + parsed.sq + '-' + range : '';
   }
 
