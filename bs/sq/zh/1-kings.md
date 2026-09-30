@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 列王紀上研習問題
+title: 列王記上研習問題
 ---
 
-# 列王紀上研習問題
+# 列王記上研習問題
 
 <div style="margin-bottom: 2rem;">
   <a href="../" class="cta" style="background: linear-gradient(180deg, #8b7355, #6d5a42);">← 返回研習問題</a>

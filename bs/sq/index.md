@@ -97,7 +97,7 @@ title: Study Questions
 </div>
 
 <h2 class="card-en">📖 Historical Books (Joshua – 2 Kings)</h2>
-<h2 class="card-zh">📖 歷史書 (約書亞記至列王紀下)</h2>
+<h2 class="card-zh">📖 歷史書 (約書亞記至列王記下)</h2>
 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 mb-8 mt-4">
   <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
     <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 Joshua</h3>
@@ -151,7 +151,7 @@ title: Study Questions
   </div>
     <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
     <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 1 Kings</h3>
-    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 列王紀上</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 列王記上</h3>
     <p class="card-en text-xs text-slate-400 mb-3">Solomon, the temple, the divided kingdom, and prophets.</p>
     <p class="card-zh text-xs text-slate-400 mb-3">所羅門、聖殿、王國分裂，以及先知。</p>
     <div class="flex gap-2">
@@ -161,7 +161,7 @@ title: Study Questions
   </div>
   <div class="bg-white rounded-xl border border-slate-200 p-5 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
     <h3 class="card-en" style="margin-top:0;font-size:0.95rem;">📖 2 Kings</h3>
-    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 列王紀下</h3>
+    <h3 class="card-zh" style="margin-top:0;font-size:0.95rem;">📖 列王記下</h3>
     <p class="card-en text-xs text-slate-400 mb-3">Elijah, Elisha, reform, and exile.</p>
     <p class="card-zh text-xs text-slate-400 mb-3">以利亞、以利沙、改革，以及被擄。</p>
     <div class="flex gap-2">
