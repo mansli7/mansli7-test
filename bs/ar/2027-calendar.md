@@ -132,7 +132,9 @@ title: 2027 Bible Reading Calendar
       var href = readingPlan.exactSqHref(languageIsZh ? 'zh' : 'en', parsed);
       var html = '<p class="sq-title">' + (languageIsZh ? '學習問題' : 'Study Questions') + '</p>';
       if (prompts && prompts.length) {
-        html += prompts.map(function(prompt) { return '<p class="sq-para">' + prompt + '</p>'; }).join('');
+        html += prompts.flatMap(function(prompt) {
+          return prompt.split(/\r?\n/).filter(function(line) { return line.trim(); });
+        }).map(function(prompt) { return '<p class="sq-para">' + prompt + '</p>'; }).join('');
       } else {
         html += '<p class="sq-para">' + (languageIsZh ? '此書卷目前沒有可載入的對應問題。' : 'No matching prompts are currently available for this reading.') + '</p>';
       }
