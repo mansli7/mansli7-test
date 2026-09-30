@@ -11,7 +11,7 @@ title: 2027 Bible Reading Calendar
     <h1 class="card-zh" style="font-size:1.875rem;">2027 讀經月曆</h1>
     <p id="calendarStatus" class="mt-2 text-sm text-slate-500">Loading 2027 calendar data...</p>
   </div>
-  <a href="/bs/ar/" class="inline-flex items-center gap-1 self-start rounded-lg border border-slate-200 bg-white px-3 py-2 text-sm font-medium text-slate-600 shadow-sm hover:bg-slate-50">← Plan Hub</a>
+  <a href="{{ '/bs/ar/' | relative_url }}" class="inline-flex items-center gap-1 self-start rounded-lg border border-slate-200 bg-white px-3 py-2 text-sm font-medium text-slate-600 shadow-sm hover:bg-slate-50"><span class="card-en">← Plan Hub</span><span class="card-zh">← 計劃總覽</span></a>
 </div>
 
 <div class="mb-6 rounded-lg border border-indigo-200 bg-indigo-50 p-5 text-sm leading-relaxed text-slate-700">
@@ -31,6 +31,7 @@ title: 2027 Bible Reading Calendar
 <div class="mb-5 flex flex-wrap gap-4 text-xs text-slate-500">
   <span class="inline-flex items-center gap-1.5"><span class="inline-block h-3 w-3 rounded-sm bg-blue-500"></span> <span class="card-en">Daily Reading</span><span class="card-zh">每日讀經</span></span>
   <span class="inline-flex items-center gap-1.5"><span class="inline-block h-3 w-3 rounded-sm bg-emerald-500"></span> <span class="card-en">Review Day</span><span class="card-zh">複習日</span></span>
+  <span class="inline-flex items-center gap-1.5"><span class="inline-block h-3 w-3 rounded-sm bg-amber-400"></span> <span class="card-en">Today</span><span class="card-zh">今天</span></span>
 </div>
 
 <div id="calendarGrid" class="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3"></div>
@@ -46,8 +47,11 @@ title: 2027 Bible Reading Calendar
   var calendarMap;
   var unitsById;
   var readingPlan;
-  var currentMonth = 1;
+  var today = new Date();
+  var currentMonth = today.getFullYear() === YEAR ? today.getMonth() + 1 : 1;
   var languageIsZh = false;
+  var readingCount = 0;
+  var reviewCount = 0;
 
   var status = document.getElementById('calendarStatus');
   var grid = document.getElementById('calendarGrid');
@@ -73,36 +77,75 @@ title: 2027 Bible Reading Calendar
     renderMonth();
   }
 
+  function updateStatus() {
+    status.textContent = languageIsZh
+      ? '2027 年對應表已載入 ' + readingCount + ' 個讀經單元及 ' + reviewCount + ' 個複習日。'
+      : readingCount + ' reading units and ' + reviewCount + ' review days loaded from the 2027 year map.';
+  }
+
+  function reviewTargets(month, day) {
+    var current = new Date(Date.UTC(YEAR, month - 1, day));
+    var seen = {};
+    var targets = [];
+    for (var offset = 1; offset <= 6; offset += 1) {
+      var previous = new Date(current);
+      previous.setUTCDate(current.getUTCDate() - offset);
+      if (previous.getUTCFullYear() !== YEAR) continue;
+      var entry = resolveEntry(previous.getUTCMonth() + 1, previous.getUTCDate());
+      if (!entry || entry.review) continue;
+      var parsed = readingPlan.parse(entry.code);
+      if (!parsed.sq || !parsed.sqStatus || !parsed.sqStatus.available || seen[parsed.sq]) continue;
+      seen[parsed.sq] = true;
+      targets.push({ slug: parsed.sq, en: parsed.en, zh: parsed.zh });
+    }
+    return targets;
+  }
+
   function renderMonth() {
     label.textContent = languageIsZh ? monthsZh[currentMonth - 1] : monthsEn[currentMonth - 1];
+    updateStatus();
     document.getElementById('previousMonth').disabled = currentMonth === 1;
     document.getElementById('nextMonth').disabled = currentMonth === 12;
     var html = '';
     for (var day = 1; day <= daysInMonth(currentMonth); day += 1) {
       var entry = resolveEntry(currentMonth, day);
       if (!entry) continue;
+      var cardId = 'card-' + currentMonth + '-' + day;
+      var isToday = today.getFullYear() === YEAR && today.getMonth() + 1 === currentMonth && today.getDate() === day;
       var weekday = new Date(Date.UTC(YEAR, currentMonth - 1, day)).getUTCDay();
       var parsed = entry.review ? null : readingPlan.parse(entry.code);
       var title = entry.review
         ? (languageIsZh ? '複習日' : 'Review Day')
         : (languageIsZh ? parsed.zh : parsed.en);
-      var strip = entry.review ? '#10b981' : '#3b82f6';
-      html += '<article class="cal-card">';
+      var strip = isToday ? '#f59e0b' : (entry.review ? '#10b981' : '#3b82f6');
+      html += '<article class="cal-card"' + (isToday ? ' data-today="true" style="border-color:#f59e0b;box-shadow:0 0 0 3px rgba(245,158,11,0.15), 0 4px 12px rgba(0,0,0,0.08);"' : '') + '>';
       html += '<div class="cal-strip" style="background:' + strip + '">';
       html += '<span class="cal-strip-month">' + (languageIsZh ? monthsZh[currentMonth - 1] + ' ' + day + ' 日 · ' + weekdaysZh[weekday] : monthsEn[currentMonth - 1].slice(0, 3).toUpperCase() + ' ' + day + ' · ' + weekdaysEn[weekday].toUpperCase()) + '</span>';
       html += '<span class="cal-strip-daycount">' + (languageIsZh ? '第 ' + Math.round((Date.UTC(YEAR, currentMonth - 1, day) - Date.UTC(YEAR, 0, 0)) / 86400000) + ' / 365 天' : 'Day ' + Math.round((Date.UTC(YEAR, currentMonth - 1, day) - Date.UTC(YEAR, 0, 0)) / 86400000) + ' / 365') + '</span>';
       html += '</div><div class="cal-body"><p class="cal-title">' + title + '</p>';
+      if (isToday) html += '<span class="cal-today-badge">' + (languageIsZh ? '今日' : 'Today') + '</span>';
       if (entry.review) {
         html += '<p class="mb-0 text-sm leading-relaxed text-slate-500">' + (languageIsZh ? '重讀本週經文、禱告並整理筆記。' : 'Revisit this week\'s readings, pray, and make notes.') + '</p>';
+        var targets = reviewTargets(currentMonth, day);
+        if (targets.length) {
+          html += '<div style="display:flex;flex-wrap:wrap;gap:0.45rem;margin-top:0.65rem;">';
+          targets.forEach(function(target) {
+            html += '<a class="cal-chip" href="' + baseUrl + '/bs/sq/' + (languageIsZh ? 'zh' : 'en') + '/' + target.slug + '">' + (languageIsZh ? target.zh : target.en) + '</a>';
+          });
+          html += '</div>';
+        }
       } else {
         html += '<span class="cal-badge ' + (parsed.sqStatus && parsed.sqStatus.available ? 'ready' : 'soon') + '">' + (languageIsZh ? (parsed.sqStatus && parsed.sqStatus.available ? '問題集已提供' : '問題集即將提供') : (parsed.sqStatus && parsed.sqStatus.available ? 'Question set ready' : 'Question set coming soon')) + '</span>';
         html += '<div>';
-        if (readingPlan.bibleReaderHref && parsed.abbr) html += '<a href="' + readingPlan.bibleReaderHref(parsed, languageIsZh ? 'zh' : 'en') + '" class="cal-bg-link">' + (languageIsZh ? '📖 本站閱讀' : '📖 Read here') + '</a> ';
+        if (readingPlan.bibleReaderHref && parsed.abbr) html += '<a href="' + readingPlan.bibleReaderHref(parsed, languageIsZh ? 'zh' : 'en') + '" title="' + (languageIsZh ? '在本站閱讀' : 'Read on this site') + '" class="cal-bg-link">' + (languageIsZh ? '📖 本站閱讀' : '📖 Read here') + '</a> ';
         var bgUrlForCard = parsed.abbr && readingPlan.bgUrl ? readingPlan.bgUrl(parsed.abbr, parsed.chapters, languageIsZh ? 'CUV' : 'NIV', languageIsZh ? 'zh' : 'en') : parsed.bg;
-        if (bgUrlForCard) html += '<a href="' + bgUrlForCard + '" target="_blank" rel="noopener" class="cal-bg-link">↗ BibleGateway</a>';
+        if (bgUrlForCard) html += '<a href="' + bgUrlForCard + '" target="_blank" rel="noopener" title="' + (languageIsZh ? '在 BibleGateway 開啟' : 'Open in BibleGateway') + '" class="cal-bg-link">↗ BibleGateway</a>';
         html += '</div>';
-        html += '<button type="button" class="question-button cal-sq-btn" data-code="' + entry.code + '"><span>' + (languageIsZh ? '📖 打開問題面板' : '📖 Open Question Panel') + '</span><span class="sq-chevron">▾</span></button>';
-        html += '<div class="question-panel sq-panel" aria-live="polite"></div>';
+        var panelLabel = parsed.sqStatus && parsed.sqStatus.available
+          ? (languageIsZh ? '📖 打開問題面板' : '📖 Open Question Panel')
+          : (languageIsZh ? '📖 查看問題狀態' : '📖 View Question Status');
+        html += '<button type="button" class="question-button cal-sq-btn" data-code="' + encodeURIComponent(entry.code) + '" aria-expanded="false" aria-controls="questions-' + cardId + '"><span>' + panelLabel + '</span><span class="sq-chevron">▾</span></button>';
+        html += '<div id="questions-' + cardId + '" class="question-panel sq-panel" aria-live="polite"></div>';
       }
       html += '</div></article>';
     }
@@ -113,7 +156,7 @@ title: 2027 Bible Reading Calendar
   }
 
   function showQuestions(button) {
-    var code = button.getAttribute('data-code');
+    var code = decodeURIComponent(button.getAttribute('data-code'));
     var cardPanel = button.parentNode.querySelector('.question-panel');
     var wasOpen = cardPanel.style.display === 'block';
     grid.querySelectorAll('.question-panel').forEach(function(otherPanel) {
@@ -121,9 +164,11 @@ title: 2027 Bible Reading Calendar
       otherPanel.innerHTML = '';
     });
     grid.querySelectorAll('.question-button .sq-chevron').forEach(function(chevron) { chevron.textContent = '▾'; });
+    grid.querySelectorAll('.question-button').forEach(function(otherButton) { otherButton.setAttribute('aria-expanded', 'false'); });
     if (wasOpen) return;
 
     var parsed = readingPlan.parse(code);
+    button.setAttribute('aria-expanded', 'true');
     button.querySelector('.sq-chevron').textContent = '▴';
     cardPanel.style.display = 'block';
     cardPanel.innerHTML = '<p class="sq-title">' + (languageIsZh ? '學習問題' : 'Study Questions') + '</p><p class="sq-para">' + (languageIsZh ? '正在載入問題...' : 'Loading questions...') + '</p>';
@@ -162,9 +207,8 @@ title: 2027 Bible Reading Calendar
     if (!readingPlan) throw new Error('Production reading-code parser failed to load');
     calendarMap = results[0].map;
     unitsById = new Map(results[1].units.map(function(unit) { return [unit.id, unit]; }));
-    var readings = Object.values(calendarMap).filter(function(value) { return value !== 'review'; }).length;
-    var reviews = Object.values(calendarMap).filter(function(value) { return value === 'review'; }).length;
-    status.textContent = readings + ' reading units and ' + reviews + ' review days loaded from the 2027 year map.';
+    readingCount = Object.values(calendarMap).filter(function(value) { return value !== 'review'; }).length;
+    reviewCount = Object.values(calendarMap).filter(function(value) { return value === 'review'; }).length;
     languageIsZh = window.Mansli7Lang && window.Mansli7Lang.getCurrentLang() === 'zh';
     renderMonth();
     document.addEventListener('mansli7:langchange', updateLanguage);
