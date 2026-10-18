@@ -48,23 +48,8 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
 
-  <!-- Tailwind CSS via CDN -->
-  <script src="https://cdn.tailwindcss.com"></script>
-  <script>
-    tailwind.config = {
-      corePlugins: { preflight: false },
-      theme: {
-        extend: {
-          colors: { primary: '#6366f1', 'primary-dark': '#4f46e5' },
-          fontFamily: {
-            sans: ['Inter','system-ui','-apple-system','Segoe UI','Roboto',
-                   'Helvetica Neue','Arial','PingFang TC','Hiragino Sans GB',
-                   'Microsoft YaHei New','Microsoft Yahei','SimHei','sans-serif']
-          }
-        }
-      }
-    }
-  </script>
+  <!-- Tailwind CSS (prebuilt & purged; rebuild with: npm run build:css) -->
+  <link rel="stylesheet" href="{{ '/assets/css/tailwind.css?v=2026-10-01' | relative_url }}">
 
   <!-- Site styles -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=2026-03-18' | relative_url }}">

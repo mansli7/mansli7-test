@@ -11,8 +11,15 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-# Folders used for local workflows only; not part of the published site.
+# Folders/files used for local workflows only; not part of the published site.
+# Note: setting `exclude` overrides Jekyll's defaults, so build/dependency
+# paths (node_modules etc.) must be listed explicitly here.
 exclude:
   - doc/
   - tmp/
   - tools/
+  - node_modules/
+  - src/
+  - package.json
+  - package-lock.json
+  - tailwind.config.js

@@ -55,19 +55,30 @@
   function localizePath(pathname, targetLang) {
     var normalized = normalizeLang(targetLang);
     var path = pathname || '/';
-    var match = path.match(/^\/bs\/sq\/(en|zh)\/([^/]+)\/?$/);
+
+    // On the deployed site window.location.pathname includes site.baseurl
+    // (e.g. /mansli7-test/bs/sq/en/genesis); strip it before matching the
+    // route patterns, then re-add it to the returned path.
+    var base = (window.Mansli7BaseUrl || '').replace(/\/$/, '');
+    var rel = path;
+    if (base && (rel === base || rel.indexOf(base + '/') === 0)) {
+      rel = rel.slice(base.length) || '/';
+    }
+
+    var localized;
+    var match = rel.match(/^\/bs\/sq\/(en|zh)\/([^/]+)\/?$/);
     if (match) {
-      return '/bs/sq/' + normalized + '/' + match[2];
+      localized = '/bs/sq/' + normalized + '/' + match[2];
+    } else if (
+      rel === '/bs/ar/2026-en' || rel === '/bs/ar/2026-en/' ||
+      rel === '/bs/ar/2026-zh' || rel === '/bs/ar/2026-zh/'
+    ) {
+      localized = normalized === 'zh' ? '/bs/ar/2026-zh' : '/bs/ar/2026-en';
+    } else {
+      return path;
     }
 
-    if (path === '/bs/ar/2026-en' || path === '/bs/ar/2026-en/') {
-      return normalized === 'zh' ? '/bs/ar/2026-zh' : '/bs/ar/2026-en';
-    }
-    if (path === '/bs/ar/2026-zh' || path === '/bs/ar/2026-zh/') {
-      return normalized === 'zh' ? '/bs/ar/2026-zh' : '/bs/ar/2026-en';
-    }
-
-    return path;
+    return base + localized;
   }
 
   function bindSwitches(scope) {

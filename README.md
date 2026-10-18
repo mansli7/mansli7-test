@@ -34,3 +34,19 @@ Static Jekyll site for the Mansli7 Bible study portal.
 - When adding a new study-question book, update the book links on `bs/sq/index.md` and the slug maps used by the layout/home widgets.
 - If a new page should obey the site-wide language switch, prefer `.card-en` and `.card-zh` blocks instead of duplicating routes.
 - Keep raw downloads under `assets/downloads/`.
+
+## Styling (Tailwind CSS)
+
+- Tailwind is **prebuilt and committed** at `assets/css/tailwind.css` — the site no longer
+  loads `cdn.tailwindcss.com` at runtime (that CDN prints a "not for production" warning and
+  ships the whole engine to every visitor). GitHub Pages serves the committed file directly.
+- After changing Tailwind classes in any `.html`/`.md`/`.js`, rebuild the CSS and commit it:
+  ```bash
+  npm install      # first time only
+  npm run build:css
+  ```
+  Use `npm run watch:css` while editing to rebuild on save.
+- Config lives in `tailwind.config.js` (preflight disabled, `primary` color + Inter font stack,
+  content globs covering all templates). The input file is `src/tailwind.css`.
+- `node_modules/`, `package*.json`, `tailwind.config.js`, and `src/` are excluded from the
+  published site via `_config.yml`.

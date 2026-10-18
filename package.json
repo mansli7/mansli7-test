@@ -1,0 +1,13 @@
+{
+  "name": "mansli7-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Build tooling for the Mansli7 Jekyll site (prebuilt Tailwind CSS).",
+  "scripts": {
+    "build:css": "tailwindcss -i ./src/tailwind.css -o ./assets/css/tailwind.css --minify",
+    "watch:css": "tailwindcss -i ./src/tailwind.css -o ./assets/css/tailwind.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
