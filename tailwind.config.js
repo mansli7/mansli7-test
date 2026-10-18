@@ -1,5 +1,7 @@
 /** @type {import('tailwindcss').Config} */
-// Mirrors the old cdn.tailwindcss.com config (v3 semantics, preflight disabled).
+// Mirrors what cdn.tailwindcss.com actually produced (v3 semantics). The old
+// inline `tailwind.config` never applied -- it ran before the CDN defined the
+// global -- so the site has always rendered with preflight on.
 module.exports = {
   content: [
     './**/*.{html,md,js}',
@@ -9,9 +11,6 @@ module.exports = {
   // Classes toggled in JS or referenced only in compound selectors (inline <style>
   // card-* gating) that the scanner might otherwise miss.
   safelist: ['hidden', 'block', 'flex', 'grid', 'inline-block', 'inline-flex'],
-  corePlugins: {
-    preflight: false,
-  },
   theme: {
     extend: {
       colors: {

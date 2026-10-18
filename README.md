@@ -46,7 +46,9 @@ Static Jekyll site for the Mansli7 Bible study portal.
   npm run build:css
   ```
   Use `npm run watch:css` while editing to rebuild on save.
-- Config lives in `tailwind.config.js` (preflight disabled, `primary` color + Inter font stack,
-  content globs covering all templates). The input file is `src/tailwind.css`.
+- Config lives in `tailwind.config.js` (`primary` color + Inter font stack, content globs
+  covering all templates). The input file is `src/tailwind.css`. The `<link>` must stay
+  **after** `style.css`, because the old CDN injected itself at runtime and therefore won
+  the cascade against rules like `.container`.
 - `node_modules/`, `package*.json`, `tailwind.config.js`, and `src/` are excluded from the
   published site via `_config.yml`.

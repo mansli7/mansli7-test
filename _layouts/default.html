@@ -48,11 +48,14 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
 
-  <!-- Tailwind CSS (prebuilt & purged; rebuild with: npm run build:css) -->
-  <link rel="stylesheet" href="{{ '/assets/css/tailwind.css?v=2026-10-01' | relative_url }}">
-
   <!-- Site styles -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=2026-03-18' | relative_url }}">
+
+  <!-- Tailwind CSS (prebuilt & purged; rebuild with: npm run build:css).
+       Must stay after style.css: the old CDN injected itself at runtime and so
+       won the cascade against .container and the link resets. -->
+  <link rel="stylesheet" href="{{ '/assets/css/tailwind.css?v=2026-10-01' | relative_url }}">
+
   <script src="{{ '/assets/js/reading-plan-2026.js?v=2026-09-20-nt' | relative_url }}"></script>
   <script src="{{ '/assets/js/site-lang.js?v=2026-03-18' | relative_url }}"></script>
 </head>
