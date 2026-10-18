@@ -373,7 +373,9 @@
   <script>
   // Homepage: Today's Reading widget
   (function(){
-    if (window.location.pathname !== '/') return;
+    var sitePath = (window.Mansli7BaseUrl || '').replace(/\/$/, '');
+    var here = window.location.pathname;
+    if (here !== sitePath + '/' && here !== (sitePath || '/')) return;
     var readingPlan = window.Mansli7Reading2026;
     var langApi = window.Mansli7Lang;
     if (!readingPlan) return;
