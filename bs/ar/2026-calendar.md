@@ -100,20 +100,7 @@ title: 2026 Bible Reading Calendar
   // Helper: split long prompt text (or arrays) into discrete prompt strings.
   function splitIntoPrompts(item, lang) {
     if (!item) return [];
-    if (Array.isArray(item)) {
-      var out = [];
-      item.forEach(function(it) { out = out.concat(splitIntoPrompts(it, lang)); });
-      return out;
-    }
-    var s = String(item || '').trim();
-    if (!s) return [];
-    // Prefer explicit blank-line separators first
-    var blocks = s.split(/\n\s*\n/).map(function(b) { return b.trim(); }).filter(Boolean);
-    if (blocks.length > 1) return blocks;
-    // Then try sentence-like splitting on question/period punctuation (EN + ZH punctuation)
-    var parts = s.match(/[^?!。？]+[?!。？]?/g);
-    if (parts && parts.length > 1) return parts.map(function(p) { return p.trim(); }).filter(Boolean);
-    return [s];
+    return readingPlan.splitPrompts(item);
   }
 
   // ── Day-of-year counter ────────────────────────────────────────

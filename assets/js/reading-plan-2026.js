@@ -380,6 +380,50 @@
     });
   }
 
+  // Split a stored prompt that merged several questions into one string.
+  // Terminators inside 「」/""/() are part of a quotation, not a question end,
+  // so they must not break the line.
+  var SPLIT_OPEN = '「『“‘（(【《〈';
+  var SPLIT_CLOSE = '」』”’）)】》〉';
+  var SPLIT_END = '?？!！。';
+
+  function splitPrompt(text) {
+    var s = String(text == null ? '' : text).trim();
+    if (!s) return [];
+
+    var blocks = s.split(/\n\s*\n/).map(function(b) { return b.trim(); }).filter(Boolean);
+    if (blocks.length > 1) {
+      return blocks.reduce(function(acc, b) { return acc.concat(splitPrompt(b)); }, []);
+    }
+
+    var parts = [];
+    var depth = 0;
+    var start = 0;
+    for (var i = 0; i < s.length; i++) {
+      var ch = s.charAt(i);
+      if (SPLIT_OPEN.indexOf(ch) !== -1) { depth++; continue; }
+      if (SPLIT_CLOSE.indexOf(ch) !== -1) { if (depth > 0) depth--; continue; }
+      if (depth > 0 || SPLIT_END.indexOf(ch) === -1) continue;
+
+      // Absorb punctuation that belongs to the sentence just closed.
+      var end = i + 1;
+      while (end < s.length && (SPLIT_END.indexOf(s.charAt(end)) !== -1 || SPLIT_CLOSE.indexOf(s.charAt(end)) !== -1)) end++;
+      var part = s.slice(start, end).trim();
+      if (part) parts.push(part);
+      start = end;
+      i = end - 1;
+    }
+
+    var tail = s.slice(start).trim();
+    if (tail) parts.push(tail);
+    return parts.length ? parts : [s];
+  }
+
+  function splitPrompts(items) {
+    var list = Object.prototype.toString.call(items) === '[object Array]' ? items : [items];
+    return list.reduce(function(acc, item) { return acc.concat(splitPrompt(item)); }, []);
+  }
+
   window.Mansli7Reading2026 = {
     r: r,
     n: n,
@@ -392,7 +436,9 @@
     parse: parse,
     exactSqAnchor: exactSqAnchor,
     exactSqHref: exactSqHref,
-    bibleReaderHref: bibleReaderHref
+    bibleReaderHref: bibleReaderHref,
+    splitPrompt: splitPrompt,
+    splitPrompts: splitPrompts
   };
 
   // expose fetch helpers

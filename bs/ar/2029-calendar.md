@@ -182,7 +182,7 @@ title: 2029 Bible Reading Calendar
       var html = '<p class="sq-title">' + (languageIsZh ? '學習問題' : 'Study Questions') + '</p>';
       if (prompts && prompts.length) {
         var questionLines = prompts.reduce(function(lines, prompt) {
-          return lines.concat(String(prompt).match(/[^?？]+[?？]|[^?？]+$/g) || []);
+          return lines.concat(readingPlan.splitPrompt(prompt));
         }, []).map(function(line) { return line.trim(); }).filter(Boolean);
         html += questionLines.map(function(question) { return '<p class="sq-para">' + question + '</p>'; }).join('');
       } else {
