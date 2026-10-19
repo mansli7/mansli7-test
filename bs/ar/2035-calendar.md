@@ -81,26 +81,6 @@ title: 2035 Bible Reading Calendar
       : readingCount + ' reading units and ' + reviewCount + ' review days loaded from the 2035 year map.';
   }
 
-  function reviewTargets(month, day) {
-    var current = new Date(Date.UTC(YEAR, month - 1, day));
-    var targets = [];
-    for (var offset = 1; offset <= 6; offset += 1) {
-      var previous = new Date(current);
-      previous.setUTCDate(current.getUTCDate() - offset);
-      if (previous.getUTCFullYear() !== YEAR) continue;
-      var entry = resolveEntry(previous.getUTCMonth() + 1, previous.getUTCDate());
-      if (!entry || entry.review) continue;
-      var parsed = readingPlan.parse(entry.code);
-      if (!parsed.sq || !parsed.sqStatus || !parsed.sqStatus.available) continue;
-      targets.push({
-        en: parsed.en,
-        zh: parsed.zh,
-        hrefEn: readingPlan.exactSqHref('en', parsed),
-        hrefZh: readingPlan.exactSqHref('zh', parsed)
-      });
-    }
-    return targets.reverse();
-  }
 
   function renderMonth() {
     label.textContent = languageIsZh ? monthsZh[currentMonth - 1] : monthsEn[currentMonth - 1];
@@ -127,14 +107,6 @@ title: 2035 Bible Reading Calendar
       if (isToday) html += '<span class="cal-today-badge">' + (languageIsZh ? '今日' : 'Today') + '</span>';
       if (entry.review) {
         html += '<p class="mb-0 text-sm leading-relaxed text-slate-500">' + (languageIsZh ? '重讀本週經文、禱告並整理筆記。' : 'Revisit this week\'s readings, pray, and make notes.') + '</p>';
-        var targets = reviewTargets(currentMonth, day);
-        if (targets.length) {
-          html += '<div style="display:flex;flex-wrap:wrap;gap:0.45rem;margin-top:0.65rem;">';
-          targets.forEach(function(target) {
-            html += '<a class="cal-chip" href="' + baseUrl + (languageIsZh ? target.hrefZh : target.hrefEn) + '">' + (languageIsZh ? target.zh : target.en) + '</a>';
-          });
-          html += '</div>';
-        }
       } else {
         html += '<span class="cal-badge ' + (parsed.sqStatus && parsed.sqStatus.available ? 'ready' : 'soon') + '">' + (languageIsZh ? (parsed.sqStatus && parsed.sqStatus.available ? '問題集已提供' : '問題集即將提供') : (parsed.sqStatus && parsed.sqStatus.available ? 'Question set ready' : 'Question set coming soon')) + '</span>';
         html += '<div>';
