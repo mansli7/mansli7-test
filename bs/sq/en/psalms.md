@@ -30,7 +30,13 @@ What kind of person trusts in the LORD, and why?
 
 What kind of people go down to hell?
 
-Who is in His holy temple? Who is on His heavenly throne? Whose eyes observe everyone on earth? Who examines the righteous?
+Who is in His holy temple?
+
+Who is on His heavenly throne?
+
+Whose eyes observe everyone on earth?
+
+Who examines the righteous?
 
 What kind of person says in his heart: “There is no God”?
 
@@ -120,7 +126,9 @@ Psalms 48-54
 
 Mount Zion — whose city is it, where is it lofty and beautiful, for whom is it a joy, and what does it reveal itself to be?
 
-Can those who trust in their wealth and boast of their riches redeem the life of another or give to God a ransom for them,so that they may live on forever and not see decay? Why or why not?
+Can those who trust in their wealth and boast of their riches redeem the life of another or give to God a ransom for them,so that they may live on forever and not see decay?
+
+Why or why not?
 
 Who will redeem my soul from the power of the realm of the dead?
 
@@ -152,7 +160,9 @@ My soul finds rest in whom, and from whom comes my salvation?
 
 Who alone is my rock, salvation, fortress, so that I will never be shaken?
 
-The lowborn are but a breath; the highborn are but a lie; where are they be placed on, they are nothing? Together, they are lighter than what?
+The lowborn are but a breath; the highborn are but a lie; where are they be placed on, they are nothing?
+
+Together, they are lighter than what?
 
 In a dry, parched and waterless land, for whom do I thirst, for whom does my whole being long
 
@@ -304,7 +314,9 @@ What is the beginning of wisdom; who are those who have good understanding; who 
 
 In Psalms 111–113, the first verse, and Psalms 113, 115–117, the last verse, whom should you praise?
 
-Who made the idols? Can they speak with mouths, see with eyes, hear with ears, smell with noses, feel with hands, walk with feet, or utter a sound with throats?
+Who made the idols?
+
+Can they speak with mouths, see with eyes, hear with ears, smell with noses, feel with hands, walk with feet, or utter a sound with throats?
 
 Are those who make idols like them; what about those who trust in idols?
 
@@ -334,11 +346,19 @@ Though the wicked bind me with ropes, I will not forget what?
 
 The law from the LORD is more precious to me than what?
 
-I know the ordinances of the LORD are what; He has afflicted me with what, yet treated me with truth? What are the laws of the LORD? In what way has He treated me by afflicting me?
+I know the ordinances of the LORD are what; He has afflicted me with what, yet treated me with truth?
 
-Whose salvation does my soul faint with longing for? In whose word do I have put my hope?
+What are the laws of the LORD?
 
-I see that all things are finite; only what is exceedingly broad? I see a limit to all perfection; however, what is boundless?
+In what way has He treated me by afflicting me?
+
+Whose salvation does my soul faint with longing for?
+
+In whose word do I have put my hope?
+
+I see that all things are finite; only what is exceedingly broad?
+
+I see a limit to all perfection; however, what is boundless?
 
 What do I love so much that I meditate on it all day long?
 
@@ -378,7 +398,9 @@ Which place did the LORD choose and desire as His dwelling, saying: “This is m
 
 Psalms 133-136
 
-“How good and pleasant it is when God’s people live together in unity!” - What is this compared to? And what else is it compared to?
+“How good and pleasant it is when God’s people live together in unity!” - What is this compared to?
+
+And what else is it compared to?
 
 In Psalm 136, how many verses are there, and how many times does it say “His love endures forever”?
 
@@ -392,7 +414,9 @@ Who created my inmost being; who knit me together in my mother’s womb?
 
 Whom do I praise, for I am fearfully and wonderfully made; whose works are wonderful, which I know full well?
 
-I was formed in darkness, intricately woven in the depths of the earth; at that time, my frame was not hidden from whom? When I was made in the secret place and woven together in the depths of the earth, from whom was my frame not hidden?
+I was formed in darkness, intricately woven in the depths of the earth; at that time, my frame was not hidden from whom?
+
+When I was made in the secret place and woven together in the depths of the earth, from whom was my frame not hidden?
 
 Whose eyes saw my unformed body; and whose book contained all the days ordained for me before even one of them came to be?
 
@@ -406,7 +430,9 @@ I cry to you, LORD; what do I say; “my portion in the land of the living”?
 
 Who should hear my prayer, listen to my cry for mercy, and in His faithfulness and righteousness come to my relief?
 
-What are human beings like? What are their days like?
+What are human beings like?
+
+What are their days like?
 
 ---
 
@@ -414,7 +440,23 @@ Psalms 145-148
 
 What are the first and last verses of Psalms 146–148?
 
-Whom does the LORD uphold the cause of? Whom does He give food to? Whom does He set free? Whose eyes does He give sight to? Whom does He lift up? Whom does He love? Whom does He watch over? Whom does He sustain? Whose way does He frustrate?
+Whom does the LORD uphold the cause of?
+
+Whom does He give food to?
+
+Whom does He set free?
+
+Whose eyes does He give sight to?
+
+Whom does He lift up?
+
+Whom does He love?
+
+Whom does He watch over?
+
+Whom does He sustain?
+
+Whose way does He frustrate?
 
 In Psalm 148, how many times does it say “Praise”?
 

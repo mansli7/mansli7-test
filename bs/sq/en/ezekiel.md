@@ -74,9 +74,13 @@ Ezekiel 17—20
 
 Who is the "he" who is to be punished?
 
-If a wicked person turns from all sins and keeps God's statutes, will he live? Will his former offenses be remembered?
+If a wicked person turns from all sins and keeps God's statutes, will he live?
 
-If a righteous person turns from their righteousness and commits sin, will he live? Will his former righteousness be remembered?
+Will his former offenses be remembered?
+
+If a righteous person turns from their righteousness and commits sin, will he live?
+
+Will his former righteousness be remembered?
 
 Who is the young lion taken with hooks to Egypt, and who is the young trapped lion taken to Babylon?
 
@@ -172,6 +176,8 @@ Which festivals are mentioned in Ezekiel 45:18–25?
 
 Through which gate do the people of the land enter to worship, and through which gate do they leave?
 
-Which direction does the temple face? From where does the water flow, where does it flow to, and what does this water accomplish?
+Which direction does the temple face?
+
+From where does the water flow, where does it flow to, and what does this water accomplish?
 
 How many gates does the city have, what are their names, and what is the city called?

@@ -16,15 +16,31 @@ Zechariah 1-4
 
 When did the word of the LORD first come to Zechariah?
 
-To whom should Israel return? Who will return to them? What should they turn away from?
+To whom should Israel return?
 
-How many years had the LORD been angry with Jerusalem and the towns of Judah? Which nations was He especially angry with, and why?
+Who will return to them?
 
-To which place will the LORD return to show mercy? What will be rebuilt? On what will the measuring line be stretched?
+What should they turn away from?
 
-Which towns will again overflow with prosperity? Where will the LORD again bring comfort? Which city will He choose?
+How many years had the LORD been angry with Jerusalem and the towns of Judah?
 
-What are the four horns? What do the four craftsmen do?
+Which nations was He especially angry with, and why?
+
+To which place will the LORD return to show mercy?
+
+What will be rebuilt?
+
+On what will the measuring line be stretched?
+
+Which towns will again overflow with prosperity?
+
+Where will the LORD again bring comfort?
+
+Which city will He choose?
+
+What are the four horns?
+
+What do the four craftsmen do?
 
 Who will be a wall of fire around Jerusalem and the glory within her?
 
@@ -52,7 +68,9 @@ What will the fasts of the fourth, fifth, seventh, and tenth months become in th
 
 Who made the pleasant land desolate?
 
-Who will return to Zion and dwell in Jerusalem? Why will Jerusalem be called the Faithful City and the mountain of the LORD of hosts called the Holy Mountain?
+Who will return to Zion and dwell in Jerusalem?
+
+Why will Jerusalem be called the Faithful City and the mountain of the LORD of hosts called the Holy Mountain?
 
 ---
 
@@ -60,7 +78,9 @@ Zechariah 9-12
 
 Which New Testament books quote Zechariah 9:9 (“Rejoice greatly, Daughter Zion…”)?
 
-What are the two staffs called? What does breaking them represent?
+What are the two staffs called?
+
+What does breaking them represent?
 
 Where in the New Testament is Zechariah 11:12–13 fulfilled?
 
@@ -72,7 +92,9 @@ Zechariah 13-14
 
 Which New Testament books quote “Strike the shepherd, and the sheep will be scattered”?
 
-On that day, whose feet will stand on the Mount of Olives east of Jerusalem? What will happen to the Mount?
+On that day, whose feet will stand on the Mount of Olives east of Jerusalem?
+
+What will happen to the Mount?
 
 Who will come, accompanied by all the holy ones?
 

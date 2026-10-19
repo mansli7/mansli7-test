@@ -24,9 +24,25 @@ What place will the LORD make an end of with an overwhelming flood, and where wi
 
 Which city, though its people have allies and are numerous, will be destroyed and pass away?
 
-Against whom is the LORD of hosts? What will He burn up in smoke? What will the sword devour? What will He leave them no more of on the earth? What will no longer be heard?
+Against whom is the LORD of hosts?
 
-What are the Assyrian guards like? What are their officials like? When do they settle in the walls? When do they fly away? Does anyone know where they have gone?
+What will He burn up in smoke?
+
+What will the sword devour?
+
+What will He leave them no more of on the earth?
+
+What will no longer be heard?
+
+What are the Assyrian guards like?
+
+What are their officials like?
+
+When do they settle in the walls?
+
+When do they fly away?
+
+Does anyone know where they have gone?
 
 ---
 

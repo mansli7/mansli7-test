@@ -14,7 +14,13 @@ title: Jude Study Questions
 
 Jude
 
-What did Jude urge believers to contend for, and why? Could there have been a dispute over the body of Moses? Woe to them! For they have taken whose way, rushed into whose error for profit, and perished in whose rebellion? What did Enoch, the seventh generation from Adam, prophesy about these people?
+What did Jude urge believers to contend for, and why?
+
+Could there have been a dispute over the body of Moses?
+
+Woe to them! For they have taken whose way, rushed into whose error for profit, and perished in whose rebellion?
+
+What did Enoch, the seventh generation from Adam, prophesy about these people?
 
 ---
 

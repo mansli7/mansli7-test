@@ -40,7 +40,9 @@ Who interfered with the work on the temple of God and reported to King Darius, a
 
 When was the temple completed?
 
-When did Ezra depart from Babylon and when did he arrive in Jerusalem? Whose descendant was he, what was he well versed in, what did he devote himself to do, what did he say in praise of the LORD, why did he proclaim a fast by the Ahava Canal, and what did he do upon arriving in Jerusalem?
+When did Ezra depart from Babylon and when did he arrive in Jerusalem?
+
+Whose descendant was he, what was he well versed in, what did he devote himself to do, what did he say in praise of the LORD, why did he proclaim a fast by the Ahava Canal, and what did he do upon arriving in Jerusalem?
 
 ---
 

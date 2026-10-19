@@ -14,9 +14,13 @@ title: Lamentations Study Questions
 
 Lamentations 1—5
 
-Why do I weep and why do my eyes overflow with tears? The LORD is righteous; why has He treated me in this way?
+Why do I weep and why do my eyes overflow with tears?
 
-With what has the LORD covered Daughter Zion in His anger? What has He hurled down from heaven to earth, and what has He not remembered in the day of His anger?
+The LORD is righteous; why has He treated me in this way?
+
+With what has the LORD covered Daughter Zion in His anger?
+
+What has He hurled down from heaven to earth, and what has He not remembered in the day of His anger?
 
 What has the LORD rejected, what has He abandoned, and what has He given into the hands of the enemy?
 

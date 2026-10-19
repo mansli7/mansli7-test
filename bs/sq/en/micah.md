@@ -22,7 +22,15 @@ Whose plague is incurable, and whose gate does it reach?
 
 The LORD says, “I am planning disaster against this people, from which you cannot save yourselves. You will no longer walk proudly.” Why?
 
-What do the leaders judge for? What do the priests teach for? What do the prophets tell fortunes for? Whom do they rely on, and what do they say? As a result, what will happen to Zion, Jerusalem, and the temple hill?
+What do the leaders judge for?
+
+What do the priests teach for?
+
+What do the prophets tell fortunes for?
+
+Whom do they rely on, and what do they say?
+
+As a result, what will happen to Zion, Jerusalem, and the temple hill?
 
 Which prophet gave the same prophecy as Micah 4:1–3?
 
@@ -34,7 +42,9 @@ Micah 5-7
 
 1 “Where should the Messiah be born?” In which New Testament book is Micah 5:2 quoted to answer this question?
 
-What does the LORD require of mankind? Which option is correct?
+What does the LORD require of mankind?
+
+Which option is correct?
 
 A)  a year-old calf for burnt offering
 

@@ -24,7 +24,11 @@ Since God had approved us as being entrusted with the gospel, we speak not to pl
 
 Where was Paul when he wrote this letter?
 
-“So when we could stand it no longer, we thought it best to be left by ourselves in Athens. We sent who to find out about your faith?” What did Paul want to know? What was he afraid of? What did he fear might have been in vain?
+“So when we could stand it no longer, we thought it best to be left by ourselves in Athens. We sent who to find out about your faith?” What did Paul want to know?
+
+What was he afraid of?
+
+What did he fear might have been in vain?
 
 ---
 

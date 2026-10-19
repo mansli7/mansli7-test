@@ -14,7 +14,9 @@ title: Matthew Study Questions
 
 Matthew 1-3
 
-How many sets of fourteen generations are there in the genealogy of Jesus Christ, and how many generations are there in total? How many women are included?
+How many sets of fourteen generations are there in the genealogy of Jesus Christ, and how many generations are there in total?
+
+How many women are included?
 
 How did Mary become pregnant, and why was the son she gave birth to to be named Jesus?
 
@@ -26,13 +28,21 @@ Where was the Messiah to be born, and which Old Testament book prophesied it?
 
 Where did Joseph take Jesus and Mary to escape from Herod, and which Old Testament book contains the prophecy fulfilled by this?
 
-Where did Herod have all the boys killed, and how old were they? Whose words did this fulfill?
+Where did Herod have all the boys killed, and how old were they?
+
+Whose words did this fulfill?
 
 Why was Jesus called a Nazarene?
 
-Who preached in the wilderness of Judea? What did he say, and which prophet and book of the Old Testament prophesied about him?
+Who preached in the wilderness of Judea?
 
-As Jesus came up out of the water after being baptized, what was opened? What did He see descending and alighting on Him? What did a voice from heaven say?
+What did he say, and which prophet and book of the Old Testament prophesied about him?
+
+As Jesus came up out of the water after being baptized, what was opened?
+
+What did He see descending and alighting on Him?
+
+What did a voice from heaven say?
 
 ---
 
@@ -44,7 +54,11 @@ Jesus left Nazareth and went and lived in Capernaum, by the lake in the area of 
 
 How many “blessed are” statements are there in Matthew 5:3–12?
 
-What should also be shine? What may they see? Whom should they glorify?
+What should also be shine?
+
+What may they see?
+
+Whom should they glorify?
 
 Did Jesus come to abolish the Law and the Prophets, or to fulfill them?
 
@@ -52,7 +66,9 @@ Will anyone who is angry with a brother or sister be subject to judgment?
 
 What has already happened in the heart of anyone who looks at a woman lustfully?
 
-Anyone who divorces his wife, except for what reason, makes her the victim of adultery? What does anyone who marries a divorced woman commit?
+Anyone who divorces his wife, except for what reason, makes her the victim of adultery?
+
+What does anyone who marries a divorced woman commit?
 
 All you need to say is simply ‘Yes’ or ‘No’; anything beyond this comes from whom?
 
@@ -62,7 +78,9 @@ Who causes His sun to rise on the evil and the good and sends rain on the righte
 
 How should you pray?
 
-What is your heart with? Can you serve both God and money?
+What is your heart with?
+
+Can you serve both God and money?
 
 What was Solomon in all his splendor not dressed like?
 
@@ -76,9 +94,15 @@ What should not be given to dogs, and what should not be thrown to pigs, lest th
 
 In everything, why should you do to others as you would have them do to you?
 
-Is the gate that leads to life wide or narrow? Is the road broad or narrow? Are there many or few who find it?
+Is the gate that leads to life wide or narrow?
 
-Whom should you watch out for? They come to you in sheep’s clothing, but inwardly are what?
+Is the road broad or narrow?
+
+Are there many or few who find it?
+
+Whom should you watch out for?
+
+They come to you in sheep’s clothing, but inwardly are what?
 
 Not everyone who says to Jesus, “Lord, Lord,” will enter the kingdom of heaven; who alone will enter it?
 
@@ -86,7 +110,11 @@ Why did Jesus say, “Truly I tell you, I have not found anyone in Israel with s
 
 Many who were demon-possessed were brought to Jesus, and He drove out the spirits with a word and healed all the sick. Which prophet’s words did this fulfill?
 
-What do foxes have? What do birds have? But what does the Son of Man not have?
+What do foxes have?
+
+What do birds have?
+
+But what does the Son of Man not have?
 
 Which book does “I desire mercy, not sacrifice” come from?
 
@@ -100,13 +128,19 @@ Matthew 10-12
 
 You have received freely; how should you give?
 
-Jesus sent His disciples out like sheep among what? What were they to be as shrewd as? What were they to be as innocent as?
+Jesus sent His disciples out like sheep among what?
+
+What were they to be as shrewd as?
+
+What were they to be as innocent as?
 
 The disciples would be hated by everyone because of Jesus’ name, but what kind of person will be saved?
 
 Whom should they not fear, and whom should they fear instead?
 
-What will whoever finds their life lose? What will whoever loses their life for Jesus’ sake find?
+What will whoever finds their life lose?
+
+What will whoever loses their life for Jesus’ sake find?
 
 In Matthew 11:2–6, what exactly did John want to ask, and what did Jesus’ answer include?
 
@@ -140,7 +174,15 @@ How many parables did Jesus tell in Matthew 13, and which prophecies were fulfil
 
 When you read Matthew 14:13–21, where five loaves and two fish fed five thousand people, and Matthew 15:32–39, where seven loaves and a few small fish fed four thousand, which miracle in the Old Testament does this remind you of?
 
-When the disciples saw Jesus walking on the lake, what did they feel and say? What did Jesus say to them? What did Peter want to do, and what happened when he did it?? What did Jesus say? What did those in the boat say as they worshiped Jesus?
+When the disciples saw Jesus walking on the lake, what did they feel and say?
+
+What did Jesus say to them?
+
+What did Peter want to do, and what happened when he did it??
+
+What did Jesus say?
+
+What did those in the boat say as they worshiped Jesus?
 
 Which book contains the prophecy quoted in Matthew 15:8–9?
 
@@ -160,13 +202,19 @@ Where must Jesus go, from whom must He suffer many things, and be killed, and on
 
 Who will come in His Father’s glory with whom, and what will He do at that time?
 
-What happened to Jesus before Peter and the others? His face shone like what, and His clothes became as white as what?
+What happened to Jesus before Peter and the others?
 
-Suddenly, who appeared to them and talked with Jesus? While they were speaking, what suddenly covered them, and what did a voice say?
+His face shone like what, and His clothes became as white as what?
+
+Suddenly, who appeared to them and talked with Jesus?
+
+While they were speaking, what suddenly covered them, and what did a voice say?
 
 Who is the greatest in the kingdom of heaven?
 
-Whom must you be careful not to despise? Who in heaven always sees the face of Jesus’ Father?
+Whom must you be careful not to despise?
+
+Who in heaven always sees the face of Jesus’ Father?
 
 Who also does not want any of these little ones to perish?
 
@@ -182,7 +230,9 @@ Matthew 19-21
 
 “That is why a man leaves his father and mother and is united to his wife, and the two become one flesh.” Which book is this from?
 
-Husband and wife are no longer two, but what? Therefore, what must no one do to what God has joined together?
+Husband and wife are no longer two, but what?
+
+Therefore, what must no one do to what God has joined together?
 
 According to the Law, why did Moses command a man to give his wife a certificate of divorce and send her away?
 
@@ -236,7 +286,9 @@ Whom should you flee from when you see standing in the holy place?
 
 For at that time there will be what kind of trouble, unlike anything since the beginning of the world and never to be equaled again?
 
-When will the sign of the Son of Man appear in heaven, and all the peoples of the earth mourn? When will they see the Son of Man coming on the clouds of heaven, with power and great glory?
+When will the sign of the Son of Man appear in heaven, and all the peoples of the earth mourn?
+
+When will they see the Son of Man coming on the clouds of heaven, with power and great glory?
 
 ---
 
@@ -254,11 +306,17 @@ Wherever this gospel is preached throughout the world, what will also be told in
 
 The Son of Man will go just as it is written about Him; but who is doomed to woe, and for whom would it have been better not to have been born?
 
-When Jesus broke the bread and gave it to the disciples, what did He say it was? Then He took the cup and gave it to them; what did He say?
+When Jesus broke the bread and gave it to the disciples, what did He say it was?
+
+Then He took the cup and gave it to them; what did He say?
 
 Which book contains “I will strike the shepherd, and the sheep will be scattered”?
 
-In Gethsemane, Jesus was deeply sorrowful and troubled, almost to what point? What did He tell His disciples to do? How many times did He pray, what did He say, and what were the disciples doing when He returned to them?
+In Gethsemane, Jesus was deeply sorrowful and troubled, almost to what point?
+
+What did He tell His disciples to do?
+
+How many times did He pray, what did He say, and what were the disciples doing when He returned to them?
 
 Although many came forward to give false testimony against Jesus, what could they not find?
 
@@ -266,9 +324,13 @@ Later, whom would they see sitting at the right hand of the Mighty One and comin
 
 Why did Peter weep bitterly when the rooster crowed?
 
-How much money did Judas receive for betraying Jesus? How did Judas die, and what was the money used to buy?
+How much money did Judas receive for betraying Jesus?
 
-What did Pilate do with water? What did he say, and how did the crowd answer?
+How did Judas die, and what was the money used to buy?
+
+What did Pilate do with water?
+
+What did he say, and how did the crowd answer?
 
 What prophecies were fulfilled by the gall in Matthew 27:34, the vinegar in verse 48, the casting lots for His clothes in verse 35, His crucifixion with robbers in verse 38, God forsaking Him in verse 46, and His burial place in verse 60?
 

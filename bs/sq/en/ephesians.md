@@ -20,11 +20,17 @@ What is the promised Holy Spirit a deposit guaranteeing?
 
 How great is God’s power toward us who believe?
 
-How have you been saved? What is this salvation not from yourselves, but what is it?
+How have you been saved?
+
+What is this salvation not from yourselves, but what is it?
 
 “He has destroyed the barrier, the dividing wall of hostility” and through the cross has made the two groups one and reconciled them to God. Who are the “two groups” here?
 
-We are built on whose foundation? Who is the chief cornerstone? In him the whole building is joined together and rises to become what?
+We are built on whose foundation?
+
+Who is the chief cornerstone?
+
+In him the whole building is joined together and rises to become what?
 
 What is the mystery of Christ?
 
@@ -36,11 +42,15 @@ What is able to do immeasurably more than all we ask or imagine?
 
 Ephesians 4-6
 
-How many times does the word “one” appear in Ephesians 4:3–6? What are they?
+How many times does the word “one” appear in Ephesians 4:3–6?
+
+What are they?
 
 If you have heard about Christ and were taught in him in accordance with the truth that is in Jesus, what should you put off and what should you put on?
 
-The husband is the head of whom, just as Christ is the head of whom? He is also the Savior of whom?
+The husband is the head of whom, just as Christ is the head of whom?
+
+He is also the Savior of whom?
 
 Husbands, whom should you love, just as Christ loved the church and gave himself up for her?
 

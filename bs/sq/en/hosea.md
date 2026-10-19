@@ -30,13 +30,29 @@ They eat up the sin of my people, and what do they set their heart on?
 
 Hosea 5—8
 
-What prevents the Israelites from returning to their God? What spirit is in them, and whom do they not acknowledge?
+What prevents the Israelites from returning to their God?
 
-What do you think of Israel's prayer and plea in Hosea 6:1–3? How will the LORD respond?
+What spirit is in them, and whom do they not acknowledge?
 
-What is Ephraim like—easily deceived and senseless? Whom do they call to, and whom do they turn to?
+What do you think of Israel's prayer and plea in Hosea 6:1–3?
 
-From whom have they strayed, so that woe will come to them? Against whom have they rebelled, so that destruction will come to them? Who longs to redeem them, yet they speak lies against Him? They sow the wind and what do they reap? The stalk has no head; what will it produce? Even if it yielded grain, what would foreigners do with it?
+How will the LORD respond?
+
+What is Ephraim like—easily deceived and senseless?
+
+Whom do they call to, and whom do they turn to?
+
+From whom have they strayed, so that woe will come to them?
+
+Against whom have they rebelled, so that destruction will come to them?
+
+Who longs to redeem them, yet they speak lies against Him?
+
+They sow the wind and what do they reap?
+
+The stalk has no head; what will it produce?
+
+Even if it yielded grain, what would foreigners do with it?
 
 What did Ephraim multiply to sin, and what shall be unto him to sin?
 
@@ -68,10 +84,14 @@ Hosea 13—14
 
 Previously "Ephraim spoke, people trembled; he was exalted in Israel"—identify one Ephraimite who once held a high position.
 
-Who gave Israel a king in His anger and took him away in His wrath? Who was that king?
+Who gave Israel a king in His anger and took him away in His wrath?
+
+Who was that king?
 
 What will the LORD deliver the Israelites from, and what will He redeem them from?
 
 Who will be like the dew to Israel; what will he blossom like; what will he send down his roots like; what will grow; what will his splendor be like; and what will his fragrance be like?
 
-Whose ways are right? Who will walk in them, and who will stumble in them?
+Whose ways are right?
+
+Who will walk in them, and who will stumble in them?

@@ -26,7 +26,9 @@ Whose day is near?
 
 On that day, before what comes, the land is like the garden of Eden; after it has passed, what does the land become?
 
-Whose day is great and dreadful? Is there anyone who can endure it?
+Whose day is great and dreadful?
+
+Is there anyone who can endure it?
 
 Who quoted Joel 2:28—32 in the New Testament?
 

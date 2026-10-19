@@ -42,7 +42,9 @@ Did the king of Israel have a way to heal him?
 
 What was the method of healing provided by the man of God, Elisha?
 
-Did Naaman accept it at first? Later, after whose advice did he follow Elisha’s instructions, and was he cleansed?
+Did Naaman accept it at first?
+
+Later, after whose advice did he follow Elisha’s instructions, and was he cleansed?
 
 When Naaman returned to the man of God, what did he now know, what did he request Elisha to give him, what did he intend to use it for, and what did he ask the LORD to forgive him for?
 
@@ -150,7 +152,13 @@ Manasseh did evil in the eyes of the LORD even more than the nations that the LO
 
 Upon whom the LORD said He would bring disaster, with what measuring line and plumb line would be stretched over which place, what would be wiped out, and whom would He reject, and why?
 
-When High Priest Hilkiah found the Book of the Law in the temple, was it the first time he and King Josiah learned its contents? How did the king react in his heart? Before whom did he humble himself, what did he tear, and to whom did he cry? What did the LORD grant him?
+When High Priest Hilkiah found the Book of the Law in the temple, was it the first time he and King Josiah learned its contents?
+
+How did the king react in his heart?
+
+Before whom did he humble himself, what did he tear, and to whom did he cry?
+
+What did the LORD grant him?
 
 Which book instructs the king to make a copy of the law for himself?
 

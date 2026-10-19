@@ -20,7 +20,9 @@ How can Habakkuk 2:3 be understood in simple words? “For the revelation awaits
 
 In which books of the Bible is the phrase “the righteous shall live by his faith” quoted?
 
-What did Habakkuk hear that made him stand in awe of the LORD’s deeds? What did he hear that caused his heart to pound, his lips to quiver, and decay to enter his bones?
+What did Habakkuk hear that made him stand in awe of the LORD’s deeds?
+
+What did he hear that caused his heart to pound, his lips to quiver, and decay to enter his bones?
 
 In whom will Habakkuk rejoice and be joyful?
 

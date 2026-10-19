@@ -22,11 +22,15 @@ Why does the Preacher hate life and all his labor?
 
 Is there a time for everything, and a season for every activity under heaven?
 
-God has made everything beautiful in its time. What has He also set in the human heart? Yet what can no one fathom?
+God has made everything beautiful in its time. What has He also set in the human heart?
+
+Yet what can no one fathom?
 
 After death, where does the human spirit go, and where does the spirit of the beast go?
 
-Whom does the Preacher declare happier than the living? And whom does he consider better than both?
+Whom does the Preacher declare happier than the living?
+
+And whom does he consider better than both?
 
 What kind of youth is better than an old and foolish king who no longer knows how to heed a warning?
 
@@ -36,7 +40,9 @@ Ecclesiastes 5-8
 
 Do not be quick with your mouth, and do not be hasty in your heart to utter anything before God; why?
 
-Everyone comes naked from their mother’s womb; how will they depart? Can they carry anything away from their labor?
+Everyone comes naked from their mother’s womb; how will they depart?
+
+Can they carry anything away from their labor?
 
 What have I observed to be good?
 
@@ -54,9 +60,13 @@ What do the wise claim to know, yet cannot really comprehend?
 
 Ecclesiastes 9-12
 
-What are fish caught by, birds trapped by, and people snared by? Do they know when their time will come?
+What are fish caught by, birds trapped by, and people snared by?
 
-What gives perfume a bad smell? What can outweigh wisdom and honor?
+Do they know when their time will come?
+
+What gives perfume a bad smell?
+
+What can outweigh wisdom and honor?
 
 As you do not know the path of the wind or how the body is formed in a mother’s womb, so whose work can you not understand?
 

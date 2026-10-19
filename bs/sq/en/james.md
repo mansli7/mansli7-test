@@ -34,7 +34,9 @@ If someone is never at fault in what they say, what kind of person is he, and wh
 
 What can no one tame, and what is it described as—a restless evil, full of what?
 
-What kind of wisdom is earthly, unspiritual and demonic? What kind of wisdom comes from heaven?
+What kind of wisdom is earthly, unspiritual and demonic?
+
+What kind of wisdom comes from heaven?
 
 ---
 

@@ -74,7 +74,9 @@ Who appears at her high place, she only wears herself out; when she goes to her 
 
 Isaiah 17-20
 
-Where will there no longer be the fortified city, and where will royal power vanish; the remnant of which nation will be like the glory of Israelities? Who declares this?
+Where will there no longer be the fortified city, and where will royal power vanish; the remnant of which nation will be like the glory of Israelities?
+
+Who declares this?
 
 What will be a sign and witness to the LORD Almighty in the land of Egypt?
 
@@ -116,27 +118,43 @@ Isaiah 29-32
 
 The Lord has brought over you a deep sleep, sealed your eyes and covered your heads. What do “eyes” and “heads” refer to here?
 
-Who quotes Isaiah 29:13 in the New Testament? Why does the LORD say that Israel adds sin to sin?
+Who quotes Isaiah 29:13 in the New Testament?
+
+Why does the LORD say that Israel adds sin to sin?
 
 Woe to those who go down to Egypt for help. What do they rely on instead of looking to Israel’s Holy One or seeking help from the LORD?
 
-Egyptians are merely humans, not gods; their horses are flesh, not spirit. When one reaches out, those helping will stumble, and those helped will fall, all perishing together? Who stretches out His hand so that both the helper and the helped fall together, perish together?
+Egyptians are merely humans, not gods; their horses are flesh, not spirit. When one reaches out, those helping will stumble, and those helped will fall, all perishing together?
+
+Who stretches out His hand so that both the helper and the helped fall together, perish together?
 
 ---
 
 Isaiah 33-36
 
-To whom do we cry for grace? For whom do we long? Whom do we ask to be our strength every morning and our salvation in times of trouble?
+To whom do we cry for grace?
+
+For whom do we long?
+
+Whom do we ask to be our strength every morning and our salvation in times of trouble?
 
 Who is our Judge, our Lawgiver, our King, and our Savior?
 
-What will be dissilved? What will be rolled up like a scroll? What will wither like leaves from a vine or fig tree?
+What will be dissilved?
 
-Whose sword is filled with blood, anointed with fat of lambs, goats’ blood, and the kidneys of rams; why is it prepared this way? Whose sword is bathed in blood,and covered with fat — the blood of lambs and goats,fat from the kidneys of rams,and why?
+What will be rolled up like a scroll?
+
+What will wither like leaves from a vine or fig tree?
+
+Whose sword is filled with blood, anointed with fat of lambs, goats’ blood, and the kidneys of rams; why is it prepared this way?
+
+Whose sword is bathed in blood,and covered with fat — the blood of lambs and goats,fat from the kidneys of rams,and why?
 
 Which streams will be turned into pitch,her dust into burning sulfur;her land will become blazing pitch!It will not be quenched night or day;its smoke will rise forever.From generation to generation it will lie desolate;no one will ever pass through it again?
 
-“At that time the eyes of the blind shall be opened, the ears of the deaf unstopped; the lame shall leap like a deer, and the tongue of the mute sing.” Where is this fulfilled in the New Testament? “The eyes of the blind be opened and the ears of the deaf unstopped;the lame leap like a deer,and the mute tongue shout for joy.”, where is this fulfilled in the New Testament?
+“At that time the eyes of the blind shall be opened, the ears of the deaf unstopped; the lame shall leap like a deer, and the tongue of the mute sing.” Where is this fulfilled in the New Testament?
+
+“The eyes of the blind be opened and the ears of the deaf unstopped;the lame leap like a deer,and the mute tongue shout for joy.”, where is this fulfilled in the New Testament?
 
 Where else is the account of Isaiah 36 recorded in the Bible?
 
@@ -148,7 +166,9 @@ To which other book and chapter in the Bible is Isaiah chapter 37 is nearly iden
 
 How old was Hezekiah when he became ill to death, what two things did he ask of the LORD that year?
 
-Where in the New Testament is Isaiah 40:3–5 fulfilled: “A voice cries: ‘Prepare the way of the Lord in the wilderness; make straight in the desert a highway for our God… The glory of the Lord shall be revealed; all flesh shall see it together; for the mouth of the Lord has spoken’”? Where is Isaiah 40:3-5 fulfilled in the New Testament?
+Where in the New Testament is Isaiah 40:3–5 fulfilled: “A voice cries: ‘Prepare the way of the Lord in the wilderness; make straight in the desert a highway for our God… The glory of the Lord shall be revealed; all flesh shall see it together; for the mouth of the Lord has spoken’”?
+
+Where is Isaiah 40:3-5 fulfilled in the New Testament?
 
 ---
 
@@ -188,9 +208,13 @@ Which New Testament book quotes,“In the time of my favor I will answer you,and
 
 Where does “these from the land of Sinim” refer to?
 
-Whose arm is not too short to redeem? Whose arm will bring justice to the nations, and whom do the islands look to and in His arm do they put their hope?
+Whose arm is not too short to redeem?
 
-Whose arm, Awake, awake? Who will lay bare His holy arm in the sight of all nations so that all the ends of the earth will see the salvation of our God?
+Whose arm will bring justice to the nations, and whom do the islands look to and in His arm do they put their hope?
+
+Whose arm, Awake, awake?
+
+Who will lay bare His holy arm in the sight of all nations so that all the ends of the earth will see the salvation of our God?
 
 Whose feet are beautiful on the mountains, and where is this quoted in the New Testament?
 
@@ -238,7 +262,9 @@ By what has the LORD sworn: “Never again will I give your grain as food for yo
 
 Who will eat and praise the LORD; who will drink in the courts of His Sanctuary?
 
-Who is this coming from Edom, from Bozrah, with his garments stained crimson? Who is this, robed in splendor,striding forward in the greatness of his strength?
+Who is this coming from Edom, from Bozrah, with his garments stained crimson?
+
+Who is this, robed in splendor,striding forward in the greatness of his strength?
 
 What has been the name of the LORD from ancient times?
 

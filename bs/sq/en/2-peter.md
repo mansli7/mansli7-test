@@ -20,7 +20,13 @@ What happens to those who do not have these qualities?
 
 “I think it is right to refresh your memory as long as I live in the tent of this body.” What does “this tent” mean?
 
-When and where did Peter personally hear the voice saying, “This is my Son, whom I love; with him I am well pleased”? What did he see with his own eyes? Where did the voice come from? Who is the beloved Son?
+When and where did Peter personally hear the voice saying, “This is my Son, whom I love; with him I am well pleased”?
+
+What did he see with his own eyes?
+
+Where did the voice come from?
+
+Who is the beloved Son?
 
 In the first chapter of 2 Peter, what does Peter say is “above all”?
 
@@ -34,7 +40,9 @@ What kind of way did Balaam son of Bezer follow?
 
 The Lord is not slow in keeping his promise, as some understand slowness. Why is he patient instead?
 
-On that day, the heavens will be destroyed by fire and the elements will melt in the heat. But in keeping with his promise, what are we looking forward to? Whose day is “that day”?
+On that day, the heavens will be destroyed by fire and the elements will melt in the heat. But in keeping with his promise, what are we looking forward to?
+
+Whose day is “that day”?
 
 ---
 

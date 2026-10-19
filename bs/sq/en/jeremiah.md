@@ -14,7 +14,9 @@ title: Jeremiah Study Questions
 
 Jeremiah 1-4
 
-During the reigns of which kings of Judah did the word of the LORD come to Jeremiah? How many kings were there in total?
+During the reigns of which kings of Judah did the word of the LORD come to Jeremiah?
+
+How many kings were there in total?
 
 When did the Lord know Jeremiah, set him apart, and appoint him as a prophet to the nations?
 
@@ -34,15 +36,25 @@ Whom will the LORD give to Israel to shepherd them with knowledge and understand
 
 Jeremiah 5-8
 
-In Israel, do the poor and foolish know the way of the LORD and the requirements of their God? Do the leaders know?
+In Israel, do the poor and foolish know the way of the LORD and the requirements of their God?
 
-From where will the LORD bring a nation against Israel? Is it a mighty nation? is it an ancient nation?
+Do the leaders know?
 
-How have the Israelites forsaken the Lord and served foreign gods in the land of Israel, and where will they serve whom likewise? As the Israelites have forsaken the LORD and served foreign gods in their own land, where and whom would they serve in return?
+From where will the LORD bring a nation against Israel?
+
+Is it a mighty nation?
+
+is it an ancient nation?
+
+How have the Israelites forsaken the Lord and served foreign gods in the land of Israel, and where will they serve whom likewise?
+
+As the Israelites have forsaken the LORD and served foreign gods in their own land, where and whom would they serve in return?
 
 As a well pours out its water, so what dose Jerusalem pour out?
 
-The Lord will act toward this temple, which is called by His name, and the land given to them and their ancestors, as He did previously where? What is the name of the place to which the LORD did exactly what He will now do to the house that bears His Name—the temple the Israelites trust in, the place He gave to them and their ancestors?
+The Lord will act toward this temple, which is called by His name, and the land given to them and their ancestors, as He did previously where?
+
+What is the name of the place to which the LORD did exactly what He will now do to the house that bears His Name—the temple the Israelites trust in, the place He gave to them and their ancestors?
 
 The LORD told Jeremiah not pray for Israel nor offer any plea or petition for them; not plead with Him; why?
 
@@ -52,7 +64,15 @@ The stork in the sky knows her appointed seasons, and the dove, the swift and th
 
 Jeremiah 9-12
 
-What should the wise not boast of? What should the strong not boast of? What should the rich not boast of? But what should the one who boasts boast about? Whom should he have the understanding to know, and what should he know about Him?
+What should the wise not boast of?
+
+What should the strong not boast of?
+
+What should the rich not boast of?
+
+But what should the one who boasts boast about?
+
+Whom should he have the understanding to know, and what should he know about Him?
 
 In Jeremiah chapter 10, who is described as senseless and without knowledge?
 
@@ -70,7 +90,9 @@ Israel hoped for light, but the LORD would turn it into deep darkness and change
 
 Prophecy 1: “You will not see the sword or suffer famine. Indeed, I will give you lasting peace in this place”; Prophecy 2: “Do not pray for the well-being of this people. Although they fast, I will not listen to their cry; though they offer burnt offerings and grain offerings, I will not accept them. Instead, I will destroy them with the sword, famine and plague”. Which of these two prophecies comes from the LORD?
 
-What four kinds of destroyers did the LORD appoint against Israel, and where would He make them abhorrent to all the kingdoms of the earth, and why? Why did the LORD command Jeremiah not to marry or have sons and daughters in that place?
+What four kinds of destroyers did the LORD appoint against Israel, and where would He make them abhorrent to all the kingdoms of the earth, and why?
+
+Why did the LORD command Jeremiah not to marry or have sons and daughters in that place?
 
 ---
 
@@ -94,7 +116,9 @@ Jeremiah 21-24
 
 How many kings of Judah are mentioned in Jeremiah 22?
 
-The days are coming, whom will the LORD will raise up for David? How will he reign, what will he do in the land, how will Judah and Israel fare in his days, and by what name will he be called?
+The days are coming, whom will the LORD will raise up for David?
+
+How will he reign, what will he do in the land, how will Judah and Israel fare in his days, and by what name will he be called?
 
 What do the two baskets of figs—one very good, one very bad—symbolize?
 
@@ -104,13 +128,21 @@ Jeremiah 25-28
 
 For how many years will the Israelites serve the king of Babylon?
 
-By that day, what will lie from one end of the earth to the other? What will not be done for them, and what will they become?
+By that day, what will lie from one end of the earth to the other?
+
+What will not be done for them, and what will they become?
 
 Who prophesied against the LORD’s temple and Jerusalem, and should this person die? Why?
 
-What would be taken to Babylon and remain there until the day the LORD came to them? Then what would the LORD bring back andb restore to this place?
+What would be taken to Babylon and remain there until the day the LORD came to them?
 
-Who told Jeremiah to make a yoke out of straps and crossbars and put it on his neck? What did it symbolize? Who broke the yoke, and what happened as a result?
+Then what would the LORD bring back andb restore to this place?
+
+Who told Jeremiah to make a yoke out of straps and crossbars and put it on his neck?
+
+What did it symbolize?
+
+Who broke the yoke, and what happened as a result?
 
 ---
 
@@ -150,7 +182,9 @@ Jeremiah 37-40
 
 How many places was Jeremiah imprisoned, where, and why was he moved from one place to another, and who ultimately released him?
 
-In which year and month did King Nebuchadnezzar of Babylon besiege Jerusalem, and when was the city broken through? Who pronounced sentence on the King Zedekiah of Judah and where was he taken?
+In which year and month did King Nebuchadnezzar of Babylon besiege Jerusalem, and when was the city broken through?
+
+Who pronounced sentence on the King Zedekiah of Judah and where was he taken?
 
 Who was appointed governor over the towns of Judah?
 
@@ -160,7 +194,9 @@ Jeremiah 41-44
 
 Who killed Gedaliah, the governor of Judah?
 
-What did Johanan and the others ask Jeremiah to pray to the LORD for? Did the LORD tell them to stay in Judah or go to Egypt, and did they obey?
+What did Johanan and the others ask Jeremiah to pray to the LORD for?
+
+Did the LORD tell them to stay in Judah or go to Egypt, and did they obey?
 
 Which land was Nebuchadnezzar going to attack, and what would happen to those destined for death, captivity, and the sword?
 
@@ -202,7 +238,15 @@ Whom will the Lord Almighty, the God of Israel, punish along with his land, just
 
 Who will bring Israel back to their own pasture, so that they will graze on Carmel and Bashan and their appetite will be satisfied on the hills of Ephraim and Gilead?
 
-Who says: “In those days, at that time, search will be made for Israel’s guilt, but there will be none, and for the sins of Judah, but none will be found, for I will forgive the remnant I spare”? Who was a gold cup in the Lord’s hand, making the whole earth drunk, whose wine the nations drank and therefore went mad? Whom does the Lord purpose to destroy, and the spirits of which kings has he stirred up, because this is the vengeance of the Lord, vengeance for his temple? Which place will become a heap of ruins, a haunt of jackals, an object of horror and scorn, a place where no one lives? Here is the number of the people Nebuchadnezzar carried into exile: in his seventh year, how many Jews did he carry away; in Nebuchadnezzar’s eighteenth year, how many people from Jerusalem; in his twenty-third year, how many Jews were taken into exile by Nebuzaradan the commander of the imperial guard; and how many people were there in all?
+Who says: “In those days, at that time, search will be made for Israel’s guilt, but there will be none, and for the sins of Judah, but none will be found, for I will forgive the remnant I spare”?
+
+Who was a gold cup in the Lord’s hand, making the whole earth drunk, whose wine the nations drank and therefore went mad?
+
+Whom does the Lord purpose to destroy, and the spirits of which kings has he stirred up, because this is the vengeance of the Lord, vengeance for his temple?
+
+Which place will become a heap of ruins, a haunt of jackals, an object of horror and scorn, a place where no one lives?
+
+Here is the number of the people Nebuchadnezzar carried into exile: in his seventh year, how many Jews did he carry away; in Nebuchadnezzar’s eighteenth year, how many people from Jerusalem; in his twenty-third year, how many Jews were taken into exile by Nebuzaradan the commander of the imperial guard; and how many people were there in all?
 
 ---
 

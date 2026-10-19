@@ -22,7 +22,9 @@ Whose day is mentioned in Philippians chapter 1?
 
 What did Christ Jesus do that led Paul to say, “In your relationships with one another, have the same mindset as Christ Jesus”?
 
-Whom did Paul plan to send to the Philippians? What kind of people were they?
+Whom did Paul plan to send to the Philippians?
+
+What kind of people were they?
 
 What did Paul warn the church in Philippi to watch out for?
 
@@ -30,7 +32,9 @@ What did Paul consider a loss, and what did he consider to be of greater worth?
 
 Paul said, “One thing I do.” What was it?
 
-How many times is “rejoice” mentioned in Philippians chapter 4? In whom should we rejoice?
+How many times is “rejoice” mentioned in Philippians chapter 4?
+
+In whom should we rejoice?
 
 ---
 

@@ -14,7 +14,9 @@ title: 1 John Study Questions
 
 1 John 1-3
 
-How many times does 1 John chapter 1 speak about fellowship? Who has fellowship with whom?
+How many times does 1 John chapter 1 speak about fellowship?
+
+Who has fellowship with whom?
 
 Jesus Christ is the atoning sacrifice for our sins—not only for our sins, but also for whose sins?
 
@@ -34,13 +36,21 @@ What is God’s command?
 
 1 John 4-5
 
-Do not believe every spirit, but test the spirits to see whether they are from God. Why? What kind of spirit is from God, and what kind is not?
+Do not believe every spirit, but test the spirits to see whether they are from God. Why?
 
-Who does love come from? Who is love? How has God shown his love among us?
+What kind of spirit is from God, and what kind is not?
+
+Who does love come from?
+
+Who is love?
+
+How has God shown his love among us?
 
 Whoever acknowledges that Jesus is the Son of God—what is the relationship between God and that person?
 
-There is no what in love? What does perfect love drive out?
+There is no what in love?
+
+What does perfect love drive out?
 
 We love because who first loved us?
 
@@ -52,7 +62,9 @@ There are three that testify. What are they?
 
 Since we accept human testimony, why should we accept God’s testimony as greater?
 
-What is this testimony? God has given us eternal life, and this life is in whom?
+What is this testimony?
+
+God has given us eternal life, and this life is in whom?
 
 John says, “I write these things to you who believe in the name of the Son of God.” What does he want them to know that they have?
 

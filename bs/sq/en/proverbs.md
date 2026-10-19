@@ -50,15 +50,23 @@ In Proverbs 8:22–31, who is the “I” or “me”?
 
 Proverbs 9-12
 
-The fear of whom is the beginning of wisdom? Knowledge of whom is understanding?
+The fear of whom is the beginning of wisdom?
 
-If you are wise, who will benefit? If you are a mocker, who will suffer alone?
+Knowledge of whom is understanding?
 
-What stirs up conflict? What covers over all wrongs?
+If you are wise, who will benefit?
+
+If you are a mocker, who will suffer alone?
+
+What stirs up conflict?
+
+What covers over all wrongs?
 
 A beautiful woman without discretion is like a gold ring in what animal’s snout?
 
-What is a wife of noble character to her husband? A disgraceful wife is like what in her husband’s bones?
+What is a wife of noble character to her husband?
+
+A disgraceful wife is like what in her husband’s bones?
 
 ---
 
@@ -66,9 +74,13 @@ Proverbs 13-16
 
 Does the person who spares the rod love their children?
 
-What does a wise woman build? What does a foolish woman tear down?
+What does a wise woman build?
 
-Who believes anything? Who gives thoughts to his steps?
+What does a foolish woman tear down?
+
+Who believes anything?
+
+Who gives thoughts to his steps?
 
 The fear of whom is a fountain of life, turning a person from what?
 
@@ -100,7 +112,9 @@ Better to meet a bear robbed of her cubs than what kind of person?
 
 A brother wronged is more unyielding than what; disputes are like what?
 
-Who is a father’s ruin? What is like the constant dripping of a leaky roof?
+Who is a father’s ruin?
+
+What is like the constant dripping of a leaky roof?
 
 What are inherited from parents, but who is from the LORD?
 
@@ -120,17 +134,23 @@ Start children off on which way, and even when they are old they will not turn f
 
 What kind of person should you not make friends with or associate with, or you may learn their ways and get yourself ensnared?
 
-Do not withhold discipline from a child; if you punish them with the rod, what will not happen to them? Punish them with the rod and save them from what?
+Do not withhold discipline from a child; if you punish them with the rod, what will not happen to them?
+
+Punish them with the rod and save them from what?
 
 The father of what kind of child has great joy; the father of what kind of son rejoices in him?
 
-Eat honey, my son, why is it good? Know what is like honey to your soul?
+Eat honey, my son, why is it good?
+
+Know what is like honey to your soul?
 
 ---
 
 Proverbs 25-28
 
-Who can be persuaded through patience? What can be broken by a gentle tongue?
+Who can be persuaded through patience?
+
+What can be broken by a gentle tongue?
 
 Seldom set foot in whose house, lest they hate you?
 
@@ -142,7 +162,9 @@ Why should you answer a fool according to his folly?
 
 The crucible for silver and the furnace for gold – but what tests man?
 
-What kind of person will lack nothing? What kind of person will receive many curses?
+What kind of person will lack nothing?
+
+What kind of person will receive many curses?
 
 ---
 

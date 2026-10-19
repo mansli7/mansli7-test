@@ -14,7 +14,13 @@ title: Revelation Study Questions
 
 Revelation 1-3
 
-What is the revelation of Jesus Christ? To whom did God give it? Which servant received it through the angel Jesus sent? Where was John at the time, and who is blessed?
+What is the revelation of Jesus Christ?
+
+To whom did God give it?
+
+Which servant received it through the angel Jesus sent?
+
+Where was John at the time, and who is blessed?
 
 John was told to write what he saw in a scroll and send it to which seven churches?
 
@@ -62,15 +68,21 @@ How many tribes of Israel were sealed, which tribe was missing, and how many peo
 
 Who were those dressed in white robes, and where did they come from?
 
-When the Lamb opened the seventh seal, how long was there silence in heaven? How many trumpets were given to the seven angels who stood before God?
+When the Lamb opened the seventh seal, how long was there silence in heaven?
+
+How many trumpets were given to the seven angels who stood before God?
 
 How many angels blew their trumpets in Revelation 8, and what happened when each one blew?
 
 What did the eagle flying in midair say in a loud voice?
 
-When the fifth angel sounded his trumpet, where did the locusts come from, and who was their king? What were they not allowed to harm, whom were they allowed to harm, and for how long and with what effect?
+When the fifth angel sounded his trumpet, where did the locusts come from, and who was their king?
 
-When the sixth angel sounded his trumpet, from where were the four angels released? How large was the mounted army, what three plagues did it use, how many people were killed, and did the survivors repent?
+What were they not allowed to harm, whom were they allowed to harm, and for how long and with what effect?
+
+When the sixth angel sounded his trumpet, from where were the four angels released?
+
+How large was the mounted army, what three plagues did it use, how many people were killed, and did the survivors repent?
 
 ---
 
@@ -86,19 +98,29 @@ A reed like a measuring rod was given to John. What was he told to measure, and 
 
 How long did the two witnesses, dressed in sackcloth, prophesy, and what authority did they have?
 
-Who killed them, where did their bodies lie, and for how long were their bodies viewed? Where did they then go, and what happened to the city?
+Who killed them, where did their bodies lie, and for how long were their bodies viewed?
 
-When the seventh angel sounded his trumpet, who did the twenty-four elders say would reign? What had come, and what time had also come?
+Where did they then go, and what happened to the city?
+
+When the seventh angel sounded his trumpet, who did the twenty-four elders say would reign?
+
+What had come, and what time had also come?
 
 What was opened at that time, what appeared there, and what happened afterward?
 
-In the two great signs in Revelation 12, who is the great dragon? What are his names, and whom does he deceive?
+In the two great signs in Revelation 12, who is the great dragon?
+
+What are his names, and whom does he deceive?
 
 Whom did he wage war against, where was he hurled down, and whom did he try to devour?
 
-A woman gave birth to a male child. With what will he rule all the nations? Where was her child caught up to?
+A woman gave birth to a male child. With what will he rule all the nations?
 
-By whom was the woman pursued? Where did she flee, and for how long?
+Where was her child caught up to?
+
+By whom was the woman pursued?
+
+Where did she flee, and for how long?
 
 ---
 
@@ -108,17 +130,27 @@ In Revelation 13, where did the first beast come from, how many horns and heads 
 
 Whom did the whole world follow, and whom did they worship?
 
-How long was the beast allowed to exercise its authority? What kind of blasphemous words did it speak, whom did it wage war against and conquer, whom did it overcome, and who worshiped it?
+How long was the beast allowed to exercise its authority?
 
-Where did the other beast come from, and whose voice did it speak like? In whose presence did it exercise its authority, and whom did it make people worship?
+What kind of blasphemous words did it speak, whom did it wage war against and conquer, whom did it overcome, and who worshiped it?
 
-What did it perform that deceived the inhabitants of the earth? What did it tell them to say about the image of the beast, and what was the image enabled to do?
+Where did the other beast come from, and whose voice did it speak like?
+
+In whose presence did it exercise its authority, and whom did it make people worship?
+
+What did it perform that deceived the inhabitants of the earth?
+
+What did it tell them to say about the image of the beast, and what was the image enabled to do?
 
 Where on their bodies did it make everyone receive a mark, and what could no one do without the mark?
 
 Where was the Lamb standing, how many were with Him, what was written on their foreheads, what kind of people were they, and what were they doing?
 
-What did the angel flying in midair say in a loud voice? What did the second angel say? What did the third angel say about those who would drink the wine of God’s fury, and where would they suffer without rest?
+What did the angel flying in midair say in a loud voice?
+
+What did the second angel say?
+
+What did the third angel say about those who would drink the wine of God’s fury, and where would they suffer without rest?
 
 Why are the seven angels said to have the seven last plagues?
 
@@ -132,19 +164,29 @@ Revelation 16-18
 
 Where did the first angel pour out his bowl, and on whom did ugly, painful sores break out?
 
-Where did the second angel pour out his bowl? What became like blood, and what died?
+Where did the second angel pour out his bowl?
 
-Where did the third angel pour out his bowl? What became blood, and who was given blood to drink?
+What became like blood, and what died?
+
+Where did the third angel pour out his bowl?
+
+What became blood, and who was given blood to drink?
 
 Where did the fourth angel pour out his bowl so that the sun could scorch people with fire, and how did they respond?
 
-Where did the fifth angel pour out his bowl? What kingdom became dark, and how did the people respond?
+Where did the fifth angel pour out his bowl?
 
-On which great river did the sixth angel pour out his bowl? Why did its water dry up, and for whom was the way prepared?
+What kingdom became dark, and how did the people respond?
+
+On which great river did the sixth angel pour out his bowl?
+
+Why did its water dry up, and for whom was the way prepared?
 
 What did the three impure spirits look like, where did they come from, whose spirits were they, what signs did they perform, and where did they gather the kings to fight?
 
-Where did the seventh angel pour out his bowl? From where did a loud voice come, and what did it say?
+Where did the seventh angel pour out his bowl?
+
+From where did a loud voice come, and what did it say?
 
 The great city was split into three parts and the cities of the nations collapsed. What fled away, what could not be found, what fell from heaven on people, and how did they respond?
 
@@ -156,7 +198,9 @@ What is “Babylon” also called in Genesis, and in which Old Testament book wa
 
 Who is told to come out of Babylon, what are they to avoid, and why?
 
-What kinds of plagues would come upon her in one day, after which she would be consumed by fire? Who would weep over her, and who would rejoice because of her?
+What kinds of plagues would come upon her in one day, after which she would be consumed by fire?
+
+Who would weep over her, and who would rejoice because of her?
 
 Where was she thrown, never to be seen again?
 
@@ -172,25 +216,51 @@ Why should we rejoice and be glad and give Him glory?
 
 Who is blessed?
 
-What is the rider on the white horse called? By what does He judge and wage war? What was He wearing that was dipped in something, and what was His name?
+What is the rider on the white horse called?
 
-Who followed Him? What did He use to strike down the nations, what did He rule them with, and what did He tread? What name was written on His robe and on His thigh?
+By what does He judge and wage war?
+
+What was He wearing that was dipped in something, and what was His name?
+
+Who followed Him?
+
+What did He use to strike down the nations, what did He rule them with, and what did He tread?
+
+What name was written on His robe and on His thigh?
 
 Who gathered together to wage war against the rider on the white horse and His army?
 
-Which two were captured and thrown alive into the fiery lake of burning sulfur? What happened to the rest?
+Which two were captured and thrown alive into the fiery lake of burning sulfur?
 
-Who has a part in the first resurrection and is blessed and holy? What has no power over them? Whose priests will they be, and with whom will they reign for a thousand years?
+What happened to the rest?
 
-Who was seized and bound in the Abyss for a thousand years so that he could no longer deceive the nations? What would he do after being released, and what would his final fate be?
+Who has a part in the first resurrection and is blessed and holy?
 
-Who, great and small, stood before the great white throne to be judged? According to what did the One seated on the throne judge them?
+What has no power over them?
 
-Who was thrown into the lake of fire? What else was thrown into the lake of fire? What is the lake of fire?
+Whose priests will they be, and with whom will they reign for a thousand years?
+
+Who was seized and bound in the Abyss for a thousand years so that he could no longer deceive the nations?
+
+What would he do after being released, and what would his final fate be?
+
+Who, great and small, stood before the great white throne to be judged?
+
+According to what did the One seated on the throne judge them?
+
+Who was thrown into the lake of fire?
+
+What else was thrown into the lake of fire?
+
+What is the lake of fire?
 
 John saw a new heaven and a new earth. What had passed away, and what was no longer there?
 
-Whose dwelling place is now among the people? Who will dwell with them, and what will they be? Who will be with them and be their God?
+Whose dwelling place is now among the people?
+
+Who will dwell with them, and what will they be?
+
+Who will be with them and be their God?
 
 Will there still be death, mourning, crying, or pain?
 
@@ -202,11 +272,17 @@ The city does not need the sun or the moon to shine on it. What gives it light?
 
 What kind of people will never enter the city, and who will be allowed to enter?
 
-A river of the water of life, as clear as crystal, flows from where? What trees are on each side of the river, and what are their leaves for?
+A river of the water of life, as clear as crystal, flows from where?
+
+What trees are on each side of the river, and what are their leaves for?
 
 “Look, I am coming soon!” Who is blessed?
 
-Who testifies to these things? What does He say? Do you say, “Amen”?
+Who testifies to these things?
+
+What does He say?
+
+Do you say, “Amen”?
 
 ---
 

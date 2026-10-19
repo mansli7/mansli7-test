@@ -50,7 +50,9 @@ Was Solomon’s wife an Israelite, and why could she not live in the palace of D
 ---
 
 
-What did the Queen of Sheba hear that made her come to Jerusalem, and what questions did she bring to test Solomon? What have you learned from her?
+What did the Queen of Sheba hear that made her come to Jerusalem, and what questions did she bring to test Solomon?
+
+What have you learned from her?
 
 When Rehoboam wanted to go to war against Israel and to regain the kingdom for himself, what word did the LORD give to Shemaiah the man of God?
 
@@ -70,7 +72,9 @@ How did the northern kingdom of Israel appoint priests for themselves?
 
 On whom did King Abijah of Judah rely, that his 400,000 men defeated Israel’s 800,000 warriors?
 
-On whom did King Asa of Judah rely to defeat a million Cushite troops? Which prophet came to him, what did he do, and from then there was no war until the thirty-fifth year of his reign?
+On whom did King Asa of Judah rely to defeat a million Cushite troops?
+
+Which prophet came to him, what did he do, and from then there was no war until the thirty-fifth year of his reign?
 
 In the thirty-sixth year of Asa’s reign, Baasha king of Israel attacked Judah. On whom did Asa rely, which prophet came to him, and what did he say? After that, there would still be war.
 
@@ -88,7 +92,9 @@ What did the messenger sent by the king of Israel to summon Micaiah say to him, 
 
 What did Jehu, son of Hanani, say to Jehoshaphat?
 
-When facing the armies of the Ammonites, Moabites, and others, to whom did the battle belong? Did Judah need to fight?
+When facing the armies of the Ammonites, Moabites, and others, to whom did the battle belong?
+
+Did Judah need to fight?
 
 ---
 
@@ -144,9 +150,13 @@ When Hezekiah was sick and near death, he prayed to the LORD, and the LORD added
 ---
 
 
-Why did the army commanders of the king of Assyria attack Manasseh and his people? In his distress, what did he do, and what was the outcome?
+Why did the army commanders of the king of Assyria attack Manasseh and his people?
 
-Whom did Josiah king of Judah go out to fight, resulting in his being wounded and killed? Whose affairs was he warned not to oppose?
+In his distress, what did he do, and what was the outcome?
+
+Whom did Josiah king of Judah go out to fight, resulting in his being wounded and killed?
+
+Whose affairs was he warned not to oppose?
 
 How many times did the Babylonians carry the people of Judah into exile, and did the people still have hope of returning to Jerusalem?
 

@@ -16,13 +16,17 @@ Daniel 1—4
 
 When was Daniel taken captive to Babylon?
 
-Why did Daniel refuse the royal food and wine? Why was the mystery revealed to Daniel?
+Why did Daniel refuse the royal food and wine?
+
+Why was the mystery revealed to Daniel?
 
 In Daniel chapter 2, how many kingdoms appear in Nebuchadnezzar's dream, what are their characteristics, and which kingdom will never be destroyed?
 
 How many people were bound and thrown into the blazing furnace, and how many were seen in the fire?
 
-What did Nebuchadnezzar say? Before the words left his mouth, a voice came from heaven—what did it say, and when was it fulfilled?
+What did Nebuchadnezzar say?
+
+Before the words left his mouth, a voice came from heaven—what did it say, and when was it fulfilled?
 
 ---
 
@@ -30,11 +34,19 @@ Daniel 5—8
 
 "MENE, MENE, TEKEL, PARSIN"—what does this mean?
 
-The king asked Daniel, "Daniel, servant of the living God, has your God, whom you serve continually, been able to rescue you from the lions?"—how did Daniel answer the king?
+The king asked Daniel, "Daniel, servant of the living God, has your God, whom you serve continually, been able to rescue you from the lions?
+
+"—how did Daniel answer the king?
 
 In Daniel chapter 7, how many beasts are there, how many horns, and what do they represent?
 
-Who will speak against the Most High, oppress his holy people, and try to change the set times and the laws? The holy people will be delivered into his hand for a time, times and half a time—what will be his end? Who is the ram with two horns, and who is the male goat? How many horns does the goat have, and what evil deeds did the little horn that arose commit?
+Who will speak against the Most High, oppress his holy people, and try to change the set times and the laws?
+
+The holy people will be delivered into his hand for a time, times and half a time—what will be his end?
+
+Who is the ram with two horns, and who is the male goat?
+
+How many horns does the goat have, and what evil deeds did the little horn that arose commit?
 
 ---
 
@@ -52,7 +64,9 @@ Who will come and destroy the city and the sanctuary, and the end will come like
 
 War will continue until the end. What has been decreed concerning it?
 
-What will he confirm with many for one "seven"? In the middle of the "seven", what will he put an end to?
+What will he confirm with many for one "seven"?
+
+In the middle of the "seven", what will he put an end to?
 
 Who will set up the abomination that causes desolation, and on whom will the decreed end be poured out?
 
@@ -60,4 +74,6 @@ What are the two different destinies of those who sleep in the dust of the earth
 
 What will the wise shine like, and what will those who lead many to righteousness shine like forever and ever?
 
-From the time that the daily sacrifice is abolished and the abomination that causes desolation is set up, how many days will there be? Blessed is the one who waits for and reaches how many days?
+From the time that the daily sacrifice is abolished and the abomination that causes desolation is set up, how many days will there be?
+
+Blessed is the one who waits for and reaches how many days?

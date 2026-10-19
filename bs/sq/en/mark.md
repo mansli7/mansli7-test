@@ -24,7 +24,11 @@ Who has authority on earth to forgive sins?
 
 When Jesus was having dinner at Levi’s house, who was eating with Jesus and His disciples?
 
-For whom was the Sabbath made? Who was not made for the Sabbath? Therefore, who is also Lord even of the Sabbath?
+For whom was the Sabbath made?
+
+Who was not made for the Sabbath?
+
+Therefore, who is also Lord even of the Sabbath?
 
 Jesus appointed twelve, that they might always be with Him and that He might send them out to do what, and give them authority to do what?
 
@@ -36,7 +40,17 @@ Mark 4-6
 
 In the parable of the sower, what does the seed represent, and how many different kinds of people are there?
 
-In the region of the Gerasenes, what was the name of the impure spirit? What did the spirits beg Jesus to do? Did Jesus permit them? What did the man who had formerly been demon-possessed beg Jesus to let him do? What did Jesus tell him instead? What did the people of the region of the Gerasenes beg Jesus to do?
+In the region of the Gerasenes, what was the name of the impure spirit?
+
+What did the spirits beg Jesus to do?
+
+Did Jesus permit them?
+
+What did the man who had formerly been demon-possessed beg Jesus to let him do?
+
+What did Jesus tell him instead?
+
+What did the people of the region of the Gerasenes beg Jesus to do?
 
 In Jesus’ hometown, who did the people think He was, and why did they take offense at Him?
 
@@ -58,7 +72,13 @@ Mark 10-12
 
 How did God make the woman from the man, so that the two became one, and how did He say that a man should be united with his wife, so that the two become one flesh?
 
-As Jesus and His disciples were going up to Jerusalem, who would the Son of Man be handed over to? What would they condemn Him for, and to whom would they hand Him over? How would they mock Him, spit on Him, flog Him, and kill Him? After how many days would He rise again?
+As Jesus and His disciples were going up to Jerusalem, who would the Son of Man be handed over to?
+
+What would they condemn Him for, and to whom would they hand Him over?
+
+How would they mock Him, spit on Him, flog Him, and kill Him?
+
+After how many days would He rise again?
 
 God’s house was to be called a house of what, but what had the Israelites made it?
 
@@ -86,7 +106,11 @@ Who took Peter, James and John along with Him and became deeply distressed and t
 
 Why was Pilate amazed?
 
-Who came forward? What kind of council member was he, and what was he waiting for? He went boldly to whom and asked for what?
+Who came forward?
+
+What kind of council member was he, and what was he waiting for?
+
+He went boldly to whom and asked for what?
 
 Early on the first day of the week, when Jesus had risen, to whom did He appear first?
 

@@ -18,9 +18,15 @@ Why can there be grief now, even though there is also great joy?
 
 Where does the quotation “Be holy, because I am holy” come from?
 
-All people are like what, and all their glory is like what? The grass withers and the flowers fall, but what endures forever? What is the word that was preached to you?
+All people are like what, and all their glory is like what?
 
-Where do the quotations “See, I lay a stone in Zion, a chosen and precious cornerstone, and the one who trusts in him will never be put to shame,” “The stone the builders rejected has become the cornerstone,” and “A stone that causes people to stumble and a rock that makes them fall” come from? Why are they quoted here?
+The grass withers and the flowers fall, but what endures forever?
+
+What is the word that was preached to you?
+
+Where do the quotations “See, I lay a stone in Zion, a chosen and precious cornerstone, and the one who trusts in him will never be put to shame,” “The stone the builders rejected has become the cornerstone,” and “A stone that causes people to stumble and a rock that makes them fall” come from?
+
+Why are they quoted here?
 
 Where does the quotation “Once you were not a people, but now you are the people of God; once you had not received mercy, but now you have received mercy” come from?
 

@@ -16,7 +16,11 @@ Romans 1-3
 
 Had Paul already been to Rome when he wrote the letter to the Romans?
 
-Whose servant was Paul? What was he called to be, and what was he set apart to preach? What was he not ashamed of?
+Whose servant was Paul?
+
+What was he called to be, and what was he set apart to preach?
+
+What was he not ashamed of?
 
 What declared Jesus Christ to be the Son of God?
 
@@ -52,9 +56,13 @@ Where is the statement “Blessed are those whose transgressions are forgiven, w
 
 How has God demonstrated His love for us?
 
-Through one trespass, what happened to all people? In the same way, through one righteous act, what happened to all people?
+Through one trespass, what happened to all people?
 
-Through the disobedience of one man, what were the many made? In the same way, through the obedience of one man, what will the many be made?
+In the same way, through one righteous act, what happened to all people?
+
+Through the disobedience of one man, what were the many made?
+
+In the same way, through the obedience of one man, what will the many be made?
 
 Just as sin reigned in death, grace also reigns through righteousness to bring eternal life through whom?
 
@@ -76,21 +84,29 @@ What is the law Paul says he finds at work in him?
 
 Since the law was powerless because it was weakened by the flesh, whom did God send in the likeness of sinful flesh to be a sin offering, and in whose flesh did He condemn sin so that the righteous requirement of the law might be fully met?
 
-If we are children, then we are heirs—heirs of whom, and co-heirs with whom? If we share in His sufferings, what will we also share in?
+If we are children, then we are heirs—heirs of whom, and co-heirs with whom?
 
-Where is the statement “For your sake we face death all day long; we are considered as sheep to be slaughtered” found? Who is the “you” referred to here?
+If we share in His sufferings, what will we also share in?
+
+Where is the statement “For your sake we face death all day long; we are considered as sheep to be slaughtered” found?
+
+Who is the “you” referred to here?
 
 According to the flesh, Christ is descended from them. Who are “them,” and who is Christ? Amen?
 
 What does “It is through Isaac that your offspring will be reckoned” mean?
 
-Where is the statement “The older will serve the younger” found? Who is the older, and who is the younger?
+Where is the statement “The older will serve the younger” found?
+
+Who is the older, and who is the younger?
 
 Whom does the Lord love, and whom does the Lord hate?
 
 Where are the statements “I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion” and “I raised you up for this very purpose, that I might display my power in you and that my name might be proclaimed in all the earth” found?
 
-Where in the Bible are the statements “Those who were not my people I will call my people, and her who was not loved I will call my loved one” and “In the very place where it was said to them, ‘You are not my people,’ there they will be called ‘children of the living God’” found? Whom do they refer to?
+Where in the Bible are the statements “Those who were not my people I will call my people, and her who was not loved I will call my loved one” and “In the very place where it was said to them, ‘You are not my people,’ there they will be called ‘children of the living God’” found?
+
+Whom do they refer to?
 
 Where in the Bible are the statements “Though the number of the Israelites be like the sand by the sea, only the remnant will be saved,” “Unless the Lord Almighty had left us descendants, we would have become like Sodom, we would have been like Gomorrah,” and “See, I lay in Zion a stone that causes people to stumble and a rock that makes them fall, and the one who believes in him will never be put to shame” found?
 
@@ -100,23 +116,41 @@ Romans 10-12
 
 Who is the culmination of the law so that there may be righteousness for everyone who believes?
 
-Where is the statement “The person who does these things will live by them” found? What was Paul trying to explain by quoting this verse?
+Where is the statement “The person who does these things will live by them” found?
 
-Where in the Old Testament is the passage “Do not say in your heart, ‘Who will ascend into heaven?’ … ‘The word is near you; it is in your mouth and in your heart’” found? How did Paul, under the inspiration of the Holy Spirit, explain this passage?
+What was Paul trying to explain by quoting this verse?
 
-Where are the statements “Anyone who believes in him will never be put to shame” and “Everyone who calls on the name of the Lord will be saved” found? Who is “him” referring to?
+Where in the Old Testament is the passage “Do not say in your heart, ‘Who will ascend into heaven?’ … ‘The word is near you; it is in your mouth and in your heart’” found?
 
-Where is the statement “How beautiful are the feet of those who bring good news” found? What is the “good news” referred to here?
+How did Paul, under the inspiration of the Holy Spirit, explain this passage?
 
-Where are the statements “I will make you envious by those who are not a nation; I will make you angry by a nation that has no understanding” and “I was found by those who did not seek me; I revealed myself to those who did not ask for me” found? Who are the “those who are not a nation”?
+Where are the statements “Anyone who believes in him will never be put to shame” and “Everyone who calls on the name of the Lord will be saved” found?
 
-Has God rejected His people whom He foreknew? How did Paul answer by referring to Old Testament Scriptures under the inspiration of the Holy Spirit?
+Who is “him” referring to?
 
-Where in the Old Testament is the passage “May their table become a snare and a trap, a stumbling block and a retribution for them. May their eyes be darkened so they cannot see, and their backs be bent forever” found? What does it mean here?
+Where is the statement “How beautiful are the feet of those who bring good news” found?
 
-Where in the Old Testament are the statements “The deliverer will come from Zion; he will turn godlessness away from Jacob” and “And this is my covenant with them when I take away their sins” found? What mystery are they used here to explain?
+What is the “good news” referred to here?
 
-In view of God’s mercy, what are believers urged to offer, as what kind of sacrifice? What is holy and pleasing to God, and what kind of service is this?
+Where are the statements “I will make you envious by those who are not a nation; I will make you angry by a nation that has no understanding” and “I was found by those who did not seek me; I revealed myself to those who did not ask for me” found?
+
+Who are the “those who are not a nation”?
+
+Has God rejected His people whom He foreknew?
+
+How did Paul answer by referring to Old Testament Scriptures under the inspiration of the Holy Spirit?
+
+Where in the Old Testament is the passage “May their table become a snare and a trap, a stumbling block and a retribution for them. May their eyes be darkened so they cannot see, and their backs be bent forever” found?
+
+What does it mean here?
+
+Where in the Old Testament are the statements “The deliverer will come from Zion; he will turn godlessness away from Jacob” and “And this is my covenant with them when I take away their sins” found?
+
+What mystery are they used here to explain?
+
+In view of God’s mercy, what are believers urged to offer, as what kind of sacrifice?
+
+What is holy and pleasing to God, and what kind of service is this?
 
 What are the gifts God gives?
 
@@ -134,9 +168,13 @@ Some believe they may eat anything, while others eat only vegetables. Should the
 
 Where is the statement “Every knee will bow before me; every tongue will acknowledge God” found, and what does it mean?
 
-Where is the statement “The insults of those who insult you have fallen on me” found? What point is Paul making by using it here?
+Where is the statement “The insults of those who insult you have fallen on me” found?
 
-Where are the statements “Therefore I will praise you among the Gentiles; I will sing the praises of your name,” “Rejoice, you Gentiles, with his people,” “Praise the Lord, all you Gentiles; let all the peoples extol him,” and “The Root of Jesse will spring up, one who will arise to rule over the nations; in him the Gentiles will hope” each found? What point are these passages making here?
+What point is Paul making by using it here?
+
+Where are the statements “Therefore I will praise you among the Gentiles; I will sing the praises of your name,” “Rejoice, you Gentiles, with his people,” “Praise the Lord, all you Gentiles; let all the peoples extol him,” and “The Root of Jesse will spring up, one who will arise to rule over the nations; in him the Gentiles will hope” each found?
+
+What point are these passages making here?
 
 Where is the statement “Those who were not told about him will see, and those who have not heard will understand” found, and what does it mean here?
 

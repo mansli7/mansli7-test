@@ -14,11 +14,19 @@ title: Acts Study Questions
 
 Acts 1-3
 
-For how long did Jesus appear to His disciples after His resurrection before He was taken up to heaven? Where was He taken up, how will He return, and what did He tell the disciples not to leave while they waited for what?
+For how long did Jesus appear to His disciples after His resurrection before He was taken up to heaven?
 
-Where are the prophecies “May his place be deserted; let there be no one to dwell in it” and “May someone else take his place of leadership” found? In their fulfillment in the New Testament, who is “he,” what is the “place of leadership,” and who is the “someone else”?
+Where was He taken up, how will He return, and what did He tell the disciples not to leave while they waited for what?
 
-When were all the disciples together in one place? Suddenly, what came from heaven, what did it sound like, and what did it fill? What appeared and came to rest on each of them?
+Where are the prophecies “May his place be deserted; let there be no one to dwell in it” and “May someone else take his place of leadership” found?
+
+In their fulfillment in the New Testament, who is “he,” what is the “place of leadership,” and who is the “someone else”?
+
+When were all the disciples together in one place?
+
+Suddenly, what came from heaven, what did it sound like, and what did it fill?
+
+What appeared and came to rest on each of them?
 
 Who were all filled with the Holy Spirit, and what did they begin to speak as the Spirit enabled them?
 
@@ -26,7 +34,9 @@ When the disciples spoke in tongues after being filled with the Holy Spirit, som
 
 Where in the Old Testament are the words “I saw the Lord always before me. Because he is at my right hand, I will not be shaken…” found, and whose prophecy are they?
 
-Where is the prophecy “I will raise up for them a prophet like you from among their fellow Israelites…” found? Who is the “prophet” referred to here?
+Where is the prophecy “I will raise up for them a prophet like you from among their fellow Israelites…” found?
+
+Who is the “prophet” referred to here?
 
 ---
 
@@ -36,7 +46,9 @@ In whose name was the man who had been lame from birth healed?
 
 Where is the statement “The stone you builders rejected, which has become the cornerstone” found? Who is “he” referred to here? Is there salvation in anyone else? Why?
 
-Where is the prophecy “Why do the nations rage and the peoples plot in vain? The kings of the earth rise up and the rulers band together against the Lord and against his anointed one” found? Who is “the Lord’s anointed one,” and who gathered together against him?
+Where is the prophecy “Why do the nations rage and the peoples plot in vain? The kings of the earth rise up and the rulers band together against the Lord and against his anointed one” found?
+
+Who is “the Lord’s anointed one,” and who gathered together against him?
 
 Whom did Ananias and his wife deceive, and whom did they test, resulting in their deaths?
 
@@ -56,25 +68,41 @@ Where is the statement “Did you bring me sacrifices and offerings forty years 
 
 Where in the Old Testament is the statement “Heaven is my throne, and the earth is my footstool. Where is the house you will build for me?” found?
 
-What was Stephen full of? What did he see when he looked up to heaven, and what did he say? What did he cry out before he died?
+What was Stephen full of?
 
-From what day did great persecution break out against the church in Jerusalem? Who began to destroy the church, and what did the believers do as they were scattered, except for the apostles?
+What did he see when he looked up to heaven, and what did he say?
 
-Where is the passage “He was led like a sheep to the slaughter, and as a lamb before its shearer is silent…” found? Who is “he” referring to?
+What did he cry out before he died?
 
-What did Saul intend to do in Damascus? Whom did he meet on the way, and what happened? Whom did the Lord send to Saul, and what was he sent to do for him?
+From what day did great persecution break out against the church in Jerusalem?
+
+Who began to destroy the church, and what did the believers do as they were scattered, except for the apostles?
+
+Where is the passage “He was led like a sheep to the slaughter, and as a lamb before its shearer is silent…” found?
+
+Who is “he” referring to?
+
+What did Saul intend to do in Damascus?
+
+Whom did he meet on the way, and what happened?
+
+Whom did the Lord send to Saul, and what was he sent to do for him?
 
 ---
 
 Acts 10-12
 
-What kind of man was Cornelius? What did the angel say to him in the vision?
+What kind of man was Cornelius?
+
+What did the angel say to him in the vision?
 
 What did Peter see and hear in his vision?
 
 What was Peter telling Cornelius and the others when the Holy Spirit came on them?
 
-When the believers who had been scattered because of the persecution preached, to whom did they speak the word? Who also spoke to the Greeks, telling them the good news about the Lord Jesus?
+When the believers who had been scattered because of the persecution preached, to whom did they speak the word?
+
+Who also spoke to the Greeks, telling them the good news about the Lord Jesus?
 
 From what place onward were the disciples called Christians?
 
@@ -86,11 +114,15 @@ Why did Herod die?
 
 Acts 13-15
 
-Where in the Old Testament is the statement “You are my son; today I have become your father” found? What does it prophesy?
+Where in the Old Testament is the statement “You are my son; today I have become your father” found?
+
+What does it prophesy?
 
 Where in the Old Testament are the statements “I will give you the holy and sure blessings promised to David” and “You will not let your holy one see decay” found?
 
-Where in the Old Testament is the statement “Look, you scoffers, wonder and perish, for I am going to do something in your days that you would never believe, even if someone told you” found? What is the “something” referred to here?
+Where in the Old Testament is the statement “Look, you scoffers, wonder and perish, for I am going to do something in your days that you would never believe, even if someone told you” found?
+
+What is the “something” referred to here?
 
 Why did Paul and Barnabas go to Jerusalem?
 
@@ -102,21 +134,37 @@ Where in the Old Testament is the prophecy “I will return and rebuild David’
 
 Acts 16-18
 
-Whom did Paul want to take with him? What kind of person was he?
+Whom did Paul want to take with him?
 
-What was Philippi the first city of in that district? In Philippi, whose household was baptized, and who invited Paul and the others to stay at their home?
+What kind of person was he?
 
-Why were Paul and the others put in prison? What happened at midnight, and how did they leave the prison at daybreak?
+What was Philippi the first city of in that district?
 
-In Thessalonica, whom did Paul preach about? Who joined him, and who became jealous?
+In Philippi, whose household was baptized, and who invited Paul and the others to stay at their home?
 
-Which people were more open-minded than those in Thessalonica? How did they respond to the word of God, and who came to stir up and trouble the crowds?
+Why were Paul and the others put in prison?
 
-Where was the city full of idols? Who was greatly distressed and reasoned with the people there?
+What happened at midnight, and how did they leave the prison at daybreak?
 
-What work did Paul do in Corinth, and what was his occupation? How did the Jews respond to the gospel?
+In Thessalonica, whom did Paul preach about?
 
-What did the Lord say to Paul in a vision? How long did Paul stay there, and what did he do?
+Who joined him, and who became jealous?
+
+Which people were more open-minded than those in Thessalonica?
+
+How did they respond to the word of God, and who came to stir up and trouble the crowds?
+
+Where was the city full of idols?
+
+Who was greatly distressed and reasoned with the people there?
+
+What work did Paul do in Corinth, and what was his occupation?
+
+How did the Jews respond to the gospel?
+
+What did the Lord say to Paul in a vision?
+
+How long did Paul stay there, and what did he do?
 
 Who was Apollos, and what did he do in Ephesus?
 
@@ -126,7 +174,9 @@ Acts 19-21
 
 What is the difference between “John’s baptism” and being baptized in the name of the Lord Jesus?
 
-In Ephesus, how long did Paul speak boldly in the synagogue? How long did he reason daily in the lecture hall of Tyrannus?
+In Ephesus, how long did Paul speak boldly in the synagogue?
+
+How long did he reason daily in the lecture hall of Tyrannus?
 
 What happened to the seven sons who tried to drive out evil spirits by invoking the name of the Lord Jesus?
 
@@ -140,7 +190,9 @@ Whom were the elders to keep watch over?
 
 What did Paul say that caused them the greatest sorrow?
 
-On the way to Jerusalem, how many times was Paul urged not to go? How did he respond?
+On the way to Jerusalem, how many times was Paul urged not to go?
+
+How did he respond?
 
 In Jerusalem, what did the elders ask Paul to do, and why?
 
@@ -150,7 +202,13 @@ Where was Paul seized, and what was he accused of?
 
 Acts 22-24
 
-Where was Paul born? Was he a Jew? Under whom was he educated? Was he a Pharisee or a Sadducee?
+Where was Paul born?
+
+Was he a Jew?
+
+Under whom was he educated?
+
+Was he a Pharisee or a Sadducee?
 
 Why was Paul not flogged?
 
@@ -158,7 +216,11 @@ On the night after Paul was examined by the Sanhedrin, who stood beside him, and
 
 Why did the commander send several hundred soldiers to escort Paul to Caesarea?
 
-When Felix and his wife came to hear Paul speak, what did Paul talk about? How did Felix feel? What did he say, and what was he hoping Paul would do?
+When Felix and his wife came to hear Paul speak, what did Paul talk about?
+
+How did Felix feel?
+
+What did he say, and what was he hoping Paul would do?
 
 ---
 

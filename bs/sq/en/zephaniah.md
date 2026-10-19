@@ -14,7 +14,9 @@ title: Zephaniah Study Questions
 
 Zephaniah 1-3
 
-Why should you be silent before the Lord God? What has the LORD prepared, and whom has He consecrated?
+Why should you be silent before the Lord God?
+
+What has the LORD prepared, and whom has He consecrated?
 
 Which day will be a day of wrath, a day of distress and anguish, a day of trouble and ruin, a day of darkness and gloom, a day of clouds and blackness?
 
@@ -24,7 +26,9 @@ What should people do before the day of the LORD’s wrath comes?
 
 Which place will become like Sodom, and which like Gomorrah?
 
-What are the officials, rulers, and prophets of Jerusalem like? What do the priests do?
+What are the officials, rulers, and prophets of Jerusalem like?
+
+What do the priests do?
 
 When will the LORD purify the lips of the peoples so that they may call on His name and serve Him shoulder to shoulder?
 

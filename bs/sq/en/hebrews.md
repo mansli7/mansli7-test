@@ -44,15 +44,21 @@ What day was God speaking about when he said, “Today”?
 
 What is the “Sabbath-rest” that still remains for the people of God?
 
-The word of God is alive and active. What is it sharper than? What does it penetrate, even to dividing what, and what does it judge?
+The word of God is alive and active. What is it sharper than?
+
+What does it penetrate, even to dividing what, and what does it judge?
 
 Who is our great high priest who has ascended into heaven, and why is he able to empathize with our weaknesses?
 
 How many high priests are mentioned in Hebrews 5?
 
-Where does the quotation “You are a priest forever, in the order of Melchizedek” come from? Who is the “you” in this verse?
+Where does the quotation “You are a priest forever, in the order of Melchizedek” come from?
 
-Where does the quotation “I will surely bless you and give you many descendants” come from? What did Abraham do before God swore by himself?
+Who is the “you” in this verse?
+
+Where does the quotation “I will surely bless you and give you many descendants” come from?
+
+What did Abraham do before God swore by himself?
 
 What are the “two unchangeable things” mentioned here?
 
@@ -60,15 +66,21 @@ What are the “two unchangeable things” mentioned here?
 
 Hebrews 7-9
 
-Why was another priest needed, one in the order of Melchizedek rather than in the order of Aaron? Who is he, and on what basis did he become a priest—not according to what, but according to what?
+Why was another priest needed, one in the order of Melchizedek rather than in the order of Aaron?
+
+Who is he, and on what basis did he become a priest—not according to what, but according to what?
 
 Where do the quotations “You are a priest forever, in the order of Melchizedek” and “The Lord has sworn and will not change his mind: ‘You are a priest forever’” come from?
 
-How many times do these three chapters speak of something being “better”? What are they?
+How many times do these three chapters speak of something being “better”?
+
+What are they?
 
 Where does the quotation in Hebrews 8:8–12 come from?
 
-Who is the mediator of the new covenant? Since he died to set them free from what, what did those who are called receive?
+Who is the mediator of the new covenant?
+
+Since he died to set them free from what, what did those who are called receive?
 
 Who was sacrificed once to take away the sins of many, and when he appears a second time to those who are waiting for him, what will he have nothing to do with, and what will he do instead?
 
@@ -80,7 +92,9 @@ The law is only a shadow of what is to come, not the realities themselves. Why c
 
 Where does the quotation in Hebrews 10:5–7 come from?
 
-Since we have confidence to enter the Most Holy Place by what, and through whom has a new and living way been opened for us through the curtain? What does the curtain represent?
+Since we have confidence to enter the Most Holy Place by what, and through whom has a new and living way been opened for us through the curtain?
+
+What does the curtain represent?
 
 If we deliberately keep on sinning after receiving the knowledge of the truth, what sacrifice is no longer left, but only what?
 
@@ -96,13 +110,17 @@ What kind of discipline is painful rather than pleasant at the time, but later p
 
 For what price did Esau sell his birthright, and whose blessing did he lose as a result?
 
-Where does the quotation “Once more I will shake not only the earth but also the heavens” come from? What does “once more” indicate—that what can be shaken will be removed, so that what will remain?
+Where does the quotation “Once more I will shake not only the earth but also the heavens” come from?
+
+What does “once more” indicate—that what can be shaken will be removed, so that what will remain?
 
 What is it good for the heart to be strengthened by, rather than by what?
 
 Why did Jesus suffer outside the city gate, making the people holy through his own blood?
 
-Through Jesus, what kind of sacrifice should we continually offer to God—the sacrifice of what? What should we not forget, because with such sacrifices God is pleased?
+Through Jesus, what kind of sacrifice should we continually offer to God—the sacrifice of what?
+
+What should we not forget, because with such sacrifices God is pleased?
 
 Who is the great Shepherd of the sheep?
 

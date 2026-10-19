@@ -22,7 +22,9 @@ Whose name does not appear in 1 Chronicles, but is included in his brother’s n
 
 Israel had two commanders who were related to King David. Who were they?
 
-After Solomon, how many kings of Judah were there? How many did what was right in the eyes of the LORD, and how many did what was evil?
+After Solomon, how many kings of Judah were there?
+
+How many did what was right in the eyes of the LORD, and how many did what was evil?
 
 Who was more honored than his brothers, and what did he cry out to the LORD, and was it granted?
 
@@ -42,7 +44,9 @@ Which tribes were the first to be taken into exile Assyria?
 
 To which tribe did Joshua belong?
 
-Do you remember that the earth swallowed Korah’s followers, but Korah’s sons were not swallowed? Who was a descendant of Korah and also a judge?
+Do you remember that the earth swallowed Korah’s followers, but Korah’s sons were not swallowed?
+
+Who was a descendant of Korah and also a judge?
 
 ---
 
@@ -93,7 +97,9 @@ From where did the LORD take David, and what did He appoint him to be?
 
 David set up garrisons in Edom, and the Edomites submitted to him. Do you recall the prophecy concerning Jacob and Esau?
 
-These three were sons of the mighty men of Gath, and they died at the hands of David and his servants. Do you remember the bad report of ten of the twelve spies? Is there a striking contrast?
+These three were sons of the mighty men of Gath, and they died at the hands of David and his servants. Do you remember the bad report of ten of the twelve spies?
+
+Is there a striking contrast?
 
 ---
 

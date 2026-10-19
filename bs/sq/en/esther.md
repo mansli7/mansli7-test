@@ -26,7 +26,11 @@ When was Esther made queen?
 
 Who saved the king from the conspiracy by the two palace guards?
 
-Who was Haman? What was his official position? By casting the lot, which month and day did he select, and what did he plan to do to the Jews?
+Who was Haman?
+
+What was his official position?
+
+By casting the lot, which month and day did he select, and what did he plan to do to the Jews?
 
 Do you remember in which book of the Bible Agag previously appeared?
 
@@ -56,7 +60,9 @@ Esther 9–10
 ---
 
 
-On the thirteenth day of the twelfth month of the reign of King Ahasuerus, who gained power over whom? When the king asked Esther what her petition was, how did she respond?
+On the thirteenth day of the twelfth month of the reign of King Ahasuerus, who gained power over whom?
+
+When the king asked Esther what her petition was, how did she respond?
 
 On which days was Purim celebrated, and what kind of days of joy were they for the Jews?
 

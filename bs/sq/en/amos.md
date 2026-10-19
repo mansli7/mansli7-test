@@ -16,7 +16,9 @@ Amos 1-4
 
 When did Amos receive the vision concerning Israel?
 
-In Amos 1:1–15 and 2:1–6, which nations does the LORD declare have sinned again and again and therefore will not relent in punishing them? What is the most common punishment mentioned?
+In Amos 1:1–15 and 2:1–6, which nations does the LORD declare have sinned again and again and therefore will not relent in punishing them?
+
+What is the most common punishment mentioned?
 
 How should we understand: “You only have I chosen of all the families of the earth; therefore I will punish you for all your sins”?
 
@@ -26,15 +28,25 @@ In Amos chapter 4, how many kinds of disasters did the LORD use to discipline Is
 
 Amos 5-9
 
-Who takes up this lament concerning Israel? When they fall, can they rise again? Is there anyone to lift them up?
+Who takes up this lament concerning Israel?
 
-Whom must Israel seek in order to live? What must they hate and what must they love?
+When they fall, can they rise again?
+
+Is there anyone to lift them up?
+
+Whom must Israel seek in order to live?
+
+What must they hate and what must they love?
 
 Woe to you who long for the day of the Lord! Why?
 
-During the forty years in the wilderness, to whom did the house of Israel offer sacrifices and grain offerings? Whose tent did they carry?
+During the forty years in the wilderness, to whom did the house of Israel offer sacrifices and grain offerings?
 
-To whom did the house of Israel offer sacrifices and offerings during the forty years in the wilderness? Whose tabernacle did they carry?
+Whose tent did they carry?
+
+To whom did the house of Israel offer sacrifices and offerings during the forty years in the wilderness?
+
+Whose tabernacle did they carry?
 
 Why will some be among the first to go into exile?
 

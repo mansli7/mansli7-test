@@ -28,7 +28,9 @@ In what way are the people of Judah robbing the LORD of His offerings??
 
 Who listened and heard, and what kind of people were recorded in the book of remembrance before Him?
 
-Before the great and dreadful day of the LORD comes, whom will He send to you? Whose hearts will he turn toward whom, and what will happen if this does not occur?
+Before the great and dreadful day of the LORD comes, whom will He send to you?
+
+Whose hearts will he turn toward whom, and what will happen if this does not occur?
 
 ---
 

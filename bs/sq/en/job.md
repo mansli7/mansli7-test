@@ -24,9 +24,13 @@ What was Job's regular custom?
 
 In which other book of the Bible is Job mentioned?
 
-Satan wanted to strike everything Job had, did the LORD allow it? What did Job say after he lost everything?
+Satan wanted to strike everything Job had, did the LORD allow it?
 
-Satan wanted to strike Job's body, did the LORD allow it? After Job was covered with painful sores, what did he say in response to his wife's reproach?
+What did Job say after he lost everything?
+
+Satan wanted to strike Job's body, did the LORD allow it?
+
+After Job was covered with painful sores, what did he say in response to his wife's reproach?
 
 How many friends came to see Job?
 
@@ -44,11 +48,15 @@ Job said all his misery would outweigh what?
 
 What did he request and hope for, and what gave him comfort?
 
-What was his body clothed with? How was his skin?
+What was his body clothed with?
+
+How was his skin?
 
 How was his spirit, and how was his soul?
 
-What did he prefer rather than what? What did he despise?
+What did he prefer rather than what?
+
+What did he despise?
 
 ---
 
@@ -62,7 +70,9 @@ Job said, who passes by him that he cannot see, and who goes by that he cannot p
 
 What were his days swifter than, and what did his days pass like?
 
-If he was guilty, what would happen to him? If he was innocent, what could he not do?
+If he was guilty, what would happen to him?
+
+If he was innocent, what could he not do?
 
 Who has become a laughingstock to his friends?
 
@@ -76,9 +86,13 @@ Job 13–16
 ---
 
 
-Job said, his friends accuse him of what, and what kind of physicians were they? What did he wish they would do, and what would that be counted as wisdom?
+Job said, his friends accuse him of what, and what kind of physicians were they?
 
-From whom are mortals born? What are they few of, what are they full of, what do they spring up like, and what do they fade away like?
+What did he wish they would do, and what would that be counted as wisdom?
+
+From whom are mortals born?
+
+What are they few of, what are they full of, what do they spring up like, and what do they fade away like?
 
 Did Job receive comfort or distress from his friends?
 
@@ -116,7 +130,9 @@ When Job thinks about it, how did he feel, and how was his body affected?
 
 Job said, who become old and grow mighty in power, their homes are safe and free from fear, their children are like a flock, and they prosper in all things and turn away from praying to God?
 
-Job wanted to find God and go to his dwelling, presenting what case? Whom could he not see on any side, yet who knows Job's way?
+Job wanted to find God and go to his dwelling, presenting what case?
+
+Whom could he not see on any side, yet who knows Job's way?
 
 Whose words did Job treasure more than his daily bread?
 
@@ -146,9 +162,13 @@ Job 29–32
 ---
 
 
-In the past, how did God treat Job's house, and how did people wait for Job? How did they receive his words?
+In the past, how did God treat Job's house, and how did people wait for Job?
 
-Now, where does God throw Job, and what is he reduced to? Whom do people mock in song, and who has become a byword among them?
+How did they receive his words?
+
+Now, where does God throw Job, and what is he reduced to?
+
+Whom do people mock in song, and who has become a byword among them?
 
 Because Job was righteous in his own eyes, who stopped answering him, and who answered Job in anger?
 
@@ -160,7 +180,9 @@ Job 33–36
 ---
 
 
-Elihu said: With whom does Job keep company, and with whom does he associate? Without what does Job speak, and what do his words lack?
+Elihu said: With whom does Job keep company, and with whom does he associate?
+
+Without what does Job speak, and what do his words lack?
 
 ---
 
@@ -186,7 +208,9 @@ Job 41–42
 ---
 
 
-Were the things Job spoke about things he understood? Were they too wonderful for Job to know?
+Were the things Job spoke about things he understood?
+
+Were they too wonderful for Job to know?
 
 Who had heard of the LORD but now has seen Him?
 

@@ -36,7 +36,9 @@ Unless people are born again, what can they not see?
 
 Unless people are born of water and the Spirit, whose kingdom can they not enter?
 
-Can what is born of the flesh be spirit? Can what is born of the Spirit be flesh?
+Can what is born of the flesh be spirit?
+
+Can what is born of the Spirit be flesh?
 
 Who is the one who came from heaven and is still in heaven, and who alone has ascended into heaven?
 
@@ -52,7 +54,11 @@ John 4-6
 
 What was the difference between the water Jesus asked the Samaritan woman for and the water she asked Jesus for?
 
-What did she testify about Jesus? Did anyone believe in Jesus because of her testimony? After Jesus stayed there for two days, how did their faith change?
+What did she testify about Jesus?
+
+Did anyone believe in Jesus because of her testimony?
+
+After Jesus stayed there for two days, how did their faith change?
 
 How should the Father truly be worshiped?
 
@@ -86,25 +92,41 @@ How did Jesus answer the Jews’ question, “How did this man get such learning
 
 Was the statement “When the Messiah comes, no one will know where he is from” correct? Why?
 
-While Jesus was teaching the people in the temple courts, whom did the teachers of the law and the Pharisees bring to Him? What was their purpose, and how did Jesus respond to them?
+While Jesus was teaching the people in the temple courts, whom did the teachers of the law and the Pharisees bring to Him?
 
-What was Jesus doing when He bent down twice? In which Old Testament book did someone see the fingers of a human hand writing, causing his face to turn pale and his thoughts to terrify him?
+What was their purpose, and how did Jesus respond to them?
+
+What was Jesus doing when He bent down twice?
+
+In which Old Testament book did someone see the fingers of a human hand writing, causing his face to turn pale and his thoughts to terrify him?
 
 The Jews said who was their father, while Jesus said who was their father. Why?
 
-What was the reason the man had been blind from birth? How did Jesus heal him? Before the Pharisees, whom did he testify that Jesus was? Why did he say Jesus was from God? Whose Son did he believe Jesus to be?
+What was the reason the man had been blind from birth?
+
+How did Jesus heal him?
+
+Before the Pharisees, whom did he testify that Jesus was?
+
+Why did he say Jesus was from God?
+
+Whose Son did he believe Jesus to be?
 
 ---
 
 John 10-12
 
-Who is the gate for the sheep? Whoever enters through Him will be saved and will come in and go out and find pasture. Who is the good shepherd who lays down His life for the sheep, knows His sheep, and is known by His sheep?
+Who is the gate for the sheep?
+
+Whoever enters through Him will be saved and will come in and go out and find pasture. Who is the good shepherd who lays down His life for the sheep, knows His sheep, and is known by His sheep?
 
 Which Old Testament book says, “I have said, ‘You are gods’” about those to whom the word of God came?
 
 Could the one whom the Father set apart as His very own and sent into the world call Himself God’s Son? Why?
 
-Did John ever perform a sign? Were all the things John said about Jesus true?
+Did John ever perform a sign?
+
+Were all the things John said about Jesus true?
 
 What did Jesus say when He heard that Lazarus was sick, and how many days did He stay where He was before going to Judea?
 
@@ -128,17 +150,27 @@ At the evening meal, into whose heart had the devil already put the intention to
 
 In the statement “My close friend, someone I trusted, one who shared my bread, has turned against me,” who was the one who turned against Jesus?
 
-After whom had Jesus given the piece of bread, Satan entered him? Jesus said to him, “What you are about to do, do quickly.” After taking the bread, what did he immediately do? Would he be in trouble? Was he guilty of betraying Jesus?
+After whom had Jesus given the piece of bread, Satan entered him?
+
+Jesus said to him, “What you are about to do, do quickly.” After taking the bread, what did he immediately do?
+
+Would he be in trouble?
+
+Was he guilty of betraying Jesus?
 
 What new command did Jesus give His disciples?
 
-Who is the way, the truth and the life? If no one comes to the Father except through Him, who is He?
+Who is the way, the truth and the life?
+
+If no one comes to the Father except through Him, who is He?
 
 How did Jesus answer Philip’s request, “Lord, show us the Father and that will be enough for us”?
 
 Jesus asked the Father to give the disciples what, so that He would be with them forever? Who is He? Can the world accept Him? Why?
 
-If people love Jesus, what will they obey? What will those who do not love Jesus not obey?
+If people love Jesus, what will they obey?
+
+What will those who do not love Jesus not obey?
 
 Who is the vine, and who are the branches?
 
@@ -154,7 +186,13 @@ John 16-18
 
 A time is coming when anyone who kills you will think they are offering a service to God. Why?
 
-When He comes, who will convict the world concerning sin, righteousness and judgment? Why concerning sin? Why concerning righteousness? Why concerning judgment?
+When He comes, who will convict the world concerning sin, righteousness and judgment?
+
+Why concerning sin?
+
+Why concerning righteousness?
+
+Why concerning judgment?
 
 “A woman giving birth to a child has pain because her time has come; but when her baby is born she forgets the anguish because of her joy that a child is born into the world.” What was Jesus talking about here?
 
@@ -162,7 +200,11 @@ Jesus said, “I have told you these things, so that in me you may have peace. I
 
 What is eternal life?
 
-For whom did Jesus pray? For whom did He not pray? For whom did He pray, and why?
+For whom did Jesus pray?
+
+For whom did He not pray?
+
+For whom did He pray, and why?
 
 Jesus said, “My prayer is not that you take them out of the world, but that you …” what?
 
@@ -190,11 +232,17 @@ Where are the prophecies “Not one of his bones will be broken” and “They w
 
 Were the twelve apostles, who had always been with Jesus, the ones who buried Him, or was it someone else?
 
-When Jesus appeared to the disciples and Thomas was not with them, what did Thomas say afterward? Eight days later, when he saw Jesus, what did he say?
+When Jesus appeared to the disciples and Thomas was not with them, what did Thomas say afterward?
+
+Eight days later, when he saw Jesus, what did he say?
 
 John recorded these things so that you may believe that Jesus is who, and that by believing you may have what in His name?
 
-The disciples had caught no fish all night. At whose command did they cast the net and catch a large number of fish? Who did John say He was? In which book did a similar experience of catching fish take place?
+The disciples had caught no fish all night. At whose command did they cast the net and catch a large number of fish?
+
+Who did John say He was?
+
+In which book did a similar experience of catching fish take place?
 
 What did Jesus ask Peter three times?
 
