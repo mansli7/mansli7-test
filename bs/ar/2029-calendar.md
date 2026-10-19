@@ -5,8 +5,6 @@ title: 2029 Bible Reading Calendar
 
 <div class="mb-6 flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
   <div>
-    <p class="card-en mb-2 text-xs font-bold uppercase tracking-widest text-indigo-500">Test Site</p>
-    <p class="card-zh mb-2 text-xs font-bold uppercase tracking-widest text-indigo-500">測試網站</p>
     <h1 class="card-en" style="font-size:1.875rem;">2029 Bible Reading Calendar</h1>
     <h1 class="card-zh" style="font-size:1.875rem;">2029 讀經月曆</h1>
     <p id="calendarStatus" class="mt-2 text-sm text-slate-500">Loading 2029 calendar data...</p>
@@ -15,8 +13,8 @@ title: 2029 Bible Reading Calendar
 </div>
 
 <div class="mb-6 rounded-lg border border-indigo-200 bg-indigo-50 p-5 text-sm leading-relaxed text-slate-700">
-  <p class="card-en mb-0">This test calendar loads the 2029 date-to-unit map, resolves each stable unit ID to its existing reading code, and then uses the same study-question content as production.</p>
-  <p class="card-zh mb-0">此測試月曆載入 2029 日期到單元的對應表，將穩定單元 ID 解析為既有讀經代碼，並使用與正式網站相同的學習問題內容。</p>
+  <p class="card-en mb-0">This calendar loads the 2029 date-to-unit map, resolves each stable unit ID to its existing reading code, and uses the same study-question content as the rest of the site.</p>
+  <p class="card-zh mb-0">此月曆載入 2029 日期到單元的對應表，將穩定單元 ID 解析為既有讀經代碼，並使用與其他頁面相同的學習問題內容。</p>
 </div>
 
 <div class="mb-5 flex items-center justify-between rounded-lg border border-slate-200 bg-white px-4 py-3 shadow-sm">

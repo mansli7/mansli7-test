@@ -5,6 +5,8 @@ author: Mansli7
 url: "https://mansli7.github.io"
 baseurl: "/mansli7-test"
 repository: mansli7/mansli7-test
+# Drives the "Test Site" banner in the layout; production leaves this unset.
+environment: staging
 title_separator: "|"
 plugins:
   - jekyll-seo-tag

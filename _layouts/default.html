@@ -61,6 +61,13 @@
 </head>
 <body>
 
+  {% if site.environment == 'staging' %}
+  <div class="bg-amber-400 px-4 py-1.5 text-center text-xs font-bold uppercase tracking-widest text-amber-950">
+    <span class="card-en">Test Site</span>
+    <span class="card-zh">測試網站</span>
+  </div>
+  {% endif %}
+
   {% include nav.html %}
 
   <main class="py-8">
