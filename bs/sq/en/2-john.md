@@ -14,13 +14,13 @@ title: 2 John Study Questions
 
 2 John
 
-Who was 2 John written to?
+1. Who was 2 John written to?
 
-What did John urge them to do?
+2. What did John urge them to do?
 
-What should they watch out for?
+3. What should they watch out for?
 
-Whom should they not welcome into their home?
+4. Whom should they not welcome into their home?
 
 ---
 

@@ -14,239 +14,239 @@ title: John Study Questions
 
 John 1-3
 
-When the Word was there in the beginning, whom was the Word with, and who was the Word?
+1. When the Word was there in the beginning, whom was the Word with, and who was the Word?
 
-Who was life in, and who was the light of that life?
+2. Who was life in, and who was the light of that life?
 
-Who were not born of natural descent, nor of human decision or a husband’s will, but born of God?
+3. Who were not born of natural descent, nor of human decision or a husband’s will, but born of God?
 
-What did the Word become, and what was He full of as He lived among us?
+4. What did the Word become, and what was He full of as He lived among us?
 
-Through whom was the law given, and through whom did grace and truth come?
+5. Through whom was the law given, and through whom did grace and truth come?
 
-Who is the Lamb of God, and whose sin does He take away?
+6. Who is the Lamb of God, and whose sin does He take away?
 
-What does Messiah mean?
+7. What does Messiah mean?
 
-What was the first sign Jesus performed, where did He perform it, what did it reveal, and who believed in Him?
+8. What was the first sign Jesus performed, where did He perform it, what did it reveal, and who believed in Him?
 
-Who knew what was in each person?
+9. Who knew what was in each person?
 
-Unless people are born again, what can they not see?
+10. Unless people are born again, what can they not see?
 
-Unless people are born of water and the Spirit, whose kingdom can they not enter?
+11. Unless people are born of water and the Spirit, whose kingdom can they not enter?
 
-Can what is born of the flesh be spirit?
+12. Can what is born of the flesh be spirit?
 
-Can what is born of the Spirit be flesh?
+13. Can what is born of the Spirit be flesh?
 
-Who is the one who came from heaven and is still in heaven, and who alone has ascended into heaven?
+14. Who is the one who came from heaven and is still in heaven, and who alone has ascended into heaven?
 
-Just as Moses lifted up what in the wilderness, so must the Son of Man be lifted up, so that who may have eternal life?
+15. Just as Moses lifted up what in the wilderness, so must the Son of Man be lifted up, so that who may have eternal life?
 
-Who loved the world so much that He gave His one and only Son, so that who should not perish but have eternal life?
+16. Who loved the world so much that He gave His one and only Son, so that who should not perish but have eternal life?
 
-Did God send His Son into the world to condemn the world, or to save the world through Him?
+17. Did God send His Son into the world to condemn the world, or to save the world through Him?
 
 ---
 
 John 4-6
 
-What was the difference between the water Jesus asked the Samaritan woman for and the water she asked Jesus for?
+1. What was the difference between the water Jesus asked the Samaritan woman for and the water she asked Jesus for?
 
-What did she testify about Jesus?
+2. What did she testify about Jesus?
 
-Did anyone believe in Jesus because of her testimony?
+3. Did anyone believe in Jesus because of her testimony?
 
-After Jesus stayed there for two days, how did their faith change?
+4. After Jesus stayed there for two days, how did their faith change?
 
-How should the Father truly be worshiped?
+5. How should the Father truly be worshiped?
 
-What was Jesus’ food?
+6. What was Jesus’ food?
 
-At the pool of Bethesda, there was a man who had been sick for thirty-eight years. How did he become sick, who healed him, and how did he respond to the one who healed him?
+7. At the pool of Bethesda, there was a man who had been sick for thirty-eight years. How did he become sick, who healed him, and how did he respond to the one who healed him?
 
-How can people pass from death to life?
+8. How can people pass from death to life?
 
-Who will rise to live, and who will rise to be condemned?
+9. Who will rise to live, and who will rise to be condemned?
 
-Whom does Scripture testify about?
+10. Whom does Scripture testify about?
 
-If people believed Moses, whom would they also believe, because Moses wrote about whom?
+11. If people believed Moses, whom would they also believe, because Moses wrote about whom?
 
-After the miracle of the five loaves and two fish, what did the crowd intend to force Jesus to become?
+12. After the miracle of the five loaves and two fish, what did the crowd intend to force Jesus to become?
 
-What must we do to do the works God requires?
+13. What must we do to do the works God requires?
 
-Who said, “I am the bread of life. Whoever comes to me will never go hungry, and whoever believes in me will never be thirsty”?
+14. Who said, “I am the bread of life. Whoever comes to me will never go hungry, and whoever believes in me will never be thirsty”?
 
-Where does the statement “They will all be taught by God” come from?
+15. Where does the statement “They will all be taught by God” come from?
 
-How was Jesus different from the manna?
+16. How was Jesus different from the manna?
 
 ---
 
 John 7-9
 
-How did Jesus answer the Jews’ question, “How did this man get such learning without having been taught”?
+1. How did Jesus answer the Jews’ question, “How did this man get such learning without having been taught”?
 
-Was the statement “When the Messiah comes, no one will know where he is from” correct? Why?
+2. Was the statement “When the Messiah comes, no one will know where he is from” correct? Why?
 
-While Jesus was teaching the people in the temple courts, whom did the teachers of the law and the Pharisees bring to Him?
+3. While Jesus was teaching the people in the temple courts, whom did the teachers of the law and the Pharisees bring to Him?
 
-What was their purpose, and how did Jesus respond to them?
+4. What was their purpose, and how did Jesus respond to them?
 
-What was Jesus doing when He bent down twice?
+5. What was Jesus doing when He bent down twice?
 
-In which Old Testament book did someone see the fingers of a human hand writing, causing his face to turn pale and his thoughts to terrify him?
+6. In which Old Testament book did someone see the fingers of a human hand writing, causing his face to turn pale and his thoughts to terrify him?
 
-The Jews said who was their father, while Jesus said who was their father. Why?
+7. The Jews said who was their father, while Jesus said who was their father. Why?
 
-What was the reason the man had been blind from birth?
+8. What was the reason the man had been blind from birth?
 
-How did Jesus heal him?
+9. How did Jesus heal him?
 
-Before the Pharisees, whom did he testify that Jesus was?
+10. Before the Pharisees, whom did he testify that Jesus was?
 
-Why did he say Jesus was from God?
+11. Why did he say Jesus was from God?
 
-Whose Son did he believe Jesus to be?
+12. Whose Son did he believe Jesus to be?
 
 ---
 
 John 10-12
 
-Who is the gate for the sheep?
+1. Who is the gate for the sheep?
 
-Whoever enters through Him will be saved and will come in and go out and find pasture. Who is the good shepherd who lays down His life for the sheep, knows His sheep, and is known by His sheep?
+2. Whoever enters through Him will be saved and will come in and go out and find pasture. Who is the good shepherd who lays down His life for the sheep, knows His sheep, and is known by His sheep?
 
-Which Old Testament book says, “I have said, ‘You are gods’” about those to whom the word of God came?
+3. Which Old Testament book says, “I have said, ‘You are gods’” about those to whom the word of God came?
 
-Could the one whom the Father set apart as His very own and sent into the world call Himself God’s Son? Why?
+4. Could the one whom the Father set apart as His very own and sent into the world call Himself God’s Son? Why?
 
-Did John ever perform a sign?
+5. Did John ever perform a sign?
 
-Were all the things John said about Jesus true?
+6. Were all the things John said about Jesus true?
 
-What did Jesus say when He heard that Lazarus was sick, and how many days did He stay where He was before going to Judea?
+7. What did Jesus say when He heard that Lazarus was sick, and how many days did He stay where He was before going to Judea?
 
-When Jesus told His disciples that Lazarus was dead, why was He glad?
+8. When Jesus told His disciples that Lazarus was dead, why was He glad?
 
-What did Jesus see that caused Him to be deeply moved and troubled, and then to weep?
+9. What did Jesus see that caused Him to be deeply moved and troubled, and then to weep?
 
-How did Jesus raise Lazarus, who had been dead for four days?
+10. How did Jesus raise Lazarus, who had been dead for four days?
 
-A kernel of wheat remains only a single seed unless it falls into the ground and dies. What happens if it dies?
+11. A kernel of wheat remains only a single seed unless it falls into the ground and dies. What happens if it dies?
 
-Where in the Old Testament does the statement “Lord, who has believed our message and to whom has the arm of the Lord been revealed?” come from?
+12. Where in the Old Testament does the statement “Lord, who has believed our message and to whom has the arm of the Lord been revealed?” come from?
 
-When and who saw the glory of Jesus and said, “He has blinded their eyes and hardened their hearts, so they can neither see with their eyes, nor understand with their hearts, nor turn—and I would heal them”?
+13. When and who saw the glory of Jesus and said, “He has blinded their eyes and hardened their hearts, so they can neither see with their eyes, nor understand with their hearts, nor turn—and I would heal them”?
 
 ---
 
 John 13-15
 
-At the evening meal, into whose heart had the devil already put the intention to betray Jesus?
+1. At the evening meal, into whose heart had the devil already put the intention to betray Jesus?
 
-In the statement “My close friend, someone I trusted, one who shared my bread, has turned against me,” who was the one who turned against Jesus?
+2. In the statement “My close friend, someone I trusted, one who shared my bread, has turned against me,” who was the one who turned against Jesus?
 
-After whom had Jesus given the piece of bread, Satan entered him?
+3. After whom had Jesus given the piece of bread, Satan entered him?
 
-Jesus said to him, “What you are about to do, do quickly.” After taking the bread, what did he immediately do?
+4. Jesus said to him, “What you are about to do, do quickly.” After taking the bread, what did he immediately do?
 
-Would he be in trouble?
+5. Would he be in trouble?
 
-Was he guilty of betraying Jesus?
+6. Was he guilty of betraying Jesus?
 
-What new command did Jesus give His disciples?
+7. What new command did Jesus give His disciples?
 
-Who is the way, the truth and the life?
+8. Who is the way, the truth and the life?
 
-If no one comes to the Father except through Him, who is He?
+9. If no one comes to the Father except through Him, who is He?
 
-How did Jesus answer Philip’s request, “Lord, show us the Father and that will be enough for us”?
+10. How did Jesus answer Philip’s request, “Lord, show us the Father and that will be enough for us”?
 
-Jesus asked the Father to give the disciples what, so that He would be with them forever? Who is He? Can the world accept Him? Why?
+11. Jesus asked the Father to give the disciples what, so that He would be with them forever? Who is He? Can the world accept Him? Why?
 
-If people love Jesus, what will they obey?
+12. If people love Jesus, what will they obey?
 
-What will those who do not love Jesus not obey?
+13. What will those who do not love Jesus not obey?
 
-Who is the vine, and who are the branches?
+14. Who is the vine, and who are the branches?
 
-What greater love can anyone have than to lay down their life for their friends?
+15. What greater love can anyone have than to lay down their life for their friends?
 
-Where does the statement “They hated me without reason” come from?
+16. Where does the statement “They hated me without reason” come from?
 
-Who will testify about Jesus, and who will also testify?
+17. Who will testify about Jesus, and who will also testify?
 
 ---
 
 John 16-18
 
-A time is coming when anyone who kills you will think they are offering a service to God. Why?
+1. A time is coming when anyone who kills you will think they are offering a service to God. Why?
 
-When He comes, who will convict the world concerning sin, righteousness and judgment?
+2. When He comes, who will convict the world concerning sin, righteousness and judgment?
 
-Why concerning sin?
+3. Why concerning sin?
 
-Why concerning righteousness?
+4. Why concerning righteousness?
 
-Why concerning judgment?
+5. Why concerning judgment?
 
-“A woman giving birth to a child has pain because her time has come; but when her baby is born she forgets the anguish because of her joy that a child is born into the world.” What was Jesus talking about here?
+6. “A woman giving birth to a child has pain because her time has come; but when her baby is born she forgets the anguish because of her joy that a child is born into the world.” What was Jesus talking about here?
 
-Jesus said, “I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart!” Why could they take heart?
+7. Jesus said, “I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart!” Why could they take heart?
 
-What is eternal life?
+8. What is eternal life?
 
-For whom did Jesus pray?
+9. For whom did Jesus pray?
 
-For whom did He not pray?
+10. For whom did He not pray?
 
-For whom did He pray, and why?
+11. For whom did He pray, and why?
 
-Jesus said, “My prayer is not that you take them out of the world, but that you …” what?
+12. Jesus said, “My prayer is not that you take them out of the world, but that you …” what?
 
-Jesus said, “My prayer is not for them alone. I pray also for those who will believe in me through their message, that all of them may be one, just as …” what?
+13. Jesus said, “My prayer is not for them alone. I pray also for those who will believe in me through their message, that all of them may be one, just as …” what?
 
-Jesus said, “I told you that I am he. If you are looking for me, then let these men go.” What was this to fulfill?
+14. Jesus said, “I told you that I am he. If you are looking for me, then let these men go.” What was this to fulfill?
 
-After Simon Peter cut off Malchus’s right ear, what did Jesus say to him?
+15. After Simon Peter cut off Malchus’s right ear, what did Jesus say to him?
 
-How did Jesus answer Pilate’s question, “Are you a king, then?”
+16. How did Jesus answer Pilate’s question, “Are you a king, then?”
 
 ---
 
 John 19-21
 
-How many times did Pilate say, “I find no basis for a charge against him”?
+1. How many times did Pilate say, “I find no basis for a charge against him”?
 
-What did the Jews say was the crime for which Jesus should die according to their law?
+2. What did the Jews say was the crime for which Jesus should die according to their law?
 
-What title did Pilate have prepared and fastened to the cross, and in what three languages was it written?
+3. What title did Pilate have prepared and fastened to the cross, and in what three languages was it written?
 
-Whom did the chief priests say was their king?
+4. Whom did the chief priests say was their king?
 
-Where are the prophecies “Not one of his bones will be broken” and “They will look on the one they have pierced” found?
+5. Where are the prophecies “Not one of his bones will be broken” and “They will look on the one they have pierced” found?
 
-Were the twelve apostles, who had always been with Jesus, the ones who buried Him, or was it someone else?
+6. Were the twelve apostles, who had always been with Jesus, the ones who buried Him, or was it someone else?
 
-When Jesus appeared to the disciples and Thomas was not with them, what did Thomas say afterward?
+7. When Jesus appeared to the disciples and Thomas was not with them, what did Thomas say afterward?
 
-Eight days later, when he saw Jesus, what did he say?
+8. Eight days later, when he saw Jesus, what did he say?
 
-John recorded these things so that you may believe that Jesus is who, and that by believing you may have what in His name?
+9. John recorded these things so that you may believe that Jesus is who, and that by believing you may have what in His name?
 
-The disciples had caught no fish all night. At whose command did they cast the net and catch a large number of fish?
+10. The disciples had caught no fish all night. At whose command did they cast the net and catch a large number of fish?
 
-Who did John say He was?
+11. Who did John say He was?
 
-In which book did a similar experience of catching fish take place?
+12. In which book did a similar experience of catching fish take place?
 
-What did Jesus ask Peter three times?
+13. What did Jesus ask Peter three times?
 
-Jesus did many other things as well. If every one of them were written down, what did John say that even the whole world would not have enough room to contain?
+14. Jesus did many other things as well. If every one of them were written down, what did John say that even the whole world would not have enough room to contain?
 
 ---
 

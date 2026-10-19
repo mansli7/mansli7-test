@@ -14,23 +14,23 @@ title: Malachi Study Questions
 
 Malachi 1-4
 
-Which land will be called “the Wicked Land,” and whose people will be called “a people always under the wrath of the LORD”?
+1. Which land will be called “the Wicked Land,” and whose people will be called “a people always under the wrath of the LORD”?
 
-Who said, “What a burden!” What did they regard as a burden?
+2. Who said, “What a burden!” What did they regard as a burden?
 
-Judah has been unfaithful. A detestable thing has been committed in Israel and in Jerusalem, what is it?
+3. Judah has been unfaithful. A detestable thing has been committed in Israel and in Jerusalem, what is it?
 
-What does the LORD, the God of Israel, hate, and what kind of man does He hate? (NIV is different with footnote)
+4. What does the LORD, the God of Israel, hate, and what kind of man does He hate? (NIV is different with footnote)
 
-“Who can endure the day of His coming? Who can stand when He appears?” Why, and who is “He” in this passage?
+5. “Who can endure the day of His coming? Who can stand when He appears?” Why, and who is “He” in this passage?
 
-In what way are the people of Judah robbing the LORD of His offerings??
+6. In what way are the people of Judah robbing the LORD of His offerings??
 
-Who listened and heard, and what kind of people were recorded in the book of remembrance before Him?
+7. Who listened and heard, and what kind of people were recorded in the book of remembrance before Him?
 
-Before the great and dreadful day of the LORD comes, whom will He send to you?
+8. Before the great and dreadful day of the LORD comes, whom will He send to you?
 
-Whose hearts will he turn toward whom, and what will happen if this does not occur?
+9. Whose hearts will he turn toward whom, and what will happen if this does not occur?
 
 ---
 

@@ -14,84 +14,84 @@ title: Hosea Study Questions
 
 Hosea 1—4
 
-When did the word of the LORD come to Hosea, son of Beeri?
+1. When did the word of the LORD come to Hosea, son of Beeri?
 
-What did the LORD say when He began to speak through Hosea?
+2. What did the LORD say when He began to speak through Hosea?
 
-Where in the New Testament are Hosea 1:10 and Hosea 2:23 quoted or cited?
+3. Where in the New Testament are Hosea 1:10 and Hosea 2:23 quoted or cited?
 
-Why does the LORD bring a charge against the inhabitants of the land?
+4. Why does the LORD bring a charge against the inhabitants of the land?
 
-As the priests increased, what increased as well; and what will the LORD turn their glory into?
+5. As the priests increased, what increased as well; and what will the LORD turn their glory into?
 
-They eat up the sin of my people, and what do they set their heart on?
+6. They eat up the sin of my people, and what do they set their heart on?
 
 ---
 
 Hosea 5—8
 
-What prevents the Israelites from returning to their God?
+1. What prevents the Israelites from returning to their God?
 
-What spirit is in them, and whom do they not acknowledge?
+2. What spirit is in them, and whom do they not acknowledge?
 
-What do you think of Israel's prayer and plea in Hosea 6:1–3?
+3. What do you think of Israel's prayer and plea in Hosea 6:1–3?
 
-How will the LORD respond?
+4. How will the LORD respond?
 
-What is Ephraim like—easily deceived and senseless?
+5. What is Ephraim like—easily deceived and senseless?
 
-Whom do they call to, and whom do they turn to?
+6. Whom do they call to, and whom do they turn to?
 
-From whom have they strayed, so that woe will come to them?
+7. From whom have they strayed, so that woe will come to them?
 
-Against whom have they rebelled, so that destruction will come to them?
+8. Against whom have they rebelled, so that destruction will come to them?
 
-Who longs to redeem them, yet they speak lies against Him?
+9. Who longs to redeem them, yet they speak lies against Him?
 
-They sow the wind and what do they reap?
+10. They sow the wind and what do they reap?
 
-The stalk has no head; what will it produce?
+11. The stalk has no head; what will it produce?
 
-Even if it yielded grain, what would foreigners do with it?
+12. Even if it yielded grain, what would foreigners do with it?
 
-What did Ephraim multiply to sin, and what shall be unto him to sin?
+13. What did Ephraim multiply to sin, and what shall be unto him to sin?
 
-What did the LORD write for him, yet he considers it of no concern to himself?
+14. What did the LORD write for him, yet he considers it of no concern to himself?
 
 ---
 
 Hosea 9—12
 
-Israel, do not rejoice like the other nations—why?
+1. Israel, do not rejoice like the other nations—why?
 
-What will Ephraim's glory fly away like?
+2. What will Ephraim's glory fly away like?
 
-Even if they raise children, who will bereave them of every one?
+3. Even if they raise children, who will bereave them of every one?
 
-Woe to them when who turns away from them?
+4. Woe to them when who turns away from them?
 
-Who has cited Hosea 10:8, "They will say to the mountains, 'Cover us!' and to the hills, 'Fall on us!'"?
+5. Who has cited Hosea 10:8, "They will say to the mountains, 'Cover us!' and to the hills, 'Fall on us!'"?
 
-To what land will Israel not return; who will rule over them; why?
+6. To what land will Israel not return; who will rule over them; why?
 
-Who grasped his brother's heel in the womb, as a man struggled with God, wrestled with the angel and overcame, wept and begged for his favor, and met the LORD at Bethel?
+7. Who grasped his brother's heel in the womb, as a man struggled with God, wrestled with the angel and overcame, wept and begged for his favor, and met the LORD at Bethel?
 
-Who in the past fled to Aram, and served to get a wife, and to pay for her tended sheep?
+8. Who in the past fled to Aram, and served to get a wife, and to pay for her tended sheep?
 
 ---
 
 Hosea 13—14
 
-Previously "Ephraim spoke, people trembled; he was exalted in Israel"—identify one Ephraimite who once held a high position.
+1. Previously "Ephraim spoke, people trembled; he was exalted in Israel"—identify one Ephraimite who once held a high position.
 
-Who gave Israel a king in His anger and took him away in His wrath?
+2. Who gave Israel a king in His anger and took him away in His wrath?
 
-Who was that king?
+3. Who was that king?
 
-What will the LORD deliver the Israelites from, and what will He redeem them from?
+4. What will the LORD deliver the Israelites from, and what will He redeem them from?
 
-Who will be like the dew to Israel; what will he blossom like; what will he send down his roots like; what will grow; what will his splendor be like; and what will his fragrance be like?
+5. Who will be like the dew to Israel; what will he blossom like; what will he send down his roots like; what will grow; what will his splendor be like; and what will his fragrance be like?
 
-Whose ways are right?
+6. Whose ways are right?
 
-Who will walk in them, and who will stumble in them?
+7. Who will walk in them, and who will stumble in them?

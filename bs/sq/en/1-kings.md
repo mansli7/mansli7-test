@@ -18,23 +18,23 @@ title: 1 Kings Study Questions
 ---
 
 
-Who said, “I will be king,” and who was anointed to succeed David as king?
+1. Who said, “I will be king,” and who was anointed to succeed David as king?
 
-What did David instruct Solomon to observe, in whose obedience was he to walk, and what decrees and laws was he to keep so that he would prosper in all he did and wherever he went?
+2. What did David instruct Solomon to observe, in whose obedience was he to walk, and what decrees and laws was he to keep so that he would prosper in all he did and wherever he went?
 
-By chapter 4, how many of David’s sons had been killed?
+3. By chapter 4, how many of David’s sons had been killed?
 
-Abiathar was prevented from serving as priest, fulfilling whose words in which book of the Bible?
+4. Abiathar was prevented from serving as priest, fulfilling whose words in which book of the Bible?
 
-Why was Joab killed?
+5. Why was Joab killed?
 
-Who, even though grasping the horns of the altar, was still killed?
+6. Who, even though grasping the horns of the altar, was still killed?
 
-What did Solomon ask of the LORD that pleased Him?
+7. What did Solomon ask of the LORD that pleased Him?
 
-Whose wisdom did Solomon possess in his heart to judge?
+8. Whose wisdom did Solomon possess in his heart to judge?
 
-Can Solomon’s wisdom be measured?
+9. Can Solomon’s wisdom be measured?
 
 ---
 
@@ -44,23 +44,23 @@ Can Solomon’s wisdom be measured?
 ---
 
 
-For whose name did Solomon resolve to build the temple?
+1. For whose name did Solomon resolve to build the temple?
 
-Who provided him with cedar and juniper log according to Solomon’s specifications?
+2. Who provided him with cedar and juniper log according to Solomon’s specifications?
 
-In which year did construction of the LORD’s temple begin, and how long did it take to complete?
+3. In which year did construction of the LORD’s temple begin, and how long did it take to complete?
 
-Regarding the temple Solomon built, what message from the LORD came to him?
+4. Regarding the temple Solomon built, what message from the LORD came to him?
 
-Before which festival did the priests carry the Ark of the LORD into the inner sanctuary?
+5. Before which festival did the priests carry the Ark of the LORD into the inner sanctuary?
 
-What was inside the Ark?
+6. What was inside the Ark?
 
-What filled the LORD’s temple?
+7. What filled the LORD’s temple?
 
-Who fulfilled the promises made to David, speaking them personally and accomplishing them by hand?
+8. Who fulfilled the promises made to David, speaking them personally and accomplishing them by hand?
 
-Did the LORD’s promises to bless, given through His servant Moses, fail?
+9. Did the LORD’s promises to bless, given through His servant Moses, fail?
 
 ---
 
@@ -70,21 +70,21 @@ Did the LORD’s promises to bless, given through His servant Moses, fail?
 ---
 
 
-Is it possible for the LORD to abandon and disregard His temple, and if so, under what conditions?
+1. Is it possible for the LORD to abandon and disregard His temple, and if so, under what conditions?
 
-Regarding Solomon’s wisdom, was there a difference between what the Queen of Sheba heard and what she saw with her own eyes?
+2. Regarding Solomon’s wisdom, was there a difference between what the Queen of Sheba heard and what she saw with her own eyes?
 
-Whom did she say is to be praised?
+3. Whom did she say is to be praised?
 
-Who in the New Testament mentions the Queen of Sheba coming to hear Solomon’s wisdom?
+4. Who in the New Testament mentions the Queen of Sheba coming to hear Solomon’s wisdom?
 
-Why did the LORD take the kingdom from Solomon and give ten tribes to Jeroboam?
+5. Why did the LORD take the kingdom from Solomon and give ten tribes to Jeroboam?
 
-How many years did Solomon reign over Israel?
+6. How many years did Solomon reign over Israel?
 
-Why did Rehoboam refuse to listen to the people?
+7. Why did Rehoboam refuse to listen to the people?
 
-What did Jeroboam make for the people to worship, and in history, when did Israel also worship in a similar way?
+8. What did Jeroboam make for the people to worship, and in history, when did Israel also worship in a similar way?
 
 ---
 
@@ -94,17 +94,17 @@ What did Jeroboam make for the people to worship, and in history, when did Israe
 ---
 
 
-What did the man of God from Judah proclaim to the altar by the command of the LORD, and why was he killed by a lion on his way back?
+1. What did the man of God from Judah proclaim to the altar by the command of the LORD, and why was he killed by a lion on his way back?
 
-Among the family of Jeroboam, who alone was buried in a grave, and why?
+2. Among the family of Jeroboam, who alone was buried in a grave, and why?
 
-What happened to the rest, and why?
+3. What happened to the rest, and why?
 
-Except for what matter, did David do everything that was right in the eyes of the LORD and never disobey His commands?
+4. Except for what matter, did David do everything that was right in the eyes of the LORD and never disobey His commands?
 
-Who killed all of Jeroboam’s household, fulfilling the LORD’s word, and what was the fate of his family, and why?
+5. Who killed all of Jeroboam’s household, fulfilling the LORD’s word, and what was the fate of his family, and why?
 
-How did King Ahab of Israel do evil in the eyes of the LORD compared to previous kings?
+6. How did King Ahab of Israel do evil in the eyes of the LORD compared to previous kings?
 
 ---
 
@@ -114,15 +114,15 @@ How did King Ahab of Israel do evil in the eyes of the LORD compared to previous
 ---
 
 
-Who caused the drought in Israel, and how long did it last?
+1. Who caused the drought in Israel, and how long did it last?
 
-Regarding Elijah’s prayer, how is it described in the New Testament?
+2. Regarding Elijah’s prayer, how is it described in the New Testament?
 
-Who in the New Testament mentions the widow of Zarephath in Sidon?
+3. Who in the New Testament mentions the widow of Zarephath in Sidon?
 
-On Mount Horeb, what question did the LORD ask Elijah, how many times, did he answer the same each time, and what did the LORD say to him afterward?
+4. On Mount Horeb, what question did the LORD ask Elijah, how many times, did he answer the same each time, and what did the LORD say to him afterward?
 
-Ahab released Ben-Hadad; how did the LORD intend to deal with Ahab?
+5. Ahab released Ben-Hadad; how did the LORD intend to deal with Ahab?
 
 ---
 
@@ -132,23 +132,23 @@ Ahab released Ben-Hadad; how did the LORD intend to deal with Ahab?
 ---
 
 
-Why did Naboth refuse to sell his vineyard to Ahab?
+1. Why did Naboth refuse to sell his vineyard to Ahab?
 
-Was Naboth killed for blaspheming God?
+2. Was Naboth killed for blaspheming God?
 
-Who betrayed Ahab?
+3. Who betrayed Ahab?
 
-What was the fate of Ahab’s family?
+4. What was the fate of Ahab’s family?
 
-Regarding the capture of Ramoth-gilead, Ahab gathered about four hundred men—were they prophets of the LORD?
+5. Regarding the capture of Ramoth-gilead, Ahab gathered about four hundred men—were they prophets of the LORD?
 
-Who was the true prophet of the LORD?
+6. Who was the true prophet of the LORD?
 
-How did Ahab die, and did the LORD’s word come to pass?
+7. How did Ahab die, and did the LORD’s word come to pass?
 
-Whom did Ahab marry, who supported the four hundred prophets of Asherah, who killed the LORD’s prophets and pursued Elijah, and who ordered Naboth’s death?
+8. Whom did Ahab marry, who supported the four hundred prophets of Asherah, who killed the LORD’s prophets and pursued Elijah, and who ordered Naboth’s death?
 
-What was her fate?
+9. What was her fate?
 
 ---
 

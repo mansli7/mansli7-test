@@ -14,13 +14,13 @@ title: 3 John Study Questions
 
 3 John
 
-Who was 3 John written to?
+1. Who was 3 John written to?
 
-Why was John delighted?
+2. Why was John delighted?
 
-Whom did he condemn in the letter, and why?
+3. Whom did he condemn in the letter, and why?
 
-Who is the one who does what is good?
+4. Who is the one who does what is good?
 
 ---
 

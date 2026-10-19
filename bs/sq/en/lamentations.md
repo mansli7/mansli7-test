@@ -14,18 +14,18 @@ title: Lamentations Study Questions
 
 Lamentations 1—5
 
-Why do I weep and why do my eyes overflow with tears?
+1. Why do I weep and why do my eyes overflow with tears?
 
-The LORD is righteous; why has He treated me in this way?
+2. The LORD is righteous; why has He treated me in this way?
 
-With what has the LORD covered Daughter Zion in His anger?
+3. With what has the LORD covered Daughter Zion in His anger?
 
-What has He hurled down from heaven to earth, and what has He not remembered in the day of His anger?
+4. What has He hurled down from heaven to earth, and what has He not remembered in the day of His anger?
 
-What has the LORD rejected, what has He abandoned, and what has He given into the hands of the enemy?
+5. What has the LORD rejected, what has He abandoned, and what has He given into the hands of the enemy?
 
-Until when will my eyes flow with tears unceasingly and without relief?
+6. Until when will my eyes flow with tears unceasingly and without relief?
 
-What has compassionate women cook with their own hands for food when my people were destroyed?
+7. What has compassionate women cook with their own hands for food when my people were destroyed?
 
-To whom do we turn to be restored, and whom do we ask to renew our days as of old?
+8. To whom do we turn to be restored, and whom do we ask to renew our days as of old?

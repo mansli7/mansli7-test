@@ -18,13 +18,13 @@ Ezra 1–4
 ---
 
 
-To fulfill whose word did which king make a proclamation for the Israelites to go up to Jerusalem to rebuild the temple of the LORD, and how many years after Judah's exile did this occur?
+1. To fulfill whose word did which king make a proclamation for the Israelites to go up to Jerusalem to rebuild the temple of the LORD, and how many years after Judah's exile did this occur?
 
-Which tribes returned to Jerusalem, and among those returning, who is listed in the genealogy of Jesus Christ in Matthew?
+2. Which tribes returned to Jerusalem, and among those returning, who is listed in the genealogy of Jesus Christ in Matthew?
 
-When the foundation of the temple of the LORD was laid, what did the Israelites sing together in praise and thanksgiving to the LORD, and when had such praise been sung before?
+3. When the foundation of the temple of the LORD was laid, what did the Israelites sing together in praise and thanksgiving to the LORD, and when had such praise been sung before?
 
-Who came to discourage the rebuilding of the temple until the reign of Darius king of Persia?
+4. Who came to discourage the rebuilding of the temple until the reign of Darius king of Persia?
 
 ---
 
@@ -34,15 +34,15 @@ Ezra 5–8
 ---
 
 
-Who, in the name of the LORD, prophesied to the Jews, and so they set to work to rebuild the house of God?
+1. Who, in the name of the LORD, prophesied to the Jews, and so they set to work to rebuild the house of God?
 
-Who interfered with the work on the temple of God and reported to King Darius, and how did King Darius reply in his decree?
+2. Who interfered with the work on the temple of God and reported to King Darius, and how did King Darius reply in his decree?
 
-When was the temple completed?
+3. When was the temple completed?
 
-When did Ezra depart from Babylon and when did he arrive in Jerusalem?
+4. When did Ezra depart from Babylon and when did he arrive in Jerusalem?
 
-Whose descendant was he, what was he well versed in, what did he devote himself to do, what did he say in praise of the LORD, why did he proclaim a fast by the Ahava Canal, and what did he do upon arriving in Jerusalem?
+5. Whose descendant was he, what was he well versed in, what did he devote himself to do, what did he say in praise of the LORD, why did he proclaim a fast by the Ahava Canal, and what did he do upon arriving in Jerusalem?
 
 ---
 
@@ -52,9 +52,9 @@ Ezra 9–10
 ---
 
 
-Why did Ezra tear his tunic and cloak, pull out his hair from his head and beard, and sit down appalled?
+1. Why did Ezra tear his tunic and cloak, pull out his hair from his head and beard, and sit down appalled?
 
-What was Ezra doing as he threw himself down before the house of God, and whom did he put under oath, and what did they swear to do?
+2. What was Ezra doing as he threw himself down before the house of God, and whom did he put under oath, and what did they swear to do?
 
 ---
 

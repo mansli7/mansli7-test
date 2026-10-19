@@ -14,9 +14,9 @@ title: Haggai Study Questions
 
 Haggai 1-2
 
-Which chapters of Ezra correspond to the times when the word of the LORD came to Haggai?
+1. Which chapters of Ezra correspond to the times when the word of the LORD came to Haggai?
 
-How many times did the word of the LORD come through the prophet Haggai to Judah (Israel), and what were the dates and main messages on each occasion?
+2. How many times did the word of the LORD come through the prophet Haggai to Judah (Israel), and what were the dates and main messages on each occasion?
 
 ---
 

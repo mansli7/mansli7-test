@@ -14,93 +14,93 @@ title: Zechariah Study Questions
 
 Zechariah 1-4
 
-When did the word of the LORD first come to Zechariah?
+1. When did the word of the LORD first come to Zechariah?
 
-To whom should Israel return?
+2. To whom should Israel return?
 
-Who will return to them?
+3. Who will return to them?
 
-What should they turn away from?
+4. What should they turn away from?
 
-How many years had the LORD been angry with Jerusalem and the towns of Judah?
+5. How many years had the LORD been angry with Jerusalem and the towns of Judah?
 
-Which nations was He especially angry with, and why?
+6. Which nations was He especially angry with, and why?
 
-To which place will the LORD return to show mercy?
+7. To which place will the LORD return to show mercy?
 
-What will be rebuilt?
+8. What will be rebuilt?
 
-On what will the measuring line be stretched?
+9. On what will the measuring line be stretched?
 
-Which towns will again overflow with prosperity?
+10. Which towns will again overflow with prosperity?
 
-Where will the LORD again bring comfort?
+11. Where will the LORD again bring comfort?
 
-Which city will He choose?
+12. Which city will He choose?
 
-What are the four horns?
+13. What are the four horns?
 
-What do the four craftsmen do?
+14. What do the four craftsmen do?
 
-Who will be a wall of fire around Jerusalem and the glory within her?
+15. Who will be a wall of fire around Jerusalem and the glory within her?
 
-What must Joshua the high priest do in order to govern the house and have charge of the courts of the LORD?
+16. What must Joshua the high priest do in order to govern the house and have charge of the courts of the LORD?
 
-What must not be relied upon, but what must be relied upon for success?
+17. What must not be relied upon, but what must be relied upon for success?
 
-What are the seven eyes, and what do the two olive trees on either side of the golden lampstand represent?
+18. What are the seven eyes, and what do the two olive trees on either side of the golden lampstand represent?
 
 ---
 
 Zechariah 5-8
 
-Into whose house does the flying scroll enter?
+1. Into whose house does the flying scroll enter?
 
-Where is the basket taken?
+2. Where is the basket taken?
 
-What are the four winds of heaven?
+3. What are the four winds of heaven?
 
-Who will branch out from his place, build the temple of the LORD, be clothed with majesty, sit and rule on his throne, and serve as priest, bringing harmony between the two?
+4. Who will branch out from his place, build the temple of the LORD, be clothed with majesty, sit and rule on his throne, and serve as priest, bringing harmony between the two?
 
-For how many years have Israel fasted and mourned in the fifth and seventh months?
+5. For how many years have Israel fasted and mourned in the fifth and seventh months?
 
-What will the fasts of the fourth, fifth, seventh, and tenth months become in the future?
+6. What will the fasts of the fourth, fifth, seventh, and tenth months become in the future?
 
-Who made the pleasant land desolate?
+7. Who made the pleasant land desolate?
 
-Who will return to Zion and dwell in Jerusalem?
+8. Who will return to Zion and dwell in Jerusalem?
 
-Why will Jerusalem be called the Faithful City and the mountain of the LORD of hosts called the Holy Mountain?
+9. Why will Jerusalem be called the Faithful City and the mountain of the LORD of hosts called the Holy Mountain?
 
 ---
 
 Zechariah 9-12
 
-Which New Testament books quote Zechariah 9:9 (“Rejoice greatly, Daughter Zion…”)?
+1. Which New Testament books quote Zechariah 9:9 (“Rejoice greatly, Daughter Zion…”)?
 
-What are the two staffs called?
+2. What are the two staffs called?
 
-What does breaking them represent?
+3. What does breaking them represent?
 
-Where in the New Testament is Zechariah 11:12–13 fulfilled?
+4. Where in the New Testament is Zechariah 11:12–13 fulfilled?
 
-Which New Testament book quotes, “They will look on me, the one they have pierced”?
+5. Which New Testament book quotes, “They will look on me, the one they have pierced”?
 
 ---
 
 Zechariah 13-14
 
-Which New Testament books quote “Strike the shepherd, and the sheep will be scattered”?
+1. Which New Testament books quote “Strike the shepherd, and the sheep will be scattered”?
 
-On that day, whose feet will stand on the Mount of Olives east of Jerusalem?
+2. On that day, whose feet will stand on the Mount of Olives east of Jerusalem?
 
-What will happen to the Mount?
+3. What will happen to the Mount?
 
-Who will come, accompanied by all the holy ones?
+4. Who will come, accompanied by all the holy ones?
 
-Who will be King over the whole earth, and whose name will be the only name?
+5. Who will be King over the whole earth, and whose name will be the only name?
 
-Who will go up year after year to worship the King, the LORD of hosts, and to celebrate the Festival of Tabernacles?
+6. Who will go up year after year to worship the King, the LORD of hosts, and to celebrate the Festival of Tabernacles?
 
 ---
 

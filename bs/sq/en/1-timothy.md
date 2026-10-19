@@ -14,43 +14,43 @@ title: 1 Timothy Study Questions
 
 1 Timothy 1-3
 
-What is the goal of this command?
+1. What is the goal of this command?
 
-Where does this love come from?
+2. Where does this love come from?
 
-For whom was the law not made, and for whom was it made?
+3. For whom was the law not made, and for whom was it made?
 
-Who is the one God, and who is the one mediator between God and mankind who gave himself as a ransom for all?
+4. Who is the one God, and who is the one mediator between God and mankind who gave himself as a ransom for all?
 
-Who was formed first, Adam or Eve?
+5. Who was formed first, Adam or Eve?
 
-Who was deceived and became a sinner?
+6. Who was deceived and became a sinner?
 
-What kind of person must a person who desires to be an overseer be?
+7. What kind of person must a person who desires to be an overseer be?
 
-What is the mystery from which true godliness springs?
+8. What is the mystery from which true godliness springs?
 
 ---
 
 1 Timothy 4-6
 
-In later times, what will some abandon, and what will they follow?
+1. In later times, what will some abandon, and what will they follow?
 
-Everything God created is good, and nothing is to be rejected if it is received with thanksgiving. By what is it made holy?
+2. Everything God created is good, and nothing is to be rejected if it is received with thanksgiving. By what is it made holy?
 
-What has some value, but what has value for all things, holding promise for both the present life and the life to come?
+3. What has some value, but what has value for all things, holding promise for both the present life and the life to come?
 
-What should no one look down on?
+4. What should no one look down on?
 
-What should Timothy not neglect?
+5. What should Timothy not neglect?
 
-Whom should he not rebuke harshly, and whom should he treat with respect?
+6. Whom should he not rebuke harshly, and whom should he treat with respect?
 
-Where do the sayings “Do not muzzle an ox while it is treading out the grain” and “The worker deserves his wages” come from, and what do they mean here?
+7. Where do the sayings “Do not muzzle an ox while it is treading out the grain” and “The worker deserves his wages” come from, and what do they mean here?
 
-What kind of attitude brings great gain, and why?
+8. What kind of attitude brings great gain, and why?
 
-What is the root of all kinds of evil?
+9. What is the root of all kinds of evil?
 
 ---
 

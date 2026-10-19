@@ -14,19 +14,19 @@ title: Obadiah Study Questions
 
 Obadiah
 
-What is the relationship between Esau and Edom, Esau and Jacob, and Jacob and Israel?
+1. What is the relationship between Esau and Edom, Esau and Jacob, and Jacob and Israel?
 
-What did Esau do against Jacob that he should not have done?
+2. What did Esau do against Jacob that he should not have done?
 
-On what day did these things happen?
+3. On what day did these things happen?
 
-On what day will Esau be repaid for what he has done?
+4. On what day will Esau be repaid for what he has done?
 
-Who will become like fire, who like a flame, and who like stubble?
+5. Who will become like fire, who like a flame, and who like stubble?
 
-Who will be burned and destroyed, leaving no survivors, and who has spoken this?
+6. Who will be burned and destroyed, leaving no survivors, and who has spoken this?
 
-Who will go up on Mount Zion to govern the mountains of Esau, and to whom will the kingdom belong?
+7. Who will go up on Mount Zion to govern the mountains of Esau, and to whom will the kingdom belong?
 
 ---
 

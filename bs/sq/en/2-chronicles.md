@@ -18,11 +18,11 @@ title: 2 Chronicles Study Questions
 ---
 
 
-Where was the ark of God, where was the tabernacle Moses had made, from when did the ark begin to be in different places, and after Israel entered Canaan, where did the ark rest?
+1. Where was the ark of God, where was the tabernacle Moses had made, from when did the ark begin to be in different places, and after Israel entered Canaan, where did the ark rest?
 
-If you were Solomon, what would you have asked the LORD to give you?
+2. If you were Solomon, what would you have asked the LORD to give you?
 
-Where was the temple built, and what had happened at that place?
+3. Where was the temple built, and what had happened at that place?
 
 ---
 
@@ -32,15 +32,15 @@ Where was the temple built, and what had happened at that place?
 ---
 
 
-What did the priests say as they praised the LORD?
+1. What did the priests say as they praised the LORD?
 
-Where is the “place the LORD has chosen for his Name to dwell”?
+2. Where is the “place the LORD has chosen for his Name to dwell”?
 
-How many times in Solomon’s prayer did he ask the LORD to hear and listen?
+3. How many times in Solomon’s prayer did he ask the LORD to hear and listen?
 
-When fire came down from heaven and consumed the burnt offerings and other sacrifices, and the glory of the LORD filled the temple, how did all Israel give thanks to the LORD?
+4. When fire came down from heaven and consumed the burnt offerings and other sacrifices, and the glory of the LORD filled the temple, how did all Israel give thanks to the LORD?
 
-Was Solomon’s wife an Israelite, and why could she not live in the palace of David king of Israel?
+5. Was Solomon’s wife an Israelite, and why could she not live in the palace of David king of Israel?
 
 ---
 
@@ -50,15 +50,15 @@ Was Solomon’s wife an Israelite, and why could she not live in the palace of D
 ---
 
 
-What did the Queen of Sheba hear that made her come to Jerusalem, and what questions did she bring to test Solomon?
+1. What did the Queen of Sheba hear that made her come to Jerusalem, and what questions did she bring to test Solomon?
 
-What have you learned from her?
+2. What have you learned from her?
 
-When Rehoboam wanted to go to war against Israel and to regain the kingdom for himself, what word did the LORD give to Shemaiah the man of God?
+3. When Rehoboam wanted to go to war against Israel and to regain the kingdom for himself, what word did the LORD give to Shemaiah the man of God?
 
-Which tribes and which people sided with King Rehoboam of Judah?
+4. Which tribes and which people sided with King Rehoboam of Judah?
 
-Why did Pharaoh Shishak of Egypt attack Jerusalem, but not destroy the kingdom of Judah?
+5. Why did Pharaoh Shishak of Egypt attack Jerusalem, but not destroy the kingdom of Judah?
 
 ---
 
@@ -68,15 +68,15 @@ Why did Pharaoh Shishak of Egypt attack Jerusalem, but not destroy the kingdom o
 ---
 
 
-How did the northern kingdom of Israel appoint priests for themselves?
+1. How did the northern kingdom of Israel appoint priests for themselves?
 
-On whom did King Abijah of Judah rely, that his 400,000 men defeated Israel’s 800,000 warriors?
+2. On whom did King Abijah of Judah rely, that his 400,000 men defeated Israel’s 800,000 warriors?
 
-On whom did King Asa of Judah rely to defeat a million Cushite troops?
+3. On whom did King Asa of Judah rely to defeat a million Cushite troops?
 
-Which prophet came to him, what did he do, and from then there was no war until the thirty-fifth year of his reign?
+4. Which prophet came to him, what did he do, and from then there was no war until the thirty-fifth year of his reign?
 
-In the thirty-sixth year of Asa’s reign, Baasha king of Israel attacked Judah. On whom did Asa rely, which prophet came to him, and what did he say? After that, there would still be war.
+5. In the thirty-sixth year of Asa’s reign, Baasha king of Israel attacked Judah. On whom did Asa rely, which prophet came to him, and what did he say? After that, there would still be war.
 
 ---
 
@@ -86,15 +86,15 @@ In the thirty-sixth year of Asa’s reign, Baasha king of Israel attacked Judah.
 ---
 
 
-Why was the LORD with Jehoshaphat?
+1. Why was the LORD with Jehoshaphat?
 
-What did the messenger sent by the king of Israel to summon Micaiah say to him, and how did Micaiah respond?
+2. What did the messenger sent by the king of Israel to summon Micaiah say to him, and how did Micaiah respond?
 
-What did Jehu, son of Hanani, say to Jehoshaphat?
+3. What did Jehu, son of Hanani, say to Jehoshaphat?
 
-When facing the armies of the Ammonites, Moabites, and others, to whom did the battle belong?
+4. When facing the armies of the Ammonites, Moabites, and others, to whom did the battle belong?
 
-Did Judah need to fight?
+5. Did Judah need to fight?
 
 ---
 
@@ -104,15 +104,15 @@ Did Judah need to fight?
 ---
 
 
-In the time of Jehoram, Edom rebelled against Judah and set up its own king. Which prophecy did this fulfill?
+1. In the time of Jehoram, Edom rebelled against Judah and set up its own king. Which prophecy did this fulfill?
 
-King Jehoram of Judah did what was evil in the LORD’s eyes. Therefore, upon whom did the LORD bring disaster, how did Jehoram die, and why did the LORD not destroy the house of David?
+2. King Jehoram of Judah did what was evil in the LORD’s eyes. Therefore, upon whom did the LORD bring disaster, how did Jehoram die, and why did the LORD not destroy the house of David?
 
-How was King Ahaziah of Judah killed, and by whose hand did this happen?
+3. How was King Ahaziah of Judah killed, and by whose hand did this happen?
 
-Jehosheba saved Joash son of Ahaziah. Whose daughter, whose sister, and whose wife was she?
+4. Jehosheba saved Joash son of Ahaziah. Whose daughter, whose sister, and whose wife was she?
 
-What kindness did Jehoiada the priest show to King Joash, and why did Joash kill his son Zechariah?
+5. What kindness did Jehoiada the priest show to King Joash, and why did Joash kill his son Zechariah?
 
 ---
 
@@ -122,11 +122,11 @@ What kindness did Jehoiada the priest show to King Joash, and why did Joash kill
 ---
 
 
-Why was King Amaziah of Judah able to defeat the people of Seir, yet was defeated by Israel?
+1. Why was King Amaziah of Judah able to defeat the people of Seir, yet was defeated by Israel?
 
-When Uzziah king of Judah became powerful, he became proud. How did he act, against whom did he sin, and what disaster did the LORD bring upon him?
+2. When Uzziah king of Judah became powerful, he became proud. How did he act, against whom did he sin, and what disaster did the LORD bring upon him?
 
-Why did God deliver Ahaz king of Judah into the hands of Pekah king of Israel, and how did the Israelites treat the captives from Judah?
+3. Why did God deliver Ahaz king of Judah into the hands of Pekah king of Israel, and how did the Israelites treat the captives from Judah?
 
 ---
 
@@ -136,11 +136,11 @@ Why did God deliver Ahaz king of Judah into the hands of Pekah king of Israel, a
 ---
 
 
-In the first month of the first year of Hezekiah’s reign, the priests consecrated the temple of the LORD. How many days did it take?
+1. In the first month of the first year of Hezekiah’s reign, the priests consecrated the temple of the LORD. How many days did it take?
 
-When Hezekiah and the people of Judah celebrated the Passover, was it in the first month or second month, how many times did they celebrate, and why?
+2. When Hezekiah and the people of Judah celebrated the Passover, was it in the first month or second month, how many times did they celebrate, and why?
 
-When Hezekiah was sick and near death, he prayed to the LORD, and the LORD added fifteen years to his life. Did he respond to the kindness shown him?
+3. When Hezekiah was sick and near death, he prayed to the LORD, and the LORD added fifteen years to his life. Did he respond to the kindness shown him?
 
 ---
 
@@ -150,15 +150,15 @@ When Hezekiah was sick and near death, he prayed to the LORD, and the LORD added
 ---
 
 
-Why did the army commanders of the king of Assyria attack Manasseh and his people?
+1. Why did the army commanders of the king of Assyria attack Manasseh and his people?
 
-In his distress, what did he do, and what was the outcome?
+2. In his distress, what did he do, and what was the outcome?
 
-Whom did Josiah king of Judah go out to fight, resulting in his being wounded and killed?
+3. Whom did Josiah king of Judah go out to fight, resulting in his being wounded and killed?
 
-Whose affairs was he warned not to oppose?
+4. Whose affairs was he warned not to oppose?
 
-How many times did the Babylonians carry the people of Judah into exile, and did the people still have hope of returning to Jerusalem?
+5. How many times did the Babylonians carry the people of Judah into exile, and did the people still have hope of returning to Jerusalem?
 
 ---
 

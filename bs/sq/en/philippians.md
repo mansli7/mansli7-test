@@ -14,27 +14,27 @@ title: Philippians Study Questions
 
 Philippians 1-4
 
-Where was Paul when he wrote his letter to the Philippians?
+1. Where was Paul when he wrote his letter to the Philippians?
 
-Whose day is mentioned in Philippians chapter 1?
+2. Whose day is mentioned in Philippians chapter 1?
 
-“I am torn between the two.” What were the two choices Paul was torn between?
+3. “I am torn between the two.” What were the two choices Paul was torn between?
 
-What did Christ Jesus do that led Paul to say, “In your relationships with one another, have the same mindset as Christ Jesus”?
+4. What did Christ Jesus do that led Paul to say, “In your relationships with one another, have the same mindset as Christ Jesus”?
 
-Whom did Paul plan to send to the Philippians?
+5. Whom did Paul plan to send to the Philippians?
 
-What kind of people were they?
+6. What kind of people were they?
 
-What did Paul warn the church in Philippi to watch out for?
+7. What did Paul warn the church in Philippi to watch out for?
 
-What did Paul consider a loss, and what did he consider to be of greater worth?
+8. What did Paul consider a loss, and what did he consider to be of greater worth?
 
-Paul said, “One thing I do.” What was it?
+9. Paul said, “One thing I do.” What was it?
 
-How many times is “rejoice” mentioned in Philippians chapter 4?
+10. How many times is “rejoice” mentioned in Philippians chapter 4?
 
-In whom should we rejoice?
+11. In whom should we rejoice?
 
 ---
 

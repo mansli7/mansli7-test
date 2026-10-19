@@ -18,23 +18,23 @@ Esther 1–4
 ---
 
 
-Why did King Ahasuerus become furious and burn with anger, and why did he issue a decree to depose Queen Vashti?
+1. Why did King Ahasuerus become furious and burn with anger, and why did he issue a decree to depose Queen Vashti?
 
-Which tribe were Mordecai and Esther from?
+2. Which tribe were Mordecai and Esther from?
 
-When was Esther made queen?
+3. When was Esther made queen?
 
-Who saved the king from the conspiracy by the two palace guards?
+4. Who saved the king from the conspiracy by the two palace guards?
 
-Who was Haman?
+5. Who was Haman?
 
-What was his official position?
+6. What was his official position?
 
-By casting the lot, which month and day did he select, and what did he plan to do to the Jews?
+7. By casting the lot, which month and day did he select, and what did he plan to do to the Jews?
 
-Do you remember in which book of the Bible Agag previously appeared?
+8. Do you remember in which book of the Bible Agag previously appeared?
 
-When Mordecai learned that Esther could not approach the king in the inner court to plead with him for her people, how did Mordecai respond to her?
+9. When Mordecai learned that Esther could not approach the king in the inner court to plead with him for her people, how did Mordecai respond to her?
 
 ---
 
@@ -44,13 +44,13 @@ Esther 5–8
 ---
 
 
-How many times did the king ask Esther what her petition and request were, and how did she respond?
+1. How many times did the king ask Esther what her petition and request were, and how did she respond?
 
-For whom had Haman set up a fifty cubits high pole, and who was ultimately hanged on it?
+2. For whom had Haman set up a fifty cubits high pole, and who was ultimately hanged on it?
 
-Could the king's decree to annihilate the Jews in all the provinces be revoked, and if not, how could the Jews be saved?
+3. Could the king's decree to annihilate the Jews in all the provinces be revoked, and if not, how could the Jews be saved?
 
-Who was the man the king delighted to honor, and who ultimately received the king's signet ring?
+4. Who was the man the king delighted to honor, and who ultimately received the king's signet ring?
 
 ---
 
@@ -60,13 +60,13 @@ Esther 9–10
 ---
 
 
-On the thirteenth day of the twelfth month of the reign of King Ahasuerus, who gained power over whom?
+1. On the thirteenth day of the twelfth month of the reign of King Ahasuerus, who gained power over whom?
 
-When the king asked Esther what her petition was, how did she respond?
+2. When the king asked Esther what her petition was, how did she respond?
 
-On which days was Purim celebrated, and what kind of days of joy were they for the Jews?
+3. On which days was Purim celebrated, and what kind of days of joy were they for the Jews?
 
-Who became second in rank to King Ahasuerus?
+4. Who became second in rank to King Ahasuerus?
 
 ---
 

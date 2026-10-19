@@ -14,63 +14,63 @@ title: 1 John Study Questions
 
 1 John 1-3
 
-How many times does 1 John chapter 1 speak about fellowship?
+1. How many times does 1 John chapter 1 speak about fellowship?
 
-Who has fellowship with whom?
+2. Who has fellowship with whom?
 
-Jesus Christ is the atoning sacrifice for our sins—not only for our sins, but also for whose sins?
+3. Jesus Christ is the atoning sacrifice for our sins—not only for our sins, but also for whose sins?
 
-John says, “I am writing to you.” Who is “you” here?
+4. John says, “I am writing to you.” Who is “you” here?
 
-Why should we not love the world or anything in the world?
+5. Why should we not love the world or anything in the world?
 
-Who is the liar?
+6. Who is the liar?
 
-How can we know who the children of God are and who the children of the devil are?
+7. How can we know who the children of God are and who the children of the devil are?
 
-Why did Cain murder his brother Abel?
+8. Why did Cain murder his brother Abel?
 
-What is God’s command?
+9. What is God’s command?
 
 ---
 
 1 John 4-5
 
-Do not believe every spirit, but test the spirits to see whether they are from God. Why?
+1. Do not believe every spirit, but test the spirits to see whether they are from God. Why?
 
-What kind of spirit is from God, and what kind is not?
+2. What kind of spirit is from God, and what kind is not?
 
-Who does love come from?
+3. Who does love come from?
 
-Who is love?
+4. Who is love?
 
-How has God shown his love among us?
+5. How has God shown his love among us?
 
-Whoever acknowledges that Jesus is the Son of God—what is the relationship between God and that person?
+6. Whoever acknowledges that Jesus is the Son of God—what is the relationship between God and that person?
 
-There is no what in love?
+7. There is no what in love?
 
-What does perfect love drive out?
+8. What does perfect love drive out?
 
-We love because who first loved us?
+9. We love because who first loved us?
 
-What command has God given us?
+10. What command has God given us?
 
-What kind of person overcomes the world?
+11. What kind of person overcomes the world?
 
-What is the victory that has overcome the world?
+12. What is the victory that has overcome the world?
 
-Who is it that overcomes the world?
+13. Who is it that overcomes the world?
 
-There are three that testify. What are they?
+14. There are three that testify. What are they?
 
-Since we accept human testimony, why should we accept God’s testimony as greater?
+15. Since we accept human testimony, why should we accept God’s testimony as greater?
 
-What is this testimony?
+16. What is this testimony?
 
-God has given us eternal life, and this life is in whom?
+17. God has given us eternal life, and this life is in whom?
 
-John says, “I write these things to you who believe in the name of the Son of God.” What does he want them to know that they have?
+18. John says, “I write these things to you who believe in the name of the Son of God.” What does he want them to know that they have?
 
 ---
 

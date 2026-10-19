@@ -14,49 +14,49 @@ title: 1 Peter Study Questions
 
 1 Peter 1-3
 
-Why can there be grief now, even though there is also great joy?
+1. Why can there be grief now, even though there is also great joy?
 
-Where does the quotation “Be holy, because I am holy” come from?
+2. Where does the quotation “Be holy, because I am holy” come from?
 
-All people are like what, and all their glory is like what?
+3. All people are like what, and all their glory is like what?
 
-The grass withers and the flowers fall, but what endures forever?
+4. The grass withers and the flowers fall, but what endures forever?
 
-What is the word that was preached to you?
+5. What is the word that was preached to you?
 
-Where do the quotations “See, I lay a stone in Zion, a chosen and precious cornerstone, and the one who trusts in him will never be put to shame,” “The stone the builders rejected has become the cornerstone,” and “A stone that causes people to stumble and a rock that makes them fall” come from?
+6. Where do the quotations “See, I lay a stone in Zion, a chosen and precious cornerstone, and the one who trusts in him will never be put to shame,” “The stone the builders rejected has become the cornerstone,” and “A stone that causes people to stumble and a rock that makes them fall” come from?
 
-Why are they quoted here?
+7. Why are they quoted here?
 
-Where does the quotation “Once you were not a people, but now you are the people of God; once you had not received mercy, but now you have received mercy” come from?
+8. Where does the quotation “Once you were not a people, but now you are the people of God; once you had not received mercy, but now you have received mercy” come from?
 
-Who bore our sins in his body on the cross, so that we might die to what and live to what?
+9. Who bore our sins in his body on the cross, so that we might die to what and live to what?
 
-Where does the quotation “By his wounds you have been healed” come from?
+10. Where does the quotation “By his wounds you have been healed” come from?
 
-“For this is the way the holy women of the past who put their hope in God used to adorn themselves, submitting themselves to their own husbands…” What does “this” refer to?
+11. “For this is the way the holy women of the past who put their hope in God used to adorn themselves, submitting themselves to their own husbands…” What does “this” refer to?
 
-Where does the passage “Whoever would love life and see good days must keep their tongue from evil and their lips from deceitful speech…” come from?
+12. Where does the passage “Whoever would love life and see good days must keep their tongue from evil and their lips from deceitful speech…” come from?
 
-“Through whom also he went and preached to the spirits in prison.” Who are “the spirits in prison”?
+13. “Through whom also he went and preached to the spirits in prison.” Who are “the spirits in prison”?
 
 ---
 
 1 Peter 4-5
 
-Above all, what should you do, and why?
+1. Above all, what should you do, and why?
 
-Dear friends, do not be surprised at the fiery ordeal that has come on you to test you, but rejoice. Why?
+2. Dear friends, do not be surprised at the fiery ordeal that has come on you to test you, but rejoice. Why?
 
-If you suffer as a Christian, do not be ashamed, but what should you do, and why?
+3. If you suffer as a Christian, do not be ashamed, but what should you do, and why?
 
-Be shepherds of God’s flock that is under your care, watching over them according to whose will; not pursuing what, not because of what, but because of what? Not lording it over those entrusted to you, but being examples to the flock.
+4. Be shepherds of God’s flock that is under your care, watching over them according to whose will; not pursuing what, not because of what, but because of what? Not lording it over those entrusted to you, but being examples to the flock.
 
-When the Chief Shepherd appears, what kind of crown of glory will you receive?
+5. When the Chief Shepherd appears, what kind of crown of glory will you receive?
 
-Younger people, submit yourselves to your elders. All of you, clothe yourselves with humility toward one another. Why?
+6. Younger people, submit yourselves to your elders. All of you, clothe yourselves with humility toward one another. Why?
 
-Be alert and of sober mind. Why must you be watchful?
+7. Be alert and of sober mind. Why must you be watchful?
 
 ---
 

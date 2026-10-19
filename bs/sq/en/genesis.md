@@ -18,11 +18,11 @@ Genesis 1-4
 ---
 
 
-Can you remember on which day God created humans?
+1. Can you remember on which day God created humans?
 
-How were they created?
+2. How were they created?
 
-The Chinese translation of “greed” is 婪. Do you notice any connection between the structure of the word “婪” (two trees and one woman) and the origin of sin?
+3. The Chinese translation of “greed” is 婪. Do you notice any connection between the structure of the word “婪” (two trees and one woman) and the origin of sin?
 
 ---
 
@@ -32,9 +32,9 @@ Genesis 5-8
 ---
 
 
-Did anyone in the genealogies in chapter 5 get drowned by the flood?
+1. Did anyone in the genealogies in chapter 5 get drowned by the flood?
 
-The Chinese translation of “ark” is 船. Does the structure of the word “船” (one boat and eight people) suggest a deeper meaning to you?
+2. The Chinese translation of “ark” is 船. Does the structure of the word “船” (one boat and eight people) suggest a deeper meaning to you?
 
 ---
 
@@ -44,11 +44,11 @@ Genesis 9-12
 ---
 
 
-What covenant did God make with Noah and his descendants, including you and me?
+1. What covenant did God make with Noah and his descendants, including you and me?
 
-When Babel is being translated from Hebrew into English, what is it also called?
+2. When Babel is being translated from Hebrew into English, what is it also called?
 
-Or, to put it another way, there is a city in the Bible whose name comes from the same Hebrew word as Babel. Which city is it?
+3. Or, to put it another way, there is a city in the Bible whose name comes from the same Hebrew word as Babel. Which city is it?
 
 ---
 
@@ -58,9 +58,9 @@ Genesis 13–16
 ---
 
 
-What covenant did God make with Abram?
+1. What covenant did God make with Abram?
 
-Who came out to meet Abram with bread and wine?
+2. Who came out to meet Abram with bread and wine?
 
 ---
 
@@ -70,9 +70,9 @@ Genesis 17–20
 ---
 
 
-What new names did God give to Abram and Sarai, and what do they mean?
+1. What new names did God give to Abram and Sarai, and what do they mean?
 
-Why did God destroy Sodom and Gomorrah?
+2. Why did God destroy Sodom and Gomorrah?
 
 ---
 
@@ -82,13 +82,13 @@ Genesis 21–24
 ---
 
 
-How old was Abram when he left Haran?
+1. How old was Abram when he left Haran?
 
-How old was he when Isaac was born?
+2. How old was he when Isaac was born?
 
-What does Jehovah-jireh mean?
+3. What does Jehovah-jireh mean?
 
-Was Isaac’s wife a Canaanite?
+4. Was Isaac’s wife a Canaanite?
 
 ---
 
@@ -98,13 +98,13 @@ Genesis 25–28
 ---
 
 
-Why was Esau also called Edom?
+1. Why was Esau also called Edom?
 
-Comparing Genesis 26:7 with Genesis 26:16 and 26:28–29, what do you observe?
+2. Comparing Genesis 26:7 with Genesis 26:16 and 26:28–29, what do you observe?
 
-When Jacob deceived Isaac to receive the blessing, what methods did Isaac use to determine whether he was really Esau?
+3. When Jacob deceived Isaac to receive the blessing, what methods did Isaac use to determine whether he was really Esau?
 
-What does Bethel mean?
+4. What does Bethel mean?
 
 ---
 
@@ -114,11 +114,11 @@ Genesis 29–32
 ---
 
 
-Jacob deceived his father, who then deceived Jacob?
+1. Jacob deceived his father, who then deceived Jacob?
 
-How many years did Jacob serve Laban?
+2. How many years did Jacob serve Laban?
 
-Why was Jacob also called Israel?
+3. Why was Jacob also called Israel?
 
 ---
 
@@ -128,15 +128,15 @@ Genesis 33–36
 ---
 
 
-Where did Jacob tell Esau he was going?
+1. Where did Jacob tell Esau he was going?
 
-But where did he actually go instead?
+2. But where did he actually go instead?
 
-How many sons did Jacob have?
+3. How many sons did Jacob have?
 
-After Isaac died, where did Jacob live?
+4. After Isaac died, where did Jacob live?
 
-Where did Esau live?
+5. Where did Esau live?
 
 ---
 
@@ -146,15 +146,15 @@ Genesis 37–40
 ---
 
 
-For how much silver was Joseph sold by his brothers?
+1. For how much silver was Joseph sold by his brothers?
 
-After he was sold, who was with him so that everything he did prospered?
+2. After he was sold, who was with him so that everything he did prospered?
 
-Did Joseph refuse Potiphar’s wife because he was afraid of offending his master?
+3. Did Joseph refuse Potiphar’s wife because he was afraid of offending his master?
 
-At this time, Judah slept with someone he should not have—who was she?
+4. At this time, Judah slept with someone he should not have—who was she?
 
-From whom did Joseph’s ability to interpret dreams come?
+5. From whom did Joseph’s ability to interpret dreams come?
 
 ---
 
@@ -164,15 +164,15 @@ Genesis 41–44
 ---
 
 
-How old was Joseph when he governed the whole land of Egypt?
+1. How old was Joseph when he governed the whole land of Egypt?
 
-When they first went to Egypt to buy grain, how many sons did Jacob send?
+2. When they first went to Egypt to buy grain, how many sons did Jacob send?
 
-Whom did Joseph keep in custody while the other brothers returned to bring their youngest brother?
+3. Whom did Joseph keep in custody while the other brothers returned to bring their youngest brother?
 
-In whose bag was the lost cup found?
+4. In whose bag was the lost cup found?
 
-Who was willing to become Joseph’s slave in place of another?
+5. Who was willing to become Joseph’s slave in place of another?
 
 ---
 
@@ -182,17 +182,17 @@ Genesis 45–48
 ---
 
 
-Who do you think sent Joseph to Egypt?
+1. Who do you think sent Joseph to Egypt?
 
-Who would go down to Egypt with Jacob and surely bring him back up again?
+2. Who would go down to Egypt with Jacob and surely bring him back up again?
 
-How many people from Jacob’s family came to Egypt in total?
+3. How many people from Jacob’s family came to Egypt in total?
 
-How old was Jacob when he went down to Egypt?
+4. How old was Jacob when he went down to Egypt?
 
-How many years did Jacob live?
+5. How many years did Jacob live?
 
-Which of Jacob’s sons received a double portion?
+6. Which of Jacob’s sons received a double portion?
 
 ---
 
@@ -202,13 +202,13 @@ Genesis 49–50
 ---
 
 
-Which son received the greatest blessing from Jacob?
+1. Which son received the greatest blessing from Jacob?
 
-After Jacob died, was he buried in Egypt?
+2. After Jacob died, was he buried in Egypt?
 
-After his father’s death, did Joseph intend to repay his brothers for their evil deeds?
+3. After his father’s death, did Joseph intend to repay his brothers for their evil deeds?
 
-Before his death, how did Joseph ask the Israelites to deal with his bones?
+4. Before his death, how did Joseph ask the Israelites to deal with his bones?
 
 ---
 

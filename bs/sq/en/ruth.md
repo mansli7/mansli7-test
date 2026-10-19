@@ -18,17 +18,17 @@ Ruth 1–4
 ---
 
 
-What did Ruth say that made Naomi realize she was determined to follow her back to Israel?
+1. What did Ruth say that made Naomi realize she was determined to follow her back to Israel?
 
-Ruth left her father and mother and her homeland and came to live with a people she did not know—the people of Israel. Under whose wings did she take refuge?
+2. Ruth left her father and mother and her homeland and came to live with a people she did not know—the people of Israel. Under whose wings did she take refuge?
 
-Was Boaz willing to spread the corner of his garment over Ruth?
+3. Was Boaz willing to spread the corner of his garment over Ruth?
 
-Why or why not?
+4. Why or why not?
 
-Whose grandfather was the son of Boaz and Ruth?
+5. Whose grandfather was the son of Boaz and Ruth?
 
-Both being Moabite women, what is the difference between Ruth and the woman mentioned in Numbers 25?
+6. Both being Moabite women, what is the difference between Ruth and the woman mentioned in Numbers 25?
 
 ---
 

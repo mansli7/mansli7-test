@@ -14,9 +14,9 @@ title: Philemon Study Questions
 
 Philemon
 
-Where was Paul when he wrote Philemon?
+1. Where was Paul when he wrote Philemon?
 
-On whose behalf did Paul appeal to Philemon, and what was this person’s relationship with Paul and with Philemon?
+2. On whose behalf did Paul appeal to Philemon, and what was this person’s relationship with Paul and with Philemon?
 
 ---
 

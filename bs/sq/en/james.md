@@ -14,45 +14,45 @@ title: James Study Questions
 
 James 1-3
 
-Why should you consider it pure joy whenever you face trials of many kinds?
+1. Why should you consider it pure joy whenever you face trials of many kinds?
 
-What should the brother in humble circumstances do when he is lifted up, and what about the rich when he is brought low?
+2. What should the brother in humble circumstances do when he is lifted up, and what about the rich when he is brought low?
 
-Why is the person who perseveres under trial blessed?
+3. Why is the person who perseveres under trial blessed?
 
-What is the relationship between desire, sin, and death?
+4. What is the relationship between desire, sin, and death?
 
-Everyone should be quick to listen and slow to do what?
+5. Everyone should be quick to listen and slow to do what?
 
-What is a person who hears the word but does not do what it says like?
+6. What is a person who hears the word but does not do what it says like?
 
-Why is it a sin to show favoritism?
+7. Why is it a sin to show favoritism?
 
-Using Abraham as an example, what is the relationship between faith and deeds?
+8. Using Abraham as an example, what is the relationship between faith and deeds?
 
-If someone is never at fault in what they say, what kind of person is he, and what else is he able to control?
+9. If someone is never at fault in what they say, what kind of person is he, and what else is he able to control?
 
-What can no one tame, and what is it described as—a restless evil, full of what?
+10. What can no one tame, and what is it described as—a restless evil, full of what?
 
-What kind of wisdom is earthly, unspiritual and demonic?
+11. What kind of wisdom is earthly, unspiritual and demonic?
 
-What kind of wisdom comes from heaven?
+12. What kind of wisdom comes from heaven?
 
 ---
 
 James 4-5
 
-What causes the fights and quarrels among you?
+1. What causes the fights and quarrels among you?
 
-What kind of people does God oppose, and to whom does he give grace?
+2. What kind of people does God oppose, and to whom does he give grace?
 
-Which should you say: “Today or tomorrow we will go to this or that city, spend a year there, carry on business and make money,” or “If it is the Lord’s will, we will live and do this or that”?
+3. Which should you say: “Today or tomorrow we will go to this or that city, spend a year there, carry on business and make money,” or “If it is the Lord’s will, we will live and do this or that”?
 
-“As you know, we count as blessed those who have persevered.” Find one such person in the Bible.
+4. “As you know, we count as blessed those who have persevered.” Find one such person in the Bible.
 
-Give an example that shows that “the prayer of a righteous person is powerful and effective.”
+5. Give an example that shows that “the prayer of a righteous person is powerful and effective.”
 
-When someone turns a sinner from the error of their way, what do they save from death, and what do they cover over?
+6. When someone turns a sinner from the error of their way, what do they save from death, and what do they cover over?
 
 ---
 

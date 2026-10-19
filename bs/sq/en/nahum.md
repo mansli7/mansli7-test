@@ -14,35 +14,35 @@ title: Nahum Study Questions
 
 Nahum 1-3
 
-What is the vision given to Nahum concerning?
+1. What is the vision given to Nahum concerning?
 
-Who is slow to anger and great in power, and will not leave the guilty unpunished?
+2. Who is slow to anger and great in power, and will not leave the guilty unpunished?
 
-Who is good, a refuge in times of trouble, and cares for those who trust in Him?
+3. Who is good, a refuge in times of trouble, and cares for those who trust in Him?
 
-What place will the LORD make an end of with an overwhelming flood, and where will He pursue His foes?
+4. What place will the LORD make an end of with an overwhelming flood, and where will He pursue His foes?
 
-Which city, though its people have allies and are numerous, will be destroyed and pass away?
+5. Which city, though its people have allies and are numerous, will be destroyed and pass away?
 
-Against whom is the LORD of hosts?
+6. Against whom is the LORD of hosts?
 
-What will He burn up in smoke?
+7. What will He burn up in smoke?
 
-What will the sword devour?
+8. What will the sword devour?
 
-What will He leave them no more of on the earth?
+9. What will He leave them no more of on the earth?
 
-What will no longer be heard?
+10. What will no longer be heard?
 
-What are the Assyrian guards like?
+11. What are the Assyrian guards like?
 
-What are their officials like?
+12. What are their officials like?
 
-When do they settle in the walls?
+13. When do they settle in the walls?
 
-When do they fly away?
+14. When do they fly away?
 
-Does anyone know where they have gone?
+15. Does anyone know where they have gone?
 
 ---
 

@@ -14,17 +14,17 @@ title: Habakkuk Study Questions
 
 Habakkuk 1-3
 
-The LORD said, “I am going to do something in your days that you would not believe even if you were told.” What is He going to do?
+1. The LORD said, “I am going to do something in your days that you would not believe even if you were told.” What is He going to do?
 
-How can Habakkuk 2:3 be understood in simple words? “For the revelation awaits an appointed time… Though it linger, wait for it; it will certainly come and will not delay.”
+2. How can Habakkuk 2:3 be understood in simple words? “For the revelation awaits an appointed time… Though it linger, wait for it; it will certainly come and will not delay.”
 
-In which books of the Bible is the phrase “the righteous shall live by his faith” quoted?
+3. In which books of the Bible is the phrase “the righteous shall live by his faith” quoted?
 
-What did Habakkuk hear that made him stand in awe of the LORD’s deeds?
+4. What did Habakkuk hear that made him stand in awe of the LORD’s deeds?
 
-What did he hear that caused his heart to pound, his lips to quiver, and decay to enter his bones?
+5. What did he hear that caused his heart to pound, his lips to quiver, and decay to enter his bones?
 
-In whom will Habakkuk rejoice and be joyful?
+6. In whom will Habakkuk rejoice and be joyful?
 
 ---
 

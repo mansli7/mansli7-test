@@ -14,31 +14,31 @@ title: Song of Solomon Study Questions
 
 Song of Solomon 1-4
 
-What does she call him, and what does he call her?
+1. What does she call him, and what does he call her?
 
-How does he answer her question, “Where do you pasture your flock?”
+2. How does he answer her question, “Where do you pasture your flock?”
 
-Whom does she regard as a sachet of myrrh that rests between her breasts?
+3. Whom does she regard as a sachet of myrrh that rests between her breasts?
 
-Among the young women, where is his beloved like a lily?
+4. Among the young women, where is his beloved like a lily?
 
-Among the young men, where is her beloved like an apple tree?
+5. Among the young men, where is her beloved like an apple tree?
 
-Where did she look for him, and did she eventually find him?
+6. Where did she look for him, and did she eventually find him?
 
-How does he describe her eyes, hair, teeth, lips, mouth, temples, neck, and breasts?
+7. How does he describe her eyes, hair, teeth, lips, mouth, temples, neck, and breasts?
 
 ---
 
 Song of Solomon 5-8
 
-How does she describe his head, hair, eyes, cheeks, lips, hands, body, legs, appearance, and mouth?
+1. How does she describe his head, hair, eyes, cheeks, lips, hands, body, legs, appearance, and mouth?
 
-She belongs to her beloved; to whom does her beloved belong?
+2. She belongs to her beloved; to whom does her beloved belong?
 
-What is it that many waters cannot quench and rivers cannot sweep away?
+3. What is it that many waters cannot quench and rivers cannot sweep away?
 
-Whom does she ask to come quickly?
+4. Whom does she ask to come quickly?
 
 ---
 

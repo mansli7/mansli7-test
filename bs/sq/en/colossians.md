@@ -14,29 +14,29 @@ title: Colossians Study Questions
 
 Colossians 1-4
 
-We always thank God, the Father of our Lord Jesus Christ, when we pray for you, because we have heard about what?
+1. We always thank God, the Father of our Lord Jesus Christ, when we pray for you, because we have heard about what?
 
-What has the Father rescued us from, and where has he brought us?
+2. What has the Father rescued us from, and where has he brought us?
 
-Where do we have redemption, the forgiveness of sins?
+3. Where do we have redemption, the forgiveness of sins?
 
-Who is the image of the invisible God, the firstborn over all creation? Why?
+4. Who is the image of the invisible God, the firstborn over all creation? Why?
 
-“The mystery that has been kept hidden for ages and generations, but is now disclosed to the Lord’s people.” What is this “mystery that has been kept hidden”?
+5. “The mystery that has been kept hidden for ages and generations, but is now disclosed to the Lord’s people.” What is this “mystery that has been kept hidden”?
 
-What is the mystery of God?
+6. What is the mystery of God?
 
-“These are a shadow of the things that were to come; the reality, however, is found in Christ.” What are “these,” and who is the reality?
+7. “These are a shadow of the things that were to come; the reality, however, is found in Christ.” What are “these,” and who is the reality?
 
-Why should you set your minds on things above, not on earthly things?
+8. Why should you set your minds on things above, not on earthly things?
 
-Since you are God’s chosen people, holy and dearly loved, what kind of heart should you have?
+9. Since you are God’s chosen people, holy and dearly loved, what kind of heart should you have?
 
-Whatever you do, work at it with all your heart, as working for the Lord, not for human masters. Why?
+10. Whatever you do, work at it with all your heart, as working for the Lord, not for human masters. Why?
 
-“And pray for us, too, that God may open a door for our message, so that we may proclaim the mystery of Christ, for which I am in chains.” Do you remember which other book of the Bible tells us about the “mystery of Christ”?
+11. “And pray for us, too, that God may open a door for our message, so that we may proclaim the mystery of Christ, for which I am in chains.” Do you remember which other book of the Bible tells us about the “mystery of Christ”?
 
-Where was Paul when he wrote Colossians?
+12. Where was Paul when he wrote Colossians?
 
 ---
 

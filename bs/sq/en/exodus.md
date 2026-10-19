@@ -18,19 +18,19 @@ Exodus 1-4
 ---
 
 
-What are the names of the two store cities?
+1. What are the names of the two store cities?
 
-Did Pharaoh command all his people to throw the Hebrew boys or girls into the Nile?
+2. Did Pharaoh command all his people to throw the Hebrew boys or girls into the Nile?
 
-What does the name “Moses” mean?
+3. What does the name “Moses” mean?
 
-Who is Moses’ wife?
+4. Who is Moses’ wife?
 
-With whom did the God remember His covenant?
+5. With whom did the God remember His covenant?
 
-What is the God’s name?
+6. What is the God’s name?
 
-What are the two signs the LORD told Moses to perform?
+7. What are the two signs the LORD told Moses to perform?
 
 ---
 
@@ -40,15 +40,15 @@ Exodus 5-8
 ---
 
 
-Does Pharaoh know the LORD?
+1. Does Pharaoh know the LORD?
 
-Could the water turn into blood?
+2. Could the water turn into blood?
 
-Could the dust turn into gnats?
+3. Could the dust turn into gnats?
 
-How did Pharaoh’s heart react after each sign?
+4. How did Pharaoh’s heart react after each sign?
 
-Could the Egyptian magicians’ secret arts stop God’s signs?
+5. Could the Egyptian magicians’ secret arts stop God’s signs?
 
 ---
 
@@ -58,17 +58,17 @@ Exodus 9-12
 ---
 
 
-Why did the LORD raise Pharaoh up?
+1. Why did the LORD raise Pharaoh up?
 
-After the hail and locusts, was anything green left in Egypt?
+2. After the hail and locusts, was anything green left in Egypt?
 
-When total darkness covered all Egypt for three days, where was there light?
+3. When total darkness covered all Egypt for three days, where was there light?
 
-On which day is the Passover?
+4. On which day is the Passover?
 
-What sign did the LORD see that caused Him to pass over?
+5. What sign did the LORD see that caused Him to pass over?
 
-How many years did the Israelites live in Egypt in total?
+6. How many years did the Israelites live in Egypt in total?
 
 ---
 
@@ -78,23 +78,23 @@ Exodus 13-16
 ---
 
 
-Whose bones did Moses take with him?
+1. Whose bones did Moses take with him?
 
-Who led Israel by day with a pillar of cloud and by night with a pillar of fire?
+2. Who led Israel by day with a pillar of cloud and by night with a pillar of fire?
 
-What was between the armies of Egyptian and Israel?
+3. What was between the armies of Egyptian and Israel?
 
-Did Israel cross the Red Sea by boat?
+4. Did Israel cross the Red Sea by boat?
 
-Whose right hand was majestic in power, shattered the enemy, and the earth swallowed them?
+5. Whose right hand was majestic in power, shattered the enemy, and the earth swallowed them?
 
-Could the bitter water become sweet?
+6. Could the bitter water become sweet?
 
-What did the manna look like?
+7. What did the manna look like?
 
-What were its color and taste?
+8. What were its color and taste?
 
-How many years did the Israelites eat manna?
+9. How many years did the Israelites eat manna?
 
 ---
 
@@ -104,17 +104,17 @@ Exodus 17-20
 ---
 
 
-Could water flow from a rock?
+1. Could water flow from a rock?
 
-What does Jehovahnissi mean?
+2. What does Jehovahnissi mean?
 
-(This is the KJV name; it may differ in NIV.)
+3. (This is the KJV name; it may differ in NIV.)
 
-When did Israel arrive at the Desert of Sinai?
+4. When did Israel arrive at the Desert of Sinai?
 
-What kind of treasured possession, kingdom, and nation did the LORD want the Israelites to be?
+5. What kind of treasured possession, kingdom, and nation did the LORD want the Israelites to be?
 
-Apart from the LORD, can there be other gods?
+6. Apart from the LORD, can there be other gods?
 
 ---
 
@@ -124,15 +124,15 @@ Exodus 21-24
 ---
 
 
-For a Hebrew servant, in which year shall he go free?
+1. For a Hebrew servant, in which year shall he go free?
 
-How should someone who sacrifices to any god other than the LORD, be treated?
+2. How should someone who sacrifices to any god other than the LORD, be treated?
 
-In which year should the land lie unploughed and unused?
+3. In which year should the land lie unploughed and unused?
 
-Three times a year, which festivals should be celebrated?
+4. Three times a year, which festivals should be celebrated?
 
-What is the evidence of the covenant?
+5. What is the evidence of the covenant?
 
 ---
 
@@ -142,23 +142,23 @@ Exodus 25-28
 ---
 
 
-Where were the tablets of the covenant law to be placed?
+1. Where were the tablets of the covenant law to be placed?
 
-Where did the LORD speak with Moses about everything He wanted Moses to command the Israelites?
+2. Where did the LORD speak with Moses about everything He wanted Moses to command the Israelites?
 
-What was to be placed on the table at all times?
+3. What was to be placed on the table at all times?
 
-Was the lampstand made of bronze?
+4. Was the lampstand made of bronze?
 
-What was the curtain to separate?
+5. What was the curtain to separate?
 
-Where was the Ark of the Covenant to be placed?
+6. Where was the Ark of the Covenant to be placed?
 
-Was the altar covered with gold?
+7. Was the altar covered with gold?
 
-Who was to serve the LORD as priests?
+8. Who was to serve the LORD as priests?
 
-On what was “HOLY TO THE LORD” engraved?
+9. On what was “HOLY TO THE LORD” engraved?
 
 ---
 
@@ -168,21 +168,21 @@ Exodus 29-32
 ---
 
 
-Where was the bull for the sin offering to be slaughtered?
+1. Where was the bull for the sin offering to be slaughtered?
 
-Who would dwell among the Israelites and be their God?
+2. Who would dwell among the Israelites and be their God?
 
-How often was Aaron to make atonement on the horns of the altar?
+3. How often was Aaron to make atonement on the horns of the altar?
 
-How much was each person to give as atonement money?
+4. How much was each person to give as atonement money?
 
-When Aaron and his sons entered the tent of meeting, were they to wash their hands and feet?
+5. When Aaron and his sons entered the tent of meeting, were they to wash their hands and feet?
 
-What was the sacred anointing oil used for?
+6. What was the sacred anointing oil used for?
 
-From whom did Bezalel receive wisdom to do all the work of the tent of meeting?
+7. From whom did Bezalel receive wisdom to do all the work of the tent of meeting?
 
-After the Israelites made the golden calf and the LORD said he would destroy them, who pleaded with the LORD on their behalf?
+8. After the Israelites made the golden calf and the LORD said he would destroy them, who pleaded with the LORD on their behalf?
 
 ---
 
@@ -192,17 +192,17 @@ Exodus 33-36
 ---
 
 
-Did Moses see the LORD’s face or back?
+1. Did Moses see the LORD’s face or back?
 
-What name did the LORD proclaim?
+2. What name did the LORD proclaim?
 
-Can the Israelites make a covenant with the Canaanites?
+3. Can the Israelites make a covenant with the Canaanites?
 
-When did Moses cover his face with a veil and when did he remove it?
+4. When did Moses cover his face with a veil and when did he remove it?
 
-Were the offerings the Israelites offered to the LORD voluntary or forced?
+5. Were the offerings the Israelites offered to the LORD voluntary or forced?
 
-Were the offerings sufficient?
+6. Were the offerings sufficient?
 
 ---
 
@@ -212,13 +212,13 @@ Exodus 37-40
 ---
 
 
-Where are the four gold rings on the Ark placed?
+1. Where are the four gold rings on the Ark placed?
 
-How much gold, silver, and bronze did the Israelites dedicate for the sanctuary?
+2. How much gold, silver, and bronze did the Israelites dedicate for the sanctuary?
 
-According to whose command was all the work on the tabernacle completed?
+3. According to whose command was all the work on the tabernacle completed?
 
-How long was it from leaving Egypt until the tabernacle was set up?
+4. How long was it from leaving Egypt until the tabernacle was set up?
 
 ---
 

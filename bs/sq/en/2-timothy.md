@@ -14,23 +14,23 @@ title: 2 Timothy Study Questions
 
 2 Timothy 1-4
 
-What kind of spirit did God give us, rather than one that makes us timid?
+1. What kind of spirit did God give us, rather than one that makes us timid?
 
-God saved us and called us to a holy life, not because of our works but because of what?
+2. God saved us and called us to a holy life, not because of our works but because of what?
 
-If we died with Christ, what will we also do with him? If we endure, what will we also do with him? If we disown him, what will he also do? If we are faithless, what will he remain? Why? Who can he not disown?
+3. If we died with Christ, what will we also do with him? If we endure, what will we also do with him? If we disown him, what will he also do? If we are faithless, what will he remain? Why? Who can he not disown?
 
-Join me in suffering, like what kind of soldier of Christ Jesus?
+4. Join me in suffering, like what kind of soldier of Christ Jesus?
 
-What should you do to present yourself to God as one approved, a worker who does what, correctly handling the word of truth?
+5. What should you do to present yourself to God as one approved, a worker who does what, correctly handling the word of truth?
 
-God’s solid foundation stands firm. What does its seal say first, and what does it say next?
+6. God’s solid foundation stands firm. What does its seal say first, and what does it say next?
 
-Why should you know that there will be terrible times in the last days?
+7. Why should you know that there will be terrible times in the last days?
 
-Who inspired all Scripture, and what is it useful for—for teaching, rebuking, correcting and training in righteousness?
+8. Who inspired all Scripture, and what is it useful for—for teaching, rebuking, correcting and training in righteousness?
 
-What will the Lord rescue me from, and what will he bring me safely into? To whom be glory for how long? Amen.
+9. What will the Lord rescue me from, and what will he bring me safely into? To whom be glory for how long? Amen.
 
 ---
 
