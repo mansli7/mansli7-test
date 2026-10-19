@@ -106,11 +106,19 @@ At that time, why will the moon be dismayed and the sun ashamed?
 
 Isaiah 25-28
 
-What will the LORD GOD sqallow up forever; what will He wipe away from all faces; what will He remove from all the earth?
+What will the LORD GOD swallow up forever; what will He wipe away from all faces; what will He remove from all the earth?
 
 On that day, the LORD will punish Leviathan with His fierce, great and powerful sword, what does Leviathan represent here?
 
-The Lord places what in Zion as a foundation? Has it been tested? Is it firm? Is it a precious cornerstone? Do those who trust in it need to worry? What does the Lord lay in Zion for a foundation? Has it been tested? Is it firm? Is it a precious cornerstone? Will the one who trusts in it panic?
+What does the Lord lay in Zion for a foundation?
+
+Has it been tested?
+
+Is it firm?
+
+Is it a precious cornerstone?
+
+Will the one who trusts in it panic?
 
 ---
 

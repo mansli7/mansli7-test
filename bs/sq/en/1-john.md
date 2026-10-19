@@ -56,7 +56,11 @@ We love because who first loved us?
 
 What command has God given us?
 
-Who is it that overcomes the world? What is the victory that has overcome the world? Who is it that overcomes the world?
+What kind of person overcomes the world?
+
+What is the victory that has overcome the world?
+
+Who is it that overcomes the world?
 
 There are three that testify. What are they?
 
