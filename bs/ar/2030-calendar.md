@@ -184,7 +184,7 @@ title: 2030 Bible Reading Calendar
         var questionLines = prompts.reduce(function(lines, prompt) {
           return lines.concat(readingPlan.promptList(prompt));
         }, []).map(function(line) { return line.trim(); }).filter(Boolean);
-        html += questionLines.map(function(question) { return '<p class="sq-para">' + question + '</p>'; }).join('');
+        html += questionLines.map(function(question, index) { return '<p class="sq-para">' + (index + 1) + '. ' + question + '</p>'; }).join('');
       } else {
         html += '<p class="sq-para">' + (languageIsZh ? '此書卷目前沒有可載入的對應問題。' : 'No matching prompts are currently available for this reading.') + '</p>';
       }

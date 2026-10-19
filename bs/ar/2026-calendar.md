@@ -203,13 +203,13 @@ title: 2026 Bible Reading Calendar
         html += '<div class="card-en">';
         var exactEnParts = splitIntoPrompts(exact.en, 'en');
         for (var i = 0; i < exactEnParts.length; i++) {
-          html += '<p class="sq-para">' + exactEnParts[i] + '</p>';
+          html += '<p class="sq-para">' + (i + 1) + '. ' + exactEnParts[i] + '</p>';
         }
         html += '</div>';
         html += '<div class="card-zh" style="display:none;">';
         var exactZhParts = splitIntoPrompts(exact.zh, 'zh');
         for (var k = 0; k < exactZhParts.length; k++) {
-          html += '<p class="sq-para">' + exactZhParts[k] + '</p>';
+          html += '<p class="sq-para">' + (k + 1) + '. ' + exactZhParts[k] + '</p>';
         }
         html += '</div>';
         html += '<a class="card-en cal-bg-link" href="' + exactSqHref('en', parsed) + '">Open full ' + parsed.en + ' page →</a>';
@@ -390,13 +390,13 @@ title: 2026 Bible Reading Calendar
                 if (en && en.length) {
                   out += '<div class="card-en">';
                   var enPartsLoaded = splitIntoPrompts(en, 'en');
-                  enPartsLoaded.forEach(function(p){ out += '<p class="sq-para">' + p + '</p>'; });
+                  enPartsLoaded.forEach(function(p, i){ out += '<p class="sq-para">' + (i + 1) + '. ' + p + '</p>'; });
                   out += '</div>';
                 }
                 if (zh && zh.length) {
                   out += '<div class="card-zh" style="display:none;">';
                   var zhPartsLoaded = splitIntoPrompts(zh, 'zh');
-                  zhPartsLoaded.forEach(function(p){ out += '<p class="sq-para">' + p + '</p>'; });
+                  zhPartsLoaded.forEach(function(p, i){ out += '<p class="sq-para">' + (i + 1) + '. ' + p + '</p>'; });
                   out += '</div>';
                 }
                 out += '<a class="card-en cal-bg-link" href="' + exactSqHref('en', parsed) + '">Open full ' + parsed.en + ' page →</a>';
