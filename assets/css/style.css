@@ -65,6 +65,14 @@ nav .nav-link span.card-zh,
 p  { line-height: 1.7; margin-bottom: 0.75rem; }
 ul, ol { padding-left: 1.3rem; margin: 0.5rem 0 0.75rem; }
 li { margin-bottom: .3rem; }
+
+/* Markdown lists inside page content. Tailwind preflight sets list-style:none on
+   every list and loads after this file, so these need the extra specificity. */
+main .container ol { list-style: decimal; padding-left: 1.4rem; margin: 0.5rem 0 0.75rem; }
+main .container ul { list-style: disc; padding-left: 1.4rem; margin: 0.5rem 0 0.75rem; }
+main .container ol > li,
+main .container ul > li { margin-bottom: 0.5rem; }
+main .container li > p { margin-bottom: 0.35rem; }
 hr { border: 0; border-top: 1px solid #e2e8f0; margin: 1rem 0 1.5rem; }
 
 /* --- CTA buttons (JS-injected + study question nav buttons) */

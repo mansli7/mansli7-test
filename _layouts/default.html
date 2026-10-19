@@ -49,7 +49,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
 
   <!-- Site styles -->
-  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=2026-03-18' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=2026-10-20' | relative_url }}">
 
   <!-- Tailwind CSS (prebuilt & purged; rebuild with: npm run build:css).
        Must stay after style.css: the old CDN injected itself at runtime and so
@@ -357,6 +357,17 @@
             if (content && !/^[←]/.test(content)) {
               text += content + '\n\n';
             }
+          } else if (tag === 'ol' || tag === 'ul') {
+            // Numbered questions render as list items; keep their numbers.
+            var ordered = tag === 'ol';
+            var position = 0;
+            Array.prototype.forEach.call(node.children, function(item) {
+              if (item.tagName.toLowerCase() !== 'li') return;
+              var line = item.textContent.replace(/\s+/g, ' ').trim();
+              if (!line) return;
+              position += 1;
+              text += (ordered ? position + '. ' : '- ') + line + '\n\n';
+            });
           } else {
             var other = node.textContent.trim();
             if (other && !/^[←]/.test(other)) {
