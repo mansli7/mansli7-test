@@ -182,7 +182,7 @@ title: 2031 Bible Reading Calendar
       var html = '<p class="sq-title">' + (languageIsZh ? '學習問題' : 'Study Questions') + '</p>';
       if (prompts && prompts.length) {
         var questionLines = prompts.reduce(function(lines, prompt) {
-          return lines.concat(readingPlan.splitPrompt(prompt));
+          return lines.concat(readingPlan.promptList(prompt));
         }, []).map(function(line) { return line.trim(); }).filter(Boolean);
         html += questionLines.map(function(question) { return '<p class="sq-para">' + question + '</p>'; }).join('');
       } else {

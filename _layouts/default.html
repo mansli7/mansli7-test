@@ -56,7 +56,7 @@
        won the cascade against .container and the link resets. -->
   <link rel="stylesheet" href="{{ '/assets/css/tailwind.css?v=2026-10-01' | relative_url }}">
 
-  <script src="{{ '/assets/js/reading-plan-2026.js?v=2026-10-19-split' | relative_url }}"></script>
+  <script src="{{ '/assets/js/reading-plan-2026.js?v=2026-10-19-nosplit' | relative_url }}"></script>
   <script src="{{ '/assets/js/site-lang.js?v=2026-03-18' | relative_url }}"></script>
 </head>
 <body>
@@ -407,7 +407,7 @@
 
     function normalizePrompts(items) {
       if (!items || !items.length) return [];
-      return readingPlan.splitPrompts(items);
+      return readingPlan.promptList(items);
     }
 
     function renderWidget() {

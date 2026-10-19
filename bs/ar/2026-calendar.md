@@ -100,7 +100,7 @@ title: 2026 Bible Reading Calendar
   // Helper: split long prompt text (or arrays) into discrete prompt strings.
   function splitIntoPrompts(item, lang) {
     if (!item) return [];
-    return readingPlan.splitPrompts(item);
+    return readingPlan.promptList(item);
   }
 
   // ── Day-of-year counter ────────────────────────────────────────
